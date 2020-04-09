@@ -1,0 +1,49 @@
+číslo	number
+je	is (это)
+jméno	name
+jsem	I am
+opakujte	repeat
+přeložte	translate
+učitel	teacher (m)
+učitelka	teacher (f)
+věk	age
+pas	passport
+ale	but
+český	Czech
+dítě	child
+dobře	good (excellent)
+hezký	nice, good-looking
+holka	girl
+levý	left
+malý	small, little
+muž	man
+nebo	or
+peníze	money
+ruka	hand, arm
+srdce	heart
+stůl	table, desk
+žena	woman
+čtvrtek	Thursday
+čtyřicet	40
+deset	10
+devadesát	90
+dnes	today
+dva tisíce	2000
+dva	2
+jeden	1
+jedenáct	11
+kdy	when
+neděle	Sunday
+nula	0
+osm	8
+pátek	Friday
+pět	5
+poledne	noon
+ráno	morning
+rok	year
+sedm	7
+šest	6
+sobota	Saturday
+tři	3
+zítra	tomorrow
+anglicky	English
