@@ -1,49 +1,51 @@
-číslo	number
-je	is (это)
-jméno	name
-jsem	I am
-opakujte	repeat
-přeložte	translate
-učitel	teacher (m)
-učitelka	teacher (f)
+nula	0
+jeden	1
+dva	2
+tři	3
+čtyři 	4
+pět	5
+šest	6
+sedm	7
+osm	8
+devět	9
+deset	10
+jedenáct	11
+čtyřicet	40
+devadesát	90
+dva tisíce	2000
 věk	age
-pas	passport
 ale	but
-český	Czech
-dítě	child
-dobře	good (excellent)
-hezký	nice, good-looking
+dítě	child
+český	Czech
+anglicky	English
+pátek	Friday
 holka	girl
-levý	left
-malý	small, little
-muž	man
-nebo	or
-peníze	money
+dobře	good (excellent)
 ruka	hand, arm
 srdce	heart
-stůl	table, desk
-žena	woman
-čtvrtek	Thursday
-čtyřicet	40
-deset	10
-devadesát	90
-dnes	today
-dva tisíce	2000
-dva	2
-jeden	1
-jedenáct	11
-kdy	when
-neděle	Sunday
-nula	0
-osm	8
-pátek	Friday
-pět	5
+jsem	I am
+je	is (это)
+levý	left
+muž	man
+peníze	money
+ráno	morning
+jméno	name
+hezký	nice, good-looking
 poledne	noon
-ráno	morning
-rok	year
-sedm	7
-šest	6
+číslo	number
+nebo	or
+pas	passport
+opakujte	repeat
 sobota	Saturday
-tři	3
-zítra	tomorrow
-anglicky	English
+malý	small, little
+neděle	Sunday
+stůl	table, desk
+učitelka	teacher (f)
+učitel	teacher (m)
+čtvrtek	Thursday
+dnes	today
+zítra	tomorrow
+přeložte	translate
+kdy	when
+žena	woman
+rok	year

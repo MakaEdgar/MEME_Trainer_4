@@ -1,6 +1,5 @@
-./dicts
 .vscode
-
+memetrainer_old.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

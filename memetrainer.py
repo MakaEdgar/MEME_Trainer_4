@@ -1,180 +1,188 @@
-dictpath = "./dicts/cz1/cz1.txt"
-audiopath = "./dicts/cz1/cz1_audio/"
-
-
 import os
 import sys
-import pygame
 import random
-def play(word):
-    if word.audiofile is not None:
-        pygame.mixer.init()
-        pygame.mixer.music.load(word.audiofile)
-        pygame.mixer.music.play()
-
-
-    
-
-with open(dictpath, "r", encoding="UTF-8") as f:
-    dict_records = [record for record in f.read().strip(" ;\n\t").split("\n") if (record.strip()[0] != "#")]
-    dict_words = [Word(record) for record in dict_records]
-
-
-words_remain, words_done  = dict_words, []
-def get_word_index():
-    if len(words_remain) >= 1:
-        word_index = random.randint(0, len(words_remain)-1)
-    else:
-        word_index = -1
-    return word_index
-
-def get_word_by_index(word_index):
-    word = words_remain[word_index]
-    return word
-def remove_finished_word(word_index):
-    words_done.append(words_remain.pop(word_index))
-
-
+import pygame
+import copy
+from PyQt5 import QtWidgets
+import meme_gui
 
 class Word:
-    def __init__(self, record):
-        #print(record)
+    def __init__(self, record, settings=None):
         fields = [f.strip(" \t\r\n\"\'") for f in record.split("\t")]
-        self.item = fields[0]
-        self.value = fields[1]
-        self.audiofile = audiopath + self.item.replace(" ", "_") + "___" + "thx" + ".mp3"
+        self.word1 = fields[0]
+        self.word2 = fields[1]
+        self.audiofile = audiopath + self.word1.replace(" ", "_").replace(",", "_").replace(".", "_") + ".mp3"
         if not os.path.exists(self.audiofile):
             self.audiofile = None
-    def get_item(self):
-        return self.item
-    def get_value(self):
-        return self.value
-
 
 class WordDict:
-    def __init__(self):
-        pass
-    
+    def __init__(self, dict_path=None, settings=None):
+        if dict_path is not None:
+            with open(dictpath, "r", encoding="UTF-8") as f:
+                dict_records = [record for record in f.read().strip(" ;\r\n\t").split("\n") if (record.strip()[0] != "#")]
+                self.container_ = [Word(record) for record in dict_records]
+        else:
+            self.container_ = []
+
     def size(self):
-        pass
+        return len(self.container_)
 
     def add_word(self, word):
-        pass
+        self.container_.append(word)
+        
     def remove_word(self, word):
-        pass
-    def pop_word(self, word):
-        pass
-    def get_word(self, randomly=True):
-        pass
+        self.container_.remove(word)
+        
+    def get_word(self, choose_randomly=True):
+        #if self.size() == 0:
+        #    return None
 
-    def remove_word_by_index(self, word_index):
-        pass
-    def pop_word_by_index(self, word_index):
-        pass
-    def get_word_by_index(self, word_index):
-        pass
+        if choose_randomly:
+            chosen_word = random.choice(self.container_)
+        else:
+            chosen_word = self.container_[0]
 
+        return chosen_word
 
-
-class Card:
-    def __init__(self):
-        self.card_type = "text"
-    def get_text(self):
-        pass
-    def get_audio(self):
-
-class CardTask(Card):
-    def __init__(self):
-        self.card_purpose = "task"
-
-class CardUserAnswer(Card):
-    def __init__(self):
-        self.card_purpose = "user_answer"
-
-class CardAnswer(Card):
-    def __init__(self):
-        self.card_purpose = "answer"
-        self.card_type = "text_audio"
-
-
-
+class ContentBox:
+    def __init__(self, description="default", contents={}):
+        self.description = description
+        self.container_ = contents
+    def get_content_list(self):
+        return self.container_.keys()
+    def get_content(self, key):
+        return self.container_.get(key, None)
+        
 class WordProcessor:
-    def __init__(self, word):
+    def __init__(self, settings=None):
+        self.settings = settings
+        self.word = None
+    
+    def load_word(self, word):
         self.word = word
-        pass
-
+        self.is_user_answer_correct = None
+    
     def get_task(self):
-        pass
-    def check_answer(self, user_answer_text):
-        pass
+        task_contents = {"text" : self.word.word2}
+        task_box = ContentBox(description="task",
+                              contents=task_contents)
+        return task_box
+
+
+    def check_answer(self, user_answer_box):
+        self.user_answer_box = user_answer_box
+        self.is_user_answer_correct = (self.user_answer_box.get_content("text") == self.word.word1)
+        return self.is_user_answer_correct
+
     def get_answer(self):
-        pass
+        answer_contents = {"text" : "",
+                           "audio": self.word.audiofile}
 
+        if self.is_user_answer_correct:
+            answer_contents["text"] = "Yes!"
+        else:
+            answer_contents["text"] = "No! Correct is " + self.word.word1
 
-
+        answer_box = ContentBox(description="answer",
+                                contents=answer_contents)
+        return answer_box
 
 class Trainer:
-    def __init__(self, words : "WordDict"):
-        self.words_remain = None
-        self.words_done = None
-        self.words_removed = None
+    def __init__(self, words, processor, settings=None):
+        self.words_init = words
+        self.processor = processor
+        self.settigns = settings
+
+        self.words_remain = copy.deepcopy(words)
+        self.words_done = WordDict()
+        self.words_removed = WordDict()
         
-        self.stats = {}
-        self.flags_ = {"last_try_was_success" : True}
+                      
+        self.stats = {"words_remain":       self.words_remain.size(),
+                      "words_done":         self.words_done.size(),
+                      "words_removed":      0,
+ 
+                      "words_run":          0,
+                      "words_error":        0,
+                      "words_remembered":   0,
+                      "mistakes":           0,
+                      
+                      "percent":            0,
+                      "points":             0,
+                     } 
+        self.flags = {"last_user_ans_was_correct" : True}
+
+
+    def choose_new_word(self):
+        self.word = self.words_remain.get_word()
+        self.processor.load_word(self.word)
+        self.flags["last_user_ans_was_correct"] = True
+        self.stats["words_run"] += 1
+    
 
     def get_task(self):
-        return "I'm task"
+        if self.flags["last_user_ans_was_correct"]:
+            self.choose_new_word()
+        return self.processor.get_task()
     
-    def check_answer(self, user_answer_text):
-        pass
+    def get_answer(self, user_answer_box):
+        is_user_ans_correct = self.processor.check_answer(user_answer_box)
+        if is_user_ans_correct:
+            if self.flags["last_user_ans_was_correct"]:
+                self.words_done.add_word(self.word)
+                self.words_remain.remove_word(self.word)
+            self.flags["last_user_ans_was_correct"] = True
 
-    def get_answer(self):
-        return "Yes, I'm answer"
+        else:
+            self.flags["last_user_ans_was_correct"] = False
+            self.stats["mistakes"] += 1
+            
+
+        return self.processor.get_answer()
+    
+    
+    def update_stats(self):
+        self.stats["words_remain"] = self.words_remain.size()
+        self.stats["words_done"] = self.words_done.size()
+        self.stats["words_removed"] = self.words_removed.size()
+        self.stats["points"] = (-10 * self.stats["mistakes"]
+                                + 5 * self.stats["words_done"])
+        
     
     def get_stats(self):
+        self.update_stats()
         return self.stats
 
     def is_game_finished(self):
-        return False
+        return (False if self.words_remain.size() > 0 else True)
 
     def finalize(self):
         pass
-    
 
+    def eval_command(self, command):
+        if command == "n":
+            self.choose_new_word()
+        if command == "r":
+            self.words_removed.add_word(self.word)
+            self.words_remain.remove_word(self.word)
+            self.choose_new_word()
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-from PyQt5 import QtWidgets
-import meme_gui
 class ExampleApp(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
-    def __init__(self, trainer : Trainer):
+    def __init__(self):
         super().__init__()  # Это здесь нужно для доступа к переменным, методам в файле design.py
         self.setupUi(self)  # Это нужно для инициализации нашего дизайна
 
         self.btn_start_stop.clicked.connect(self.btn_start_stop_clicked)  
-        self.btn_ok.clicked.connect(self.btn_ok_clicked)  # Выполнить функцию при нажатии кнопки
+        self.btn_ok.clicked.connect(self.btn_ok_clicked)  
         self.le_userans.returnPressed.connect(self.btn_ok.click)
         self.btn_exit.clicked.connect(self.btn_exit_clicked)
-        
 
+
+    def init_game(self, trainer):
         self.game_status_descr = "not_started"
         self.next_btnOK_action_descr = "display_task"
         self.trainer = trainer
-
-
 
     def btn_start_stop_clicked(self):
         if self.game_status_descr is "not_started":
@@ -193,14 +201,20 @@ class ExampleApp(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
             return
 
         if self.next_btnOK_action_descr == "display_task":
-            task_text = self.trainer.get_task()
-            self.display_task(task_text)
+            task_box = self.trainer.get_task()
+            self.display_task(task_box)
             self.next_btnOK_action_descr = "check_and_display_answer"
+
         elif self.next_btnOK_action_descr == "check_and_display_answer":
             user_answer_text = self.le_userans.text()
-            self.trainer.check_answer(user_answer_text)
-            answer_text = self.trainer.get_answer() 
-            self.display_answer(answer_text)
+            if self.is_command(user_answer_text):
+                self.eval_command(user_answer_text[1])
+            else:
+                user_answer_contents = {"text": user_answer_text}
+                user_answer_box = ContentBox(description="user_answer",
+                                             contents=user_answer_contents)
+                answer_box = self.trainer.get_answer(user_answer_box) 
+                self.display_answer(answer_box)
 
             stats = self.trainer.get_stats()
             self.display_stats(stats)
@@ -210,39 +224,50 @@ class ExampleApp(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
             else:
                 self.next_btnOK_action_descr = "pass"
                 self.finalize()
+
+            if self.is_command(user_answer_text):
+                self.btn_ok_clicked()
         else:
             return
 
-    def btn_exit_clicked(self):
-        self.trainer.finalize()
-        self.close()
 
+    def is_command(self,text):
+        return len(text)>1 and text[0]=="!"
 
-    def display_task(self, task_text):
-        self.lb_task.setText(task_text)
+    def eval_command(self, command):
+        if command in ["n", "r"]:
+            self.trainer.eval_command(command)
+        elif command == "e":
+            self.btn_exit_clicked()
+
+    def display_task(self, task_box):
+        if "audio" in task_box.get_content_list():
+            self.play_audio(task_box.get_content("audio"))
+        if "text" in task_box.get_content_list():
+            self.lb_task.setText(task_box.get_content("text"))
         self.le_userans.setText("")      
         self.lb_result.setText("")
-        
 
-    def display_answer(self, answer_text):
-        self.lb_result.setText(answer_text)
-
+    def display_answer(self, answer_box):
+        if "audio" in answer_box.get_content_list():
+            self.play_audio(answer_box.get_content("audio"))
+        if "text" in answer_box.get_content_list():
+            self.lb_result.setText(answer_box.get_content("text"))
 
     def display_stats(self, stats : dict):
         num_words_remain = stats.get("words_remain", "-")
         num_words_done = stats.get("words_done", "-")
-        num_mistakes = stats.get("words_remain", "-")
-        num_rights = stats.get("words_remain", "-")
-        num_percent = stats.get("words_remain", "-")
+        num_mistakes = stats.get("mistakes", "-")
+        num_percent = stats.get("percent", "-")
+        num_points = stats.get("points", "-")
 
-        self.statusbar.showMessage(  "Rights: "   + str(num_rights) + " "
+        self.statusbar.showMessage(  "Done: "     + str(num_words_done) +  " "
                                    + "Mistakes: " + str(num_mistakes) + " "
-                                   + "Percent: "  + str(num_percent) + " " 
-                                   + "\t" 
+                                   #+ "Percent: "  + str(num_percent) + " " 
+                                   + "Points: "  + str(num_points) + " " 
+                                   + "\t\t" 
                                    + "Remain: "   + str(num_words_remain) + " "
-                                   + "Done: "     + str(num_words_done) + " "
                                   )
-
 
     def finalize(self):
         self.lb_result.setText("")
@@ -251,79 +276,35 @@ class ExampleApp(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
         self.le_userans.setReadOnly(True)
         self.btn_ok.setEnabled(False)
         self.btn_start_stop.setEnabled(False)
-        
+
+    def play_audio(self, audiofile):
+        if audiofile is not None:
+            pygame.mixer.init()
+            pygame.mixer.music.load(audiofile)
+            pygame.mixer.music.play()
+
+    def btn_exit_clicked(self):
+        self.trainer.finalize()
+        self.close()
 
 
+#=======================================================
 
-
-
-    # def btn_ok_clicked(self):
-    #     userans = self.le_userans.text()
-    #     elif self.game_status == "wait_new_word":
-    #         self.game_status = "wait_userans"
-    #         self.curr_word_index = get_word_index()
-    #         self.curr_word = get_word_by_index(self.curr_word_index)
-    #         self.update_labels()
-    #     elif self.game_status == "checking":
-    #         if len(userans)>=2 and userans[0] == "!":
-    #             self.run_checking_command(userans.lower()[1])
-    #         else:
-    #             self.game_status = "wait_userans"
-    #             if self.last_attempt_status == "success":
-    #                 remove_finished_word(self.curr_word_index)
-    #                 self.curr_word_index = get_word_index()
-    #                 self.update_labels()
-    #                 if self.curr_word_index != -1:
-    #                     self.curr_word = get_word_by_index(self.curr_word_index)
-    #                 else:
-    #                     self.finalize()
-    #             else:
-    #                 self.last_attempt_status = "failure"
-    #                 self.update_labels()
-    #     elif self.game_status == "wait_userans":
-    #         if len(userans)>=2 and userans[0] == "!":
-    #             self.run_waiting_command(userans.lower()[1])
-    #         else:
-    #             self.game_status = "checking"
-    #             play(self.curr_word)
-    #             if userans == self.curr_word.get_item():
-    #                 self.lb_result.setText("Yes!")
-    #                 self.last_attempt_status = "success"
-    #             else:
-    #                 self.lb_result.setText("No! Correct is " + self.curr_word.get_item())
-    #                 self.last_attempt_status = "failure"           
-    #                 self.num_mistakes += 1
- 
-    # def run_checking_command(self, command_letter):
-    #     if command_letter == "p":
-    #         play(self.curr_word)
-    #     else:
-    #         self.le_userans.setText("")
-
-    # def run_waiting_command(self, command_letter):
-    #     if command_letter == "p":
-    #         play(self.curr_word)
-    #         self.le_userans.setText("")
-    #     elif command_letter == "e":
-    #         self.btn_exit_clicked()
-    #     elif command_letter == "n":
-    #         self.game_status = "wait_new_word"
-    #         self.btn_ok_clicked()
-    #     else:
-    #         self.le_userans.setText("")
-        
 
 def main():
-
-    # create Trainer with words
-    trainer = Trainer(words=None)
-
-
-
+    words = WordDict(dict_path=dictpath)
+    processor = WordProcessor()
+    trainer = Trainer(words=words, processor=processor)
 
 
     app = QtWidgets.QApplication(sys.argv)  # Новый экземпляр QApplication
-    window = ExampleApp(trainer)  # Создаём объект класса ExampleApp
+    window = ExampleApp()  # Создаём объект класса ExampleApp
+
+    window.init_game(trainer)
+
     window.show()  # Показываем окно
     app.exec_()  # и запускаем приложение
+
+dictpath = "./dicts/cz1/cz1.txt"
+audiopath = "./dicts/cz1/cz1_audio/"
 main()
