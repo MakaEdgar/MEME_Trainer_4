@@ -2,6 +2,10 @@
 memetrainer_old.py
 games_history.csv
 dicts/cz1_for_tests/*
+dicts/dicts_creator/*
+*.rar
+*.zip
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

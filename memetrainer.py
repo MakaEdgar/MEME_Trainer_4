@@ -1,7 +1,6 @@
-
 # game settings
 username  = "Edgar"
-dictname  = "cz1"
+dictname  = "cz2"
 
 # ============================
 import os
@@ -18,7 +17,7 @@ class Word:
         fields = [f.strip(" \t\r\n\"\'") for f in record.split("\t")]
         self.word1 = fields[0]
         self.word2 = fields[1]
-        self.audiofile = audiopath + self.word1.replace(" ", "_").replace(",", "_").replace(".", "_") + ".mp3"
+        self.audiofile = audiopath + self.word1.replace(" ", "_").replace(",", "_").replace(".", "_").replace("?", "") + ".mp3"
         if not os.path.exists(self.audiofile):
             self.audiofile = None
         self.errors_curr_game = 0

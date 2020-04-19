@@ -1,0 +1,60 @@
+adresa	Address
+Jak se jmenuješ?	What is your name? (inf)
+jmenuju se Polina	My name is Polina (audio:Nour)
+Německo	Gemany
+škola	School
+studentka	Student (f)
+studentky	Students (f)
+těši mě	Nice to meet you
+učitelé	Teachers (m)
+učitelky	Teachers (f)
+hlava	head
+kluk	boy
+který	which
+mladý	young
+nový	new
+okno	window
+oko	eye
+pravý	right
+chvíle	while
+čtrnáct	14
+čtyři miliony	4 000 000
+čtyři sta	400
+čtyři tisíce	4000
+devatenáct	19
+dva miliony	2 000 000
+dvacet	20
+dvacet dva	22
+dvacet jedna	21
+dvacet tři	23
+dvanáct	12
+dvě stě	200
+dvě stě jedenáct	211
+milion	1,000,000
+osmdesát	80
+osmnáct	18
+padesát	50
+padesát šest	56
+patnáct	15
+pět milionů	5 000 000
+pět set	500
+pět tisíc	5000
+pondělí	Monday
+šedesát	60
+sedm set devadesát osm	798
+sedmdesát	70
+sedmnáct	17
+šest milionů	6 000 000
+šest set	600
+šest tisíc	6000
+šestnáct	16
+středa	Wednesday
+tisíc	1000
+tři miliony	3 000 000
+tři sta	300
+tři tisíce	3000
+třicet	30
+třicet osm	38
+třináct	13
+týden	week
+úterý	Tuesday
