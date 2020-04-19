@@ -1,7 +1,14 @@
+
+# game settings
+username  = "Edgar"
+dictname  = "cz1"
+
+# ============================
 import os
 import sys
 import random
 import pygame
+import datetime
 import copy
 from PyQt5 import QtWidgets
 import meme_gui
@@ -14,6 +21,7 @@ class Word:
         self.audiofile = audiopath + self.word1.replace(" ", "_").replace(",", "_").replace(".", "_") + ".mp3"
         if not os.path.exists(self.audiofile):
             self.audiofile = None
+        self.errors_curr_game = 0
 
 class WordDict:
     def __init__(self, dict_path=None, settings=None):
@@ -98,17 +106,19 @@ class Trainer:
         self.words_removed = WordDict()
         
                       
-        self.stats = {"words_remain":       self.words_remain.size(),
+        self.stats = {"words_dict":      self.words_init.size(),
+                      "words_remain":       self.words_remain.size(),
                       "words_done":         self.words_done.size(),
-                      "words_removed":      0,
+                      "words_removed":      self.words_removed.size(),
  
                       "words_run":          0,
-                      "words_error":        0,
-                      "words_remembered":   0,
+                      "words_errored":        0,
+                      "words_correct":   0,
                       "mistakes":           0,
                       
-                      "percent":            0,
+                      "quality_percent":            0,
                       "points":             0,
+                      "symbols_entered":    0,
                      } 
         self.flags = {"last_user_ans_was_correct" : True}
 
@@ -126,16 +136,23 @@ class Trainer:
         return self.processor.get_task()
     
     def get_answer(self, user_answer_box):
+        if "text" in user_answer_box.get_content_list():
+            self.stats["symbols_entered"] += len(user_answer_box.get_content("text"))
+
         is_user_ans_correct = self.processor.check_answer(user_answer_box)
         if is_user_ans_correct:
+            if self.word.errors_curr_game == 0:
+                self.stats["words_correct"] += 1
             if self.flags["last_user_ans_was_correct"]:
                 self.words_done.add_word(self.word)
                 self.words_remain.remove_word(self.word)
             self.flags["last_user_ans_was_correct"] = True
-
         else:
             self.flags["last_user_ans_was_correct"] = False
             self.stats["mistakes"] += 1
+            if self.word.errors_curr_game == 0:
+                self.stats["words_errored"] += 1
+            self.word.errors_curr_game += 1
             
 
         return self.processor.get_answer()
@@ -145,8 +162,15 @@ class Trainer:
         self.stats["words_remain"] = self.words_remain.size()
         self.stats["words_done"] = self.words_done.size()
         self.stats["words_removed"] = self.words_removed.size()
-        self.stats["points"] = (-10 * self.stats["mistakes"]
-                                + 5 * self.stats["words_done"])
+        self.stats["words_run"] = self.stats["words_correct"] + self.stats["words_errored"]
+        self.stats["points"] = (  80 * self.stats["words_correct"]
+                                + 20 * self.stats["words_done"]
+                                - 50 * self.stats["words_errored"])
+        self.stats["quality_percent"] = (0 if (self.stats["words_done"] == 0) 
+                                           else 
+                                         (100 * self.stats["words_correct"]) // self.stats["words_run"])
+
+        
         
     
     def get_stats(self):
@@ -156,8 +180,33 @@ class Trainer:
     def is_game_finished(self):
         return (False if self.words_remain.size() > 0 else True)
 
-    def finalize(self):
-        pass
+    def finalize(self, game_time_sec=None):
+        
+        if game_time_sec is not None:
+            hours = str(game_time_sec // 3600) + "h"
+            mins = str((game_time_sec % 3600 + 59) // 60) + "m"
+
+            self.stats["game_time"] = (hours + mins) if (hours != "0h") else mins
+            self.stats["speed"] = (self.stats.get("symbols_entered", 0)*60) //  game_time_sec
+        
+        if not os.path.exists("./games_history.csv"):
+            col_names = ["date", "user", "dict", "dict_words", "done", "correct",  
+                         "errors", "mistakes", "quality", "points", "time", "speed"]
+            with open("./games_history.csv", "w") as f:
+                f.write("\t".join(col_names) + "\n")
+        col_values = [date, username, dictname, 
+                      str(self.stats.get("words_dict", "-")),
+                      str(self.stats.get("words_done", "-")),
+                      str(self.stats.get("words_correct", "-")),
+                      str(self.stats.get("words_errored", "-")),
+                      str(self.stats.get("mistakes", "-")),
+                      str(self.stats.get("quality_percent", "-")) + " %",
+                      str(self.stats.get("points", "-")),
+                      str(self.stats.get("game_time", "-")),
+                      str(self.stats.get("speed", "-")),
+                     ]
+        with open("./games_history.csv", "a") as f:
+                f.write("\t".join(col_values) + "\n")
 
     def eval_command(self, command):
         if command == "n":
@@ -168,7 +217,7 @@ class Trainer:
             self.choose_new_word()
  
 
-class ExampleApp(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
+class MainBoard(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
     def __init__(self):
         super().__init__()  # Это здесь нужно для доступа к переменным, методам в файле design.py
         self.setupUi(self)  # Это нужно для инициализации нашего дизайна
@@ -178,16 +227,21 @@ class ExampleApp(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
         self.le_userans.returnPressed.connect(self.btn_ok.click)
         self.btn_exit.clicked.connect(self.btn_exit_clicked)
 
+        
+
 
     def init_game(self, trainer):
         self.game_status_descr = "not_started"
         self.next_btnOK_action_descr = "display_task"
         self.trainer = trainer
+        self.start_time = None
+        pygame.mixer.init()
 
     def btn_start_stop_clicked(self):
         if self.game_status_descr is "not_started":
             self.game_status_descr = "started"
             self.btn_start_stop.setText("Pause")
+            self.start_time = datetime.datetime.now()
             self.btn_ok_clicked()
         elif self.game_status_descr == "stopped":
             self.game_status_descr = "started"
@@ -218,11 +272,14 @@ class ExampleApp(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
 
             stats = self.trainer.get_stats()
             self.display_stats(stats)
+
+
             
             if not self.trainer.is_game_finished():
                 self.next_btnOK_action_descr = "display_task"
             else:
                 self.next_btnOK_action_descr = "pass"
+                self.game_status_descr = "finished"
                 self.finalize()
 
             if self.is_command(user_answer_text):
@@ -257,14 +314,18 @@ class ExampleApp(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
     def display_stats(self, stats : dict):
         num_words_remain = stats.get("words_remain", "-")
         num_words_done = stats.get("words_done", "-")
+        num_words_correct = stats.get("words_correct", "-")
+        num_words_errored = stats.get("words_errored", "-")
         num_mistakes = stats.get("mistakes", "-")
-        num_percent = stats.get("percent", "-")
+        num_percent = stats.get("quality_percent", "-")
         num_points = stats.get("points", "-")
 
         self.statusbar.showMessage(  "Done: "     + str(num_words_done) +  " "
+                                   + "Errors: "   + str(num_words_errored) + " "
+                                   #+ "Correct: "  + str(num_words_correct) + " "
                                    + "Mistakes: " + str(num_mistakes) + " "
-                                   #+ "Percent: "  + str(num_percent) + " " 
-                                   + "Points: "  + str(num_points) + " " 
+                                   + "Quality: "  + str(num_percent) + " " 
+                                   + "Points: "   + str(num_points) + " " 
                                    + "\t\t" 
                                    + "Remain: "   + str(num_words_remain) + " "
                                   )
@@ -277,6 +338,12 @@ class ExampleApp(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
         self.btn_ok.setEnabled(False)
         self.btn_start_stop.setEnabled(False)
 
+        self.end_time = datetime.datetime.now()
+        self.game_time_sec = (self.end_time - self.start_time).seconds
+
+        self.trainer.finalize(game_time_sec=self.game_time_sec)
+
+
     def play_audio(self, audiofile):
         if audiofile is not None:
             pygame.mixer.init()
@@ -284,7 +351,8 @@ class ExampleApp(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
             pygame.mixer.music.play()
 
     def btn_exit_clicked(self):
-        self.trainer.finalize()
+        if self.game_status_descr != "finished":
+            self.finalize()
         self.close()
 
 
@@ -298,13 +366,15 @@ def main():
 
 
     app = QtWidgets.QApplication(sys.argv)  # Новый экземпляр QApplication
-    window = ExampleApp()  # Создаём объект класса ExampleApp
+    window = MainBoard()  # Создаём объект класса ExampleApp
 
     window.init_game(trainer)
 
     window.show()  # Показываем окно
     app.exec_()  # и запускаем приложение
 
-dictpath = "./dicts/cz1/cz1.txt"
-audiopath = "./dicts/cz1/cz1_audio/"
+dictpath  = "./dicts/" + dictname + "/" + dictname + ".txt"
+audiopath = "./dicts/" + dictname + "/" + dictname + "_audio/"
+date = datetime.datetime.now().strftime("%d.%m.%Y")
+
 main()

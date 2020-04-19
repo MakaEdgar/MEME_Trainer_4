@@ -1,5 +1,7 @@
 .vscode
 memetrainer_old.py
+games_history.csv
+dicts/cz1_for_tests/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
