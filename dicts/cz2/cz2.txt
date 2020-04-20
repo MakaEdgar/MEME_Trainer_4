@@ -57,4 +57,4 @@ třicet	30
 třicet osm	38
 třináct	13
 týden	week
-úterý	Tuesday
+úterý	Tuesday
