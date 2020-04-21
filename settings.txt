@@ -1,0 +1,5 @@
+# Choose dict: cz1, cz2, cz_polly_1
+dictname=cz_polly_1
+
+# Set name of current user
+username=Edgar

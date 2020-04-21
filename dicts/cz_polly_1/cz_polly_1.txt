@@ -1,0 +1,86 @@
+a	и
+ale	но, а, однако
+ano	да
+barevný	цветной
+bílý	белый
+být	быть
+cizinec	иностранец
+cizinka	иностранка
+co	что
+čech	чех
+češka	чешка
+černý	черный
+červený	красный
+den	день
+dítě	ребенок
+dobrý	хороший
+dole	внизу
+film	фильм
+hezký	красивый
+hnědý	коричневый
+hrad	крепость
+já	я
+jako	как
+jaký	какой
+kde	где
+kdo	кто
+kniha	книга
+koberec	ковер
+křeslo	кресло
+květina	цветок
+lampa	лампа
+leží	лежит
+malý	маленький
+mladý	молодой
+moderní	современный
+modrý	голубой
+muž	мужчина
+nahoře	наверху
+ne	нет
+nový	новый
+obraz	картина
+okno	окно
+ošklivý	противный
+pán	господин
+paní	госпожа
+pero	ручка
+pokoj	комната
+postel	кровать
+profesor	профессор
+profesorka	профессор (женщина)
+prosím	пожалуйста, прошу
+rádio	радио
+rohlík	рогалик
+rus	русский
+ruska	русская
+sedí	сидит
+sešit	тетрадь
+slovo	слово
+slovník	словарь
+skřín	шкаф
+starý	старый
+stojí	стоит
+student	студент
+studentka	студентка
+stůl	стол
+na stole	на столе
+tady	здесь
+taky	тоже
+tam	там, туда
+televize	телевизор
+učitel	учитель
+učitelka	учительница
+uprostřed	посередине, в центре
+vedle	возле, рядом
+velký	большой
+ve předu	спереди, впереди
+visí	висит
+vlevo	слева, влево, налево
+vpravo	справа, вправо, направо
+nalevo	слева, влево, налево 2
+napravo	справа, вправо, направо 2
+vzadu	сзади
+zelený	зеленый
+žena	женщина, жена
+židle	стул
+žlutý	желтый

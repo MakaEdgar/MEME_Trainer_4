@@ -1,6 +1,11 @@
 # game settings
-username  = "Edgar"
-dictname  = "cz2"
+with open("settings.txt", "r") as f:
+    settings = {y[0]:y[1] for y in 
+                    [x.split("=") for x in f.read().split("\n") 
+                         if (len(x)>0 and x.strip()[0] != "#")]}
+dictname = settings["dictname"]
+username = settings["username"]
+
 
 # ============================
 import os
