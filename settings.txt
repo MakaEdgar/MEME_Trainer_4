@@ -1,5 +1,26 @@
-# Choose dict: cz1, cz2, cz3, cz_p1, cz_a1_1, cz_a1_2
-dictname=cz_a1_2
+# Choose dictname to train
+dictname=a1_4
 
 # Set name of current user
 username=Edgar
+
+# Set prefix for dictionary (usually two letters of language)
+dictprefix=cz
+
+
+
+
+
+
+
+###########################################
+# List of dicts for Cesky (dictprefix=cz) #
+###########################################
+
+# DICTIONARY      WORDS       DESCRIPTIONs
+# a1_1,2          100w        beginner dicts
+# a1_3            100w        L1 "Cestina express 1"
+# a1_4            60w         L1 "Cestina express 1" rest+phrases  
+# a1_chisla1      60w         Kolichestvennie chislitelnie
+# a1_ed1,2        150w        Edgar a1 dicts
+# a1_ed3,4        100w        Edgar a1 dicts

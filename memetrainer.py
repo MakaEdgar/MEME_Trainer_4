@@ -1,11 +1,16 @@
 # game settings
 with open("settings.txt", "r") as f:
-    settings = {y[0]:y[1] for y in 
+    settings = {(y[0]).strip():(y[1]).strip() for y in 
                     [x.split("=") for x in f.read().split("\n") 
                          if (len(x)>0 and x.strip()[0] != "#")]}
-dictname = settings["dictname"]
-username = settings["username"]
-
+username = settings.get("username", "NoName")
+dictname = settings.get("dictname", None)
+dictprefix = settings.get("dictprefix", None)
+if dictname is None:
+    print("ERROR: no dictname in settings.txt")
+    raise Exception("ERROR: no dictname in settings.txt")
+if dictprefix is not None:
+    dictname = dictprefix + "_" + dictname
 
 # ============================
 import os
@@ -22,10 +27,17 @@ class Word:
         fields = [f.strip(" \t\r\n\"\'") for f in record.split("\t")]
         self.word1 = fields[0]
         self.word2 = fields[1]
-        self.audiofile = audiopath + self.word1.replace(" ", "_").replace(",", "_").replace(".", "_").replace("?", "") + ".mp3"
+        self.audiofile = audiopath + self.get_audiofile_name(self.word1)
         if not os.path.exists(self.audiofile):
             self.audiofile = None
         self.errors_curr_game = 0
+        
+    def get_audiofile_name(self,word):
+        symbols_to_replace = " .,?!\"\'"
+        audiofile_name = ""
+        for w in word:
+            audiofile_name = audiofile_name + (w if w not in symbols_to_replace else "_")
+        return audiofile_name + ".mp3"
 
 class WordDict:
     def __init__(self, dict_path=None, settings=None):
@@ -103,7 +115,7 @@ class Trainer:
     def __init__(self, words, processor, settings=None):
         self.words_init = words
         self.processor = processor
-        self.settigns = settings
+        self.settings = settings
 
         self.words_remain = copy.deepcopy(words)
         self.words_done = WordDict()
