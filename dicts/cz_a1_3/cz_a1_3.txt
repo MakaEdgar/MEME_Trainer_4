@@ -1,0 +1,100 @@
+čtěte	читайте
+přečtěte	прочитайте
+doplňte	дополните
+najděte	найдите
+pište	пишите
+napište	напишите
+odpovídejte	отвечайте
+opakujte	повторяйте
+označte	обозначьте, выделите
+pozor	внимание
+počítejte	считайте
+poslouchejte	слушайте
+používejte	используйте, применяйте
+procvičujte	упражняйтесь, тренируйте
+přeložte	переведите
+řekněte	скажите
+seřaďte	распределите по порядку
+spojte	объедините, свяжите
+tvořte	создайте
+změňte	измените
+háček	крючок над буквами
+čárka	ударение над буквами
+kroužek	обозначение долгого u
+dělat	делать
+dělám	я делаю
+děláš	ты делаешь
+dělá	он она то делает
+děláme	мы делаем
+děláte	вы делаете
+dělaji	они делают
+mám	у меня есть / я имею
+máš	у тебя есть / ты имеешь
+má	у него-нее есть / он-она-то имеет
+máme	у нас есть / мы имеем
+máte	у вас есть / вы имеете
+maji	у них есть / они имеют
+nedělám	я не делаю
+neděláš	ты не делаешь
+pás	пояс
+špatně	плохо
+auto	автомобиль
+křišťál	хрусталь
+noc	ночь
+pivo	пиво
+to	то, это
+ekonom	экономист (м)
+ekonomka	экономист (ж)
+Itálie	Италия
+jít	идти
+jdu	я иду
+Kanada	Канада
+kancelář	офис
+mě	меня, мне (род. падеж от já)
+Německo	Германия
+tak	так
+ty	ты
+už	уже
+Vietnam	Вьетнам
+vy	вы, Вы
+manažer	менеджер (м)
+manažerka	менеджер (ж)
+my	мы
+on	он
+ona	она
+oni	они
+ono	оно
+slečna	девушка (незамужняя)
+Česko	Чехия
+Francie	Франция
+herec	актер
+herečka	актриса
+Irsko	Ирландия
+nic	ничего
+politik	политик (м)
+politička	политик (ж)
+Polsko	Польша
+Rusko	Россия
+sportovec	спортсмен
+sportovkyně	спортсменка
+Ukrajina	Украина
+zpěvák	певец
+zpěvačka	певица
+aha	ага, а
+mít	иметь
+no	ну
+proč	почему, зачем
+telefon	телефон
+telefonní	телефонный
+vás	вас (род. падеж от вы/Вы)
+autobus	автобус
+au	ой
+problém	проблема
+slon	слон
+ten	этот
+pamatujte si	запомните
+o vikendu	на выходные
+smát se	смеяться
+v kanceláři	в офисе
+Česká republika	Чешская республика
+ach jo	ох

@@ -1,152 +1,100 @@
-člověk	человек
-manžel	муж
-chlapec	мальчик
-dívka	девочка
-přítel	друг
-host	гость
-rodiče	родители
-otec	отец
-matka	мать
-syn	сын
-dcera	дочь
-dědeček	дед
-babička	бабушка
-tchán	тесть (свекор)
-tchyně	теща (свекровь)
-strýc	дядя
-teta	тетя
-bratr	брат
-sestra	сестра
-bratranec	двоюродный брат
-sestřenice	двоюродная сестра
-práce	работа
-řidič	водитель
-pracovník	рабочий
-inženýr	инженер
-zdravotní sestra	медсестра
-prodavač	продавец
-účetní	бухгалтер
-malíř	художник
-země	страна
-rusko	Россия
-českо	Чехия
-zvíře	животное
-kočka	кошка
-pes	собака
-pták	птица
-město	город
-divadlo	театр
-ulice	улица
-náměstí	площадь
-místo	место
-dům	дом
-církev	церковь
-řeka	река
-kavárna	кафе
-hotel	гостиница
-zahrada	сад
-park	парк
-banka	банк
-zastávka	остановка
-kino	кинотеатр
-most	мост
-křižovatka	перекрёсток
-les	лес
-nemocnice	больница
-trh	рынок
-policie	полиция
-pošta	почта
-nádraží	станция, вокзал
-centrum	центр
-obchod	магазин
-hora	гора
-byt	квартира
-kuchyně	кухня
-balkón	балкон
-koupelna	ванная
-sprcha	душ
-toaleta	туалет
-podlaha	пол
-strop	потолок
-patro	этаж
-chodba	коридор
-ložnice	спальня
-obývací pokoj	зал
-dveře	дверь
-klíč	ключ
-polštář	подушка
-lednička	холодильник
-pohovka	диван
-zrcadlo	зеркало
-jídlo	еда
-chléb	хлеб
-máslo	масло
-sýr	сыр
-klobása	колбаса
-olej	растительное масло
-pepř	горький перец
-sůl	соль
-bobule	ягода
-med	мёд
-džem	варенье
-houba	гриб
-cibule	лук (репчатый)
-banán	банан
-mrkev	морковь
-hruška	груша
-řepa	свекла
-ovoce	фрукты
-meloun	дыня
-vodní meloun	арбуз
-zákusek	пирожное
-koláč	пирог
-dort	торт
-čokoláda	шоколад
-maso	мясо
-brambor	картофель
-salát	салат
-rajče	помидор
-okurka	огурец
-zelí	капуста
-kaše	каша
-polévka	суп
-sendvič	бутерброд
-sodovka	газировка
-voda	вода
-káva	кофе
-čaj	чай
-mléko	молоко
-džus	сок
-jablko	яблоко
-hrozny	виноград
-pomeranč	апельсин
-ananas	ананас
-meruňka	абрикос
-cukr	сахар
-rýže	рис
-nudle	лапша
-hovězí	говядина
-vepřové	свинина
-kuře	курица
-řízek	котлета
-citron	лимон
-hrách	горох
-buchta	булочка
-ryba	рыба
-sladkost	конфета, сладость
-zmrzlina	мороженое
-ořech	орех
-vejce	яйцо
-broskev	персик
-šálek	чашка
-sklenice	стакан
-talíř	тарелка
-lžíce	ложка
-vidlička	вилка
-nůž	нож
-podšálek	блюдце
-láhev	бутылка
-ubrousek	салфетка
-snídaně	завтрак
-oběd	обед
-večeře	ужин
+a	и
+ale	но, а, однако
+ano	да
+barevný	цветной
+bílý	белый
+být	быть
+Čech	чех
+čelo	forehead
+červený	красный
+český	Czech
+chvíle	while
+chytrý	clever
+číslo	number
+cizinci	foreigners (m)
+cizinec	иностранец
+cizinka	иностранка
+cizinky	foreigners (f)
+čtvrtek	Thursday
+den	день
+dnes	today
+dobře	хорошо
+dolní	lower
+film	фильм
+hnědý	коричневый
+jako	как
+jsem	I am
+jsi	you are
+jste	you all are
+kamarád	friend (male)
+kdo	кто
+kluk	boy
+kniha	книга
+Kolik?	How much/many?
+lékař	doctor (m)
+lékařky	doctors (f)
+lekce	lesson
+leží	лежит
+lidi	people (pl.)
+mladý	молодой
+muž	мужчина
+nahoře	наверху
+napravo	справа, вправо, направо 2
+ne	нет
+nebo	or
+neděle	Sunday
+nejsme	we are not
+nos	nose
+nový	новый
+okno	окно
+oko	eye
+ošklivý	противный
+pan	господин
+pas	passport
+pátek	Friday
+peněženka	purse
+peníze	money
+pravý	right
+příjmení	surname
+příklad	example
+profesorka	профессор (женщина)
+prosím	пожалуйста, извините, простите
+rádio	радио
+restaurace	restaurant
+rodina	family
+rohlík	рогалик
+rozumět	понимать
+rozumím	я понимаю
+Ruska	русская
+sedí	он сидит
+sedím	я сижу
+slovník	словарь
+sobota	Saturday
+spát	to sleep
+srdce	heart
+starý	старый
+stůl	стол
+tady	здесь
+taky	тоже
+tam	там, туда
+tělo	body
+ucho	ear
+učím se	я учусь (learn)
+učit se	to learn
+učitelky	teachers (f)
+uprostřed	посередине, в центре
+ústa	mouth
+úterý	Tuesday
+v neděli	on Sunday
+v pátek	on Friday
+v, ve	предлог at, 2 формы
+vařit	готовить
+ve středu	on Wednesday
+věk	age
+visí	висит
+vpravo	справа, вправо, направо
+vzadu	сзади
+zdravý	healthy
+žena	woman
+židle	стул
+zítra	tomorrow

@@ -1,148 +1,100 @@
-letadlo	самолет
-auto	автомобиль
-tramvaj	трамвай
-autobus	автобус
-vlak	поезд
-kolo	велосипед
-čas	время
-hodina	час
-minuta	минута
-včera	вчера
-krát	(столько
-noc	ночь
-měsíc	месяц
-leden	январь
-únor	февраль
-březen	март
-duben	апрель
-květen	май
-červen	июнь
-červenec	июль
-srpen	август
-září	сентябрь
-říjen	октябрь
-listopad	ноябрь
-prosinec	декабрь
-jaro	весна
-léto	лето
-podzim	осень
-zima	зима
-narozeniny	день рождения
-ženatý	женатый
-vdaná	замужняя
-věc	вещь
-šachy	шахматы
-telefon	телефон
-hodiny	часы
-hřeben	расчёска
-televizor	телевизор
-žehlička	утюг
-mýdlo	мыло
-taška	сумка
-mapa	географическая карта
-pohlednice	открытка
-kufr	чемодан
-dar	подарок
-kamera	камера
-přehrávač	плейер
-počítač	компьютер
-váza	ваза
-kapesník	носовой платок
-míč	мяч
-balónek	воздушный шарик
-hračka	игрушка
-účet	счёт
-obálka	конверт
-noviny	газета
-dopis	письмо
-letenka	билет на самолет
-jízdenka	билет на поезд, автобус
-vstupenka	билет в кино, театр
-oděv	одежда
-boty	обувь
-kabát	пальто
-šaty	платье
-košile	рубашка
-sukně	юбка
-rukavice	перчатка
-čepice	шапка
-klobouk	шляпа
-bunda	куртка
-sako	пиджак
-šátek	шарф
-ponožka	носок
-svetr	свитер
-tričko	футболка
-kravata	галстук
-kalhoty	брюки
-kam	куда
-odkud	откуда
-jak	как
-proč	почему
-ty	ты
-on	он
-ona	она
-ono	оно
-my	мы
-vy	вы
-oni	они
-můj	мой
-tvůj	твой
-jeho	его
-jí	ее
-naš	наш
-váš	ваш
-jejich	их
-svůj	свой
-do	в, до
-k	к
-na	на
-pod	под
-za	за, позади
-s	с
-bez	без
-před	до, прежде, перед
-po	после
-mezi	между
-podle	по, согласно
-pro	для
-nový	новый
-hladový	голодный
-špatný	плохой
-špatně	плохо
-brzy	ранo
-později	поздно
-minulý	прошлый
-příští	следующий
-volný	свободный
-teplo	теплo
-chladno	холодно
-vysoký	высокий
-nízký	низкий
-dlouhý	длинный, долгий
-krátký	короткий
-snadný	лёгкий, несложный
-obtížný	тяжёлый, трудный
-lehký	легкий (по весу)
-těžký	тяжелый (по весу)
-tmavý	тёмный
-světlý	светлый
-drahý	дорогой
-levný	дешёвый
-správný	правильный
-rychle	быстрый
-pomalu	медленно
-měkký	мягкий
-tvrdý	твёрдый
-pěkný	красивый
-pozorný	внимательный
-smutný	печальный
-rád	рад(остный)
-šťastný	счастливый
-připravený	готовый
-rozzlobený	сердитый
-hlavní	главный
-černý	чёрный
-zelený	зелёный
-šedý	серый
-bílý	белый
+adresa	address
+anglicky	English
+černý	черный
+Češka	чешка
+cizí	foreign, strange
+co	что
+cvičení	exercise
+dítě	ребенок
+dobrý	хороший
+dole	внизу
+hezký	красивый
+hlava	head
+holka	girl
+horní	upper
+hrad	крепость, кремль, замок
+já	я
+jaký	какой
+je	is
+je jako	is like
+jméno	name
+jsme	we are
+jsou	they are
+kamarádka	friend (fem.)
+kde	где
+kdy	when
+koberec	ковер
+koleno	knee
+křeslo	кресло
+který	which
+květina	цветок
+lampa	лампа
+lékaři	doctors (m)
+lékařka	doctor (f)
+levý	left
+malý	маленький
+moderní	современный
+modrý	голубой
+na stole	на столе
+nalevo	слева, влево, налево 2
+nejsem	I am not
+nejsi	you are not
+nejsou	they are not
+nejste	you all are not
+není	is not
+noha	leg, foot
+obraz	картина
+Odkud?	Where from?
+odpoledne	afternoon
+paní	госпожа (замужняя)
+papír	paper
+pero	ручка
+pokoj	комната
+poledne	noon
+pondělí	Monday
+postel	кровать
+pravda	truth
+pravidelně	regularly
+profesor	профессор
+protože	because
+ráno	morning
+rok	year
+rozhovor	dialogue
+ruka	hand, arm
+Rus	русский
+sedět	to sit
+sešit	тетрадь
+škola	school
+skříň	шкаф
+slovo	слово
+spím	я сплю
+stojí	стоит
+středa	Wednesday
+student	студент
+studentka	студентка
+studentky	Students (f)
+televize	телевизор
+trochu	a little, a few
+tužka	pencil
+týden	week
+učím	я учу (teach)
+učit	to teach
+učitel	учитель
+učitelé	teachers (m)
+učitelka	учительница
+v poledne	at noon
+v pondělí	on Monday
+v restauraci	in the restaurant
+v sobotu	on Saturday
+v úterý	on Tuesday
+vařím	я готовлю
+ve čtvrtek	on Thursday
+ve předu	спереди, впереди
+večer	evening, in the evening
+vedle	возле, рядом
+velký	большой
+víkend	weekend
+vlevo	слева, влево, налево
+zelený	зеленый
+zimní	winter (adj.)
+žlutý	желтый

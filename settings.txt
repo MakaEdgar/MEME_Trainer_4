@@ -1,5 +1,5 @@
 # Choose dictname to train
-dictname=a1_4
+dictname=a1_ed2
 
 # Set name of current user
 username=Edgar

@@ -1,0 +1,100 @@
+abeceda	алфавит
+balkón	балкон
+blízko	близко
+brýle	очки
+cesta	путь
+cestovat	путешествовать
+čí	чьи
+čistit	очистить
+děkovat	спасибо тебе
+dívat se	смотреть
+fajn	большой
+fialový	фиолетовый
+flétna	флейта
+fotbal	футбол
+fotografovat	фотографировать
+foukat	удар
+gramatika	грамматика
+horký	горячий
+hra	игра
+hranolky	картофель фри
+informace	информация
+jezdit	кататься, ездить
+jiný	другой
+kašel	кашель
+klavír	пианино
+knížka	книга
+konec	конец
+koníček	хобби
+krásně	красиво
+kupovat	купить
+loď	корабль
+lyže	лыжи
+lyžovat	кататься на лыжах
+metro	метро
+milý	дорогой
+mít hlad	быть голодным
+moc	очень сильно
+moře	море
+muzika	музыка
+nahlas	вслух
+náš	наш
+někde	где-то
+někdy	иногда, когда-нибудь
+několik	несколько
+některý	некоторые
+nemocný	больной, нездоровый
+nikdo	никто
+normální	нормальный
+nosit	носить
+oblečení	одежда
+odpověď	ответ
+odpovídat	ответить
+oranžový	оранжевый
+oslava	торжества
+otvírat	открыть
+ovocný	фруктовый
+počasí	погода
+podepsat se	подписаться
+policistka	сотрудница полиции
+pomerančový	апельсиновый
+poslední	последний
+potřebovat	необходимость
+prázdniny	каникулы
+pršet	дождь
+půlnoc	полночь
+ředitelka	директриса
+ruce	руки
+růžový	розовый
+rýma	насморк
+šála	шарф
+sám	сам
+sami	сами
+sejít se	встретиться
+školní	школьный
+špagety	спагетти
+spolužák	одноклассник
+strana	страница
+telefonovat	звонить, разговаривать по телефону
+tenis	теннис
+teplý	теплый
+těšit se	ждать с нетерпением
+ticho	тихо, тишина
+tma	тьма, темнота
+třída	класс
+učebnice	учебник
+uklízet	убирать, наводить порядок
+umět	уметь, знать
+v pořádku	все в порядке
+v ruce	в руке
+veselý	веселый
+vesnice	деревня
+volno	досуг, свободное время
+vpředu	впереди
+výborně	замечательно, отлично
+výlet	экскурсия, поход
+z, ze	из, с (2 формы)
+záchod	уборная
+zavolat	позвонить
+zdraví	здоровье
+zub	зуб

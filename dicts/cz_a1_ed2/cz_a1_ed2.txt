@@ -1,0 +1,150 @@
+balónek	воздушный шарик
+barva	цвет
+bez	без
+bonbon	конфеты
+boty	обувь
+březen	март
+brzy	ранo
+bunda	куртка
+čas	время
+často	часто
+cena	цена
+čepice	шапка
+červen	июнь
+červenec	июль
+chladno	холодно
+daleko	далеко
+dar	подарок
+datum	дата
+datum narození	дата рождения
+dlouho	долго
+dlouhý	длинный, долгий
+do	в, до
+domácí úkol	домашнее задание
+dopis	письмо
+dopoledne	утром
+drahý	дорогой
+duben	апрель
+hladový	голодный
+hlavní	главный
+hodina	час
+hodiny	часы
+hory	горы
+hotovo	сделано, готово
+hotový	готовый
+hračka	игрушка
+hřeben	расчёска
+jahoda	клубника
+jak	как
+jaro	весна
+jeho	его
+jejich	их
+jezdit na kole	ездить на велосипеде
+jí	ее
+jízdenka	билет на поезд, автобус
+k	к
+kabát	пальто
+kakao	какао
+kalhoty	брюки
+kam	куда
+kamera	камера
+kapesník	носовой платок
+kečup	кетчуп
+klobouk	шляпа
+kolo	велосипед
+košile	рубашка
+krát	столько
+krátký	короткий
+kravata	галстук
+kufr	чемодан
+květen	май
+leden	январь
+lehký	легкий (по весу)
+letadlo	самолет
+letenka	билет на самолет
+léto	лето
+levný	дешёвый
+listopad	ноябрь
+mapa	географическая карта
+měkký	мягкий
+meruňka	абрикос
+měsíc	месяц
+mezi	между
+míč	мяч
+minulý	прошлый
+minuta	минута
+můj	мой
+mýdlo	мыло
+na	на
+na jaře	весной
+na podzim	осенью
+narozeniny	день рождения
+naš	наш
+nízký	низкий
+noviny	газета
+obálka	конверт
+obtížný	тяжёлый, трудный
+oděv	одежда
+odkud	откуда
+pěkný	красивый
+po	после
+počítač	компьютер
+pod	под
+podle	по, согласно
+podzim	осень
+pohlednice	открытка
+pomalu	медленно
+ponožka	носок
+později	поздно
+pozorný	внимательный
+před	до, прежде, перед
+přehrávač	плейер
+připravený	готовый
+příští	следующий
+pro	для
+prosinec	декабрь
+rád	рад(остный)
+říjen	октябрь
+rozzlobený	сердитый
+rukavice	перчатка
+rychle	быстрый
+s	с
+šachy	шахматы
+sako	пиджак
+šátek	шарф
+šaty	платье
+šedý	серый
+smutný	печальный
+snadný	лёгкий, несложный
+špatný	плохой
+správný	правильный
+srpen	август
+šťastný	счастливый
+sukně	юбка
+světlý	светлый
+svetr	свитер
+svůj	свой
+taška	сумка
+televizor	телевизор
+teplo	теплo
+těžký	тяжелый (по весу)
+tmavý	тёмный
+tričko	футболка
+tvrdý	твёрдый
+tvůj	твой
+účet	счёт
+únor	февраль
+váš	ваш
+váza	ваза
+včera	вчера
+vdaná	замужняя
+věc	вещь
+vlak	поезд
+volný	свободный
+vstupenka	билет в кино, театр
+vysoký	высокий
+za	за, позади
+září	сентябрь
+žehlička	утюг
+ženatý	женатый
+zima	зима

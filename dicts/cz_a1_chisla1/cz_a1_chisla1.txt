@@ -1,0 +1,56 @@
+nula	0
+jeden	1
+dva	2
+tři	3
+čtyři 	4
+pět	5
+šest	6
+sedm	7
+osm	8
+devět	9
+deset	10
+jedenáct	11
+dvanáct	12
+třináct	13
+čtrnáct	14
+patnáct	15
+šestnáct	16
+sedmnáct	17
+osmnáct	18
+devatenáct	19
+dvacet	20
+dvacet jedna	21
+dvacet dva	22
+dvacet tři	23
+třicet	30
+třicet osm	38
+čtyřicet	40
+padesát	50
+padesát šest	56
+šedesát	60
+sedmdesát	70
+osmdesát	80
+devadesát	90
+sto	100
+sto jedna	101
+dvě stě	200
+dvě stě jedenáct	211
+tři sta	300
+čtyři sta	400
+pět set	500
+šest set	600
+sedm set devadesát osm	798
+tisíc	1000
+dva tisíce	2000
+tři tisíce	3000
+čtyři tisíce	4000
+pět tisíc	5000
+šest tisíc	6000
+milion	1 000 000
+dva miliony	2 000 000
+tři miliony	3 000 000
+čtyři miliony	4 000 000
+pět milionů	5 000 000
+šest milionů	6 000 000
+rok devatenáct set osmdesát dva	year 1982
+rok dva tisíce deset	year 2010

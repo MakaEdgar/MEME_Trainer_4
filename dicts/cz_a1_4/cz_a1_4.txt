@@ -1,0 +1,60 @@
+páni	господа, мужчины
+situace	ситуация
+pražský	пражский
+tramvaj	трамвай - Женский род!
+kolej	общежитие - Женский род!
+děkuji	спасибо (литературный язык)
+nerozumím	я не понимаю
+ahoj	привет, пока
+čau	чао, пока
+muset	быть обязанным
+musím	я обязан
+prominout	извинить/простить
+prominu	я прощу
+tečkaj	точка .
+zavináč	собака @ (в э-майловом адресе)
+ptejte se	спрашивайте
+cé zet	cz (в Интернете или электронной почте)
+představovat se	представляться (при знакомстве)
+představuju se	я представляюсь (при знакомстве)
+Jsem z Ruska	Я из России
+Zitra jsem doma	Завтра буду дома
+Cо znamená ...	Что значит ...
+Ještě jednou, prosím!	Повторите, пожалуйста!
+Co je to?	Что это?
+Kdo je to?	Кто это?
+Promiňte, musím jít	Простите, я должен идти
+To je ...	Это ...
+Jak se máš?	Как у тебя дела?
+Jaký máš telefon?	Какой у тебя телефон?
+Jaký máte telefon?	Какой у Вас телефон?
+Jak se máte?	Как у Вас дела?
+Prosím vás ...	Прошу Bac ... / Пожалуйста ...
+Jak se řekne ...	Как сказать ...
+Jak se to píše?	Как это пишется?
+Jak se jmenuješ?	What is your name? (inf)
+Jak se jmenujete?	What is your name? (formal)
+Je mi dvacet pět let	I am 25 years old
+Jmenuji se Polina	My name is Polina
+Jsem student	I am a student
+Kdy máme přestávku?	When do we have break?
+Kolik stojí jogurt?	How much does yogurt cost?
+Kolik to stojí?	How much does it cost? How much is it?
+Odkud jsi?	Where are you from? (informal)
+Odkud jste?	Where are you from? (formal)
+Rozumíte?	Вы понимаете?
+S dovolením!	Разрешите пройти!
+Těší mě!	Очень приятно! (при знакомстве)
+To nic	Ничего страшного (ответ на Простите!)
+To nevadí	Это не важно
+Co děláš?	Что ты делаешь?
+Co děláte?	Что вы делаете?
+Na shledanou	До свидания
+Dobré ráno	Доброе утро
+Dobrou noc	Спокойной ночи
+Dobrý den	Добрый день, Здравствуйте
+Dobrý večer	Добрый вечер
+Promiň!	Прости!
+Promiňte!	Простите!
+Dále!	Пройди/те! (при стуке в дверь)
+Ujde to	Нормально
