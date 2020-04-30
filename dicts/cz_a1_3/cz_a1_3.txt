@@ -93,7 +93,7 @@ problém	проблема
 slon	слон
 ten	этот
 pamatujte si	запомните
-o vikendu	на выходные
+o víkendu	на выходные
 smát se	смеяться
 v kanceláři	в офисе
 Česká republika	Чешская республика

@@ -31,7 +31,7 @@ hodina	час
 hodiny	часы
 hory	горы
 hotovo	сделано, готово
-hotový	готовый
+hotový	готовый, сделанный
 hračka	игрушка
 hřeben	расчёска
 jahoda	клубника
@@ -99,7 +99,7 @@ později	поздно
 pozorný	внимательный
 před	до, прежде, перед
 přehrávač	плейер
-připravený	готовый
+připravený	готовый, подготовленный
 příští	следующий
 pro	для
 prosinec	декабрь

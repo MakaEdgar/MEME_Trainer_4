@@ -18,8 +18,8 @@ cé zet	cz (в Интернете или электронной почте)
 představovat se	представляться (при знакомстве)
 představuju se	я представляюсь (при знакомстве)
 Jsem z Ruska	Я из России
-Zitra jsem doma	Завтра буду дома
-Cо znamená ...	Что значит ...
+Zítra jsem doma	Завтра буду дома
+Co znamená ...	Что значит ...
 Ještě jednou, prosím!	Повторите, пожалуйста!
 Co je to?	Что это?
 Kdo je to?	Кто это?

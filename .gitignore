@@ -4,6 +4,7 @@ games_history.csv
 dicts/cz1_for_tests/*
 dicts/dicts_creator/*
 dicts/old_dicts/*
+tools/*
 *.rar
 *.zip
 
