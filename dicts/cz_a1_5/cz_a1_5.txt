@@ -1,0 +1,100 @@
+autem	на машине
+autobusem	на автобусе
+banka	банк
+blízko	близко, рядом
+bydlet, bydlím	(V) жить, я живу
+čas	время
+číslo domu	номер дома
+daleko	далеко
+divadlo	театр
+dlouhý	долгий, длинный
+doleva	налево (направление)
+doprava	направо (направление)
+dovolená	отпуск
+druhý	второй
+dům	дом
+haló	алло
+hledat, hledám	(V) искать, я ищу
+hned	сразу, быстро
+Honem!	Давай! Быстро! Скорее!
+informace	информация
+Jakou máš adresu?	Какой у тебя адрес?
+Jakou máte adresu?	Какой у Вас адрес?
+Jděte doleva	Идите налево
+Jděte doprava	Идите направо
+Jděte druhou ulicí doleva	Поверните на второй улице налево.
+Je to blízko nebo daleko?	Это близко или далеко?
+jeďte	езжайте
+jet, jedu	(V) ехать, я еду
+kavárna	кафе
+Kde bydlíš?	Где ты живешь?
+Kde bydlíte?	Где Вы живете?
+Kde je ...	Где находится ...
+kino	кино, кинотеатр
+kolik	сколько
+koruna	крона, корона
+kostel	костел/церковь (о здании)
+let	полет
+Let na Havaj zrušen pro špatné počasí	Вылет на Гавайи отменен из-за плохой погоды
+letiště	аэропорт
+lístek	билет
+lístky	билеты
+mapa	карта
+město	город
+metrem	на метро
+metro	метро
+Mimo provoz	Не работает (заведение)
+minuta	минута
+mluvit, mluvím	(V) говорить, я говорю
+moc	очень
+most	мост
+možný	возможный
+na	на (+ предл.падеж)
+na nádraží	на вокзале
+nádraží	вокзал (автобусный или ж/д)
+náměstí	площадь
+nemocnice	больница
+Nevíte, kde je ...	Вы не знаете, где находится ...
+normální	нормальный, обычный
+obchod	магазин
+obec	населенный пункт
+orientace	ориентация
+pěšky	пешком
+počasí	погода
+podívat se, podívám se na	(V) посмотреть, я посмотрю на
+Podívej se na ...	Посмотри на ...
+pro	для (+ вин.падеж)
+první	первый
+řeka	река
+rovně	прямо
+rozumět, rozumím	(V) понимать, я понимаю
+rozumí	он понимает
+rozumím	я понимаю
+rozumíme	мы понимаем
+rozumíš	ты понимаешь
+rozumíte	вы понимаете
+Rozumíte anglicky?	Вы понимаете по-английски?
+snad	наверно
+socha	скульптура
+špatný	плохой
+stanice	станция
+stát, stojím	(V) 1. стоЯть, я стою 2. стОить, он стоит
+supermarket	супермаркет
+těším se na	я жду с нетерпением (+ вин.падеж)
+těšit se	ждать с нетерпением
+To snad není možné!	Это невозможно!
+třetí	третий
+turista	турист
+turistka	туристка
+ulice	улица
+v kině	в кино
+vědět, vím	(V) знать, я знаю
+vesnice	деревня
+vidět, vidím	(V) видеть, я вижу
+vlak	поезд
+vlakem	на поезде
+zase	снова, опять
+zastávka	остановка
+země	страна
+zpáteční	обратный
+zrušen	отменен (рейс)
