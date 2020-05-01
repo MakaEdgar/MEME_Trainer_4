@@ -1,18 +1,3 @@
-# game settings
-with open("settings.txt", "r") as f:
-    settings = {(y[0]).strip():(y[1]).strip() for y in 
-                    [x.split("=") for x in f.read().split("\n") 
-                         if (len(x)>0 and x.strip()[0] != "#")]}
-username = settings.get("username", "NoName")
-dictname = settings.get("dictname", None)
-dictprefix = settings.get("dictprefix", None)
-if dictname is None:
-    print("ERROR: no dictname in settings.txt")
-    raise Exception("ERROR: no dictname in settings.txt")
-if dictprefix is not None:
-    dictname = dictprefix + "_" + dictname
-
-# ============================
 import os
 import sys
 import random
@@ -23,11 +8,11 @@ from PyQt5 import QtWidgets
 import meme_gui
 
 class Word:
-    def __init__(self, record, settings=None):
+    def __init__(self, record, settings_word={}):
         fields = [f.strip(" \t\r\n\"\'") for f in record.split("\t")]
         self.word1 = fields[0]
         self.word2 = fields[1]
-        self.audiofile = audiopath + self.get_audiofile_name(self.word1)
+        self.audiofile = settings_word.get("audiopath", "") + self.get_audiofile_name(self.word1)
         if not os.path.exists(self.audiofile):
             self.audiofile = None
         self.errors_curr_game = 0
@@ -40,11 +25,17 @@ class Word:
         return audiofile_name + ".mp3"
 
 class WordDict:
-    def __init__(self, dict_path=None, settings=None):
-        if dict_path is not None:
-            with open(dictpath, "r", encoding="UTF-8") as f:
+    def __init__(self, settings_dict={}):
+        self.dictname = settings_dict.get("dictname", None)
+        self.dictpath = settings_dict.get("dictpath", None)
+
+        self.settings_word = {"audiopath": settings_dict.get("audiopath", None)}
+        self.settings_dict = settings_dict
+        
+        if self.dictpath is not None:
+            with open(self.dictpath, "r", encoding="UTF-8") as f:
                 dict_records = [record for record in f.read().strip(" ;\r\n\t").split("\n") if (record.strip()[0] != "#")]
-                self.container_ = [Word(record) for record in dict_records]
+                self.container_ = [Word(record, self.settings_word) for record in dict_records]
         else:
             self.container_ = []
 
@@ -112,27 +103,29 @@ class WordProcessor:
         return answer_box
 
 class Trainer:
-    def __init__(self, words, processor, settings=None):
-        self.words_init = words
+    def __init__(self, words, processor, settings_train={}):
+        self.words = words
         self.processor = processor
-        self.settings = settings
+        self.username = settings_train.get("username", "Noname")
+        self.settings_train = settings_train
+        self.date = datetime.datetime.now().strftime("%d.%m.%Y %H:%M")
 
         self.words_remain = copy.deepcopy(words)
         self.words_done = WordDict()
         self.words_removed = WordDict()
         
                       
-        self.stats = {"words_dict":      self.words_init.size(),
+        self.stats = {"words_dict":         self.words.size(),
                       "words_remain":       self.words_remain.size(),
                       "words_done":         self.words_done.size(),
                       "words_removed":      self.words_removed.size(),
  
                       "words_run":          0,
-                      "words_errored":        0,
-                      "words_correct":   0,
+                      "words_errored":      0,
+                      "words_correct":      0,
                       "mistakes":           0,
                       
-                      "quality_percent":            0,
+                      "quality_percent":    0,
                       "points":             0,
                       "symbols_entered":    0,
                      } 
@@ -210,7 +203,7 @@ class Trainer:
                          "errors", "mistakes", "quality", "points", "time", "speed"]
             with open("./games_history.csv", "w") as f:
                 f.write("\t".join(col_names) + "\n")
-        col_values = [date, username, dictname, 
+        col_values = [self.date, self.username, self.words.dictname, 
                       str(self.stats.get("words_dict", "-")),
                       str(self.stats.get("words_done", "-")),
                       str(self.stats.get("words_correct", "-")),
@@ -251,6 +244,8 @@ class MainBoard(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
         self.next_btnOK_action_descr = "display_task"
         self.trainer = trainer
         self.start_time = None
+        self.pause_time = datetime.timedelta(0)
+        self.lb_task.setText("Ready to train dict: " + self.trainer.words.dictname)
         pygame.mixer.init()
 
     def btn_start_stop_clicked(self):
@@ -262,9 +257,14 @@ class MainBoard(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
         elif self.game_status_descr == "stopped":
             self.game_status_descr = "started"
             self.btn_start_stop.setText("Pause")
+            self.curr_pause_end = datetime.datetime.now()
+            self.pause_time += self.curr_pause_end - self.curr_pause_start
         elif self.game_status_descr == "started":
             self.game_status_descr = "stopped"
             self.btn_start_stop.setText("Start")
+            self.curr_pause_start = datetime.datetime.now()
+            
+
 
     def btn_ok_clicked(self):
         if self.game_status_descr != "started":
@@ -353,10 +353,14 @@ class MainBoard(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
         self.le_userans.setReadOnly(True)
         self.btn_ok.setEnabled(False)
         self.btn_start_stop.setEnabled(False)
+        
+        if self.game_status_descr == "not_started":
+            return
+        elif self.game_status_descr == "stopped":
+            self.btn_start_stop_clicked()
 
         self.end_time = datetime.datetime.now()
-        self.game_time_sec = (self.end_time - self.start_time).seconds
-
+        self.game_time_sec = ((self.end_time - self.start_time) - self.pause_time).seconds
         self.trainer.finalize(game_time_sec=self.game_time_sec)
 
 
@@ -374,12 +378,30 @@ class MainBoard(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
 
 #=======================================================
 
+# game settings
+def load_settings_global(settings_file="settings.txt"):
+    with open("settings.txt", "r") as f:
+        settings_loaded = {(y[0]).strip():(y[1]).strip() for y in 
+                        [x.split("=") for x in f.read().split("\n") 
+                             if (len(x)>0 and x.strip()[0] != "#")]}
+    username = settings_loaded.get("username", "NoName")
+    dictnames = settings_loaded.get("dictnames", None)
+    dictprefix = settings_loaded.get("dictprefix", None)
+    if dictprefix is not None:
+        dictprefix = dictprefix + "_"
+    dictnames = [dictprefix + x.strip() for x in dictnames.split(",")]
+    if len(dictnames) == 0:
+        print("ERROR in load_settings(): no \"dictnames\" in settings.txt")
+        raise Exception("ERROR in load_settings(): no \"dictname\" in settings.txt")
+    settings_global = {"username": username,
+                       "dictnames": dictnames,
+                      }
+    return settings_global
 
-def main():
-    words = WordDict(dict_path=dictpath)
+def run_gui_training(settings_dict, settings_train=None):
+    words = WordDict(settings_dict)
     processor = WordProcessor()
-    trainer = Trainer(words=words, processor=processor)
-
+    trainer = Trainer(words=words, processor=processor, settings_train=settings_train)
 
     app = QtWidgets.QApplication(sys.argv)  # Новый экземпляр QApplication
     window = MainBoard()  # Создаём объект класса ExampleApp
@@ -389,8 +411,14 @@ def main():
     window.show()  # Показываем окно
     app.exec_()  # и запускаем приложение
 
-dictpath  = "./dicts/" + dictname + "/" + dictname + ".txt"
-audiopath = "./dicts/" + dictname + "/" + dictname + "_audio/"
-date = datetime.datetime.now().strftime("%d.%m.%Y")
 
+def main():
+    settings_global = load_settings_global()
+    for dictname in settings_global["dictnames"]:
+        settings_dict = {"dictname"  : dictname,
+                         "dictpath"  : "./dicts/" + dictname + "/" + dictname + ".txt",
+                         "audiopath" : "./dicts/" + dictname + "/" + dictname + "_audio/",}
+        settings_train = {"username"  : settings_global["username"],}
+        run_gui_training(settings_dict=settings_dict,
+                         settings_train=settings_train)
 main()
