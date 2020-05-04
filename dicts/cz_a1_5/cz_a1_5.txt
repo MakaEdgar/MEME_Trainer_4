@@ -22,7 +22,7 @@ Jakou máš adresu?	Какой у тебя адрес?
 Jakou máte adresu?	Какой у Вас адрес?
 Jděte doleva	Идите налево
 Jděte doprava	Идите направо
-Jděte druhou ulicí doleva	Поверните на второй улице налево.
+Jděte druhou ulicí doleva	Поверните на второй улице налево
 Je to blízko nebo daleko?	Это близко или далеко?
 jeďte	езжайте
 jet, jedu	(V) ехать, я еду

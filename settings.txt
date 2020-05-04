@@ -1,5 +1,5 @@
 # Choose dictnames to train (use comma for several dicts)
-dictnames=a1_ed2, a1_ed1
+dictnames=a1_5, a1_4, a1_3
 
 # Set name of current user
 username=Edgar

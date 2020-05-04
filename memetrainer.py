@@ -69,7 +69,7 @@ class ContentBox:
         return self.container_.get(key, None)
         
 class WordProcessor:
-    def __init__(self, settings=None):
+    def __init__(self, settings={}):
         self.settings = settings
         self.word = None
     
