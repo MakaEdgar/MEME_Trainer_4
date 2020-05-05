@@ -1,39 +1,34 @@
 bazén	бассейн
 blond	блондин
-bota	ботинок
 břicho	живот
 časopis	журнал
 česnek	чеснок
 chodit	гулять
 chyba	ошибка
 čistý	чистый
-čokoládový	шоколад
-dárek	подарок
+dárek	подарок 2
 deštník	зонт
 diktát	диктант
 doma	дома, у себя
 fotografie	фотографии
 francouzsky	французский
 guma	жевательная резинка
-hledat	искать
 hloupý	глупый
 hodně	много
 hokej	хоккей
 housle	скрипка
 jazyk	язык
 koncert	концерт
-koruna	корона
 krásný	красивый
 kytara	гитара
 limonáda	лимонад
-matematika	математика
 mokrý	влажный
-možná	может быть
-naproti	напротив
+moře	море
 návštěva	визит
 něco	что-то
 někdo	кто-то
 německy	немецкий
+nemocný	больной, нездоровый
 nést	нести
 nikde	нигде
 Nový rok	Новый год
@@ -41,11 +36,12 @@ obědvat	обедать
 oči	глаза
 od	от
 odpočívat	отдыхать
+odpovídat	ответить
 opakovat	повторить
 opice	обезьяна
 otázka	вопрос
+ovocný	фруктовый
 paprika	паприка
-pěšky	пешком
 plán	план
 plavky	купальник
 počítat	считать
@@ -60,10 +56,11 @@ prodávat	продавать
 program	программа
 půjčit	одолжить
 půl	половина
+půlnoc	полночь
 ředitel	директор
-rychle	быстро
 sama	сама
 samozřejmě	конечно
+sejít se	встретиться
 slaný	соленый
 slunce	солнце
 slyšet	слышать
@@ -72,29 +69,32 @@ snídat	завтракать
 šortky	шорты
 souhlasit	согласиться
 špinavý	грязный
-sport	спорт
 správně	правильно
+strana	страница
 strom	дерево
 studovat	учиться
 šunka	ветчина
 svátek	праздник
 světlo	свет
 svítí	загорается
-táta	папа
+teplý	теплый
 test	тест
 text	текст
+ticho	тихо, тишина
+tma	тьма, темнота
 úkol	задача
+umět	уметь, знать
 unavený	утомленный
 uši	уши
 v krku	в горле
+v ruce	в руке
 v zimě	зимой
 Vánoce	рождество
 ve třídě	в классе
 Velikonoce	пасха
-vlakem	поездом
+veselý	веселый
 vlasy	волосы
+vpředu	впереди
 vzduch	воздух
 začátek	начало
-zelenina	овощи
-žízeň	жажда
 zkouška	экзамен

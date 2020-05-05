@@ -1,0 +1,114 @@
+banán	банан	m
+bota	ботинок	f
+boty	ботинки	
+brambor	картошка	m
+bramborový	картофельный	
+čaj	чай	m
+často	часто	
+černý	черный	
+červený	красный	
+česnekový	чесночный	
+číst, čtu	(V) читать, я читаю	
+čokoláda	шоколад	f
+čokoládový	шоколадный	
+čte	он читает	
+čteme	мы читаем	
+čteš	ты читаешь	
+čtete	вы читаете	
+čtou	они читают	
+Dám si ...	Мне пожалуйста ... (в ресторане)	
+dát si, dám si	(V) заказать, я закажу (в ресторане)	
+Dáte si ... ?	Вы не хотите ... ? (в ресторане)	
+dcl	аббревиатура для 10 мл	n
+dezert	десерт	m
+dezerty	десерты	
+Dobrou chuť!	Приятного аппетита!	
+dobrý	хороший	
+dohromady	вместе	
+dort	торт	m
+dušený	тушеный	
+dvakrát	два раза, дважды	
+džus	сок	m
+guláš	гуляш	m
+gulášový	из гуляша	
+hlad	голод	m
+hotový	готовый	
+hovězí	говяжье, говядина	
+hranolky	картофель-фри	
+Já taky	Я тоже	
+Já taky ne	Я тоже нет	
+jednou	один раз, один, однажды	
+jídelní lístek	меню	
+jídla	блюда	
+jídlo	блюдо	n
+jíst, jím	(V) кушать, я кушаю	
+karamel	карамель	m
+káva	кофе	f
+knedlík	кнедлик	m
+knedlíky	кнедлики	
+kniha	книга	f
+koktejl	коктейль	
+kola	кока-кола	f
+Kolik je hodin?	Который час?	
+kuchař	повар	
+kuchařka	повариха	
+kuře	цыпленок	n
+kvalitní	качественный	
+maďarský	венгерский	
+Mám hlad a žízeň	Я хочу есть и пить	
+mám rád	я люблю (м)	
+mám ráda	я люблю (ж)	
+maso	мясо	n
+mít rád	любить (м)	
+mít ráda	любить (ж)	
+mléko	молоко	
+mobil	мобильный телефон	m
+nápoj	напиток	m
+nápoje	напитки	
+naproti	предлог напротив, вопреки, наоборот (+ Gen)	
+neperlivý	без газа (вода)	
+oběd	обед	m
+omáčka	соус	f
+otevřeno	открыто	
+ovoce	фрукты (только ед число)	n
+palačinka	блинчик	f
+palačinky	блинчики	
+pečený	запеченный	
+perlivý	с газом (вода)	
+pít, piju	(V) пить, я пью	
+pití	питье	n
+počkat, počkám	(V) подождать, я подожду	
+polévka	суп	f
+polévky	супы	
+pomerančový	апельсиновый	
+rajčatový	томатный, из помидоров	
+řízek	венский шницель	m
+rýže	рис	f
+salát	салат	m
+saláty	салаты	
+šampaňské víno	шампанское	
+šel	он шел (прош. вр. от идти)	
+smažený	жареный	
+světlý	светлый	
+svetr	свитер	m
+taky	также	
+takže	поэтому, так что	
+To je všechno?	Это все?	
+tričko	футболка	
+třikrát	три раза, трижды	
+vanilkový	ванильный	
+vařený	вареный	
+vepřové	свиное, свинина	
+voda	вода	f
+všechno	всё	
+Zaplatím	Счет, пожалуйста	
+zaplatit, zaplatím	(V) заплатить, я заплачу	
+zavřeno	закрыто	
+zelenina	oвощи (только ед. число)	f
+zeleninový	овощной	
+zelený	зеленый	
+žízeň	жажда	f
+zmrzlina	мороженое	f
+znát, znám	(V) знать, я знаю	
+zvlášť	отдельно,особенно	
+Zvlášť nebo dohromady?	Вместе или отдельно? (платить в ресторане)	

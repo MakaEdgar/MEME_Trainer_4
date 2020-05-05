@@ -6,6 +6,7 @@ import datetime
 import copy
 from PyQt5 import QtWidgets
 import meme_gui
+from collections import defaultdict
 
 class Word:
     def __init__(self, record, settings_word={}):
@@ -16,6 +17,7 @@ class Word:
         if not os.path.exists(self.audiofile):
             self.audiofile = None
         self.errors_curr_game = 0
+        self.errors = defaultdict(int)
         
     def get_audiofile_name(self,word):
         symbols_to_replace = " .,?!\"\'"
@@ -23,6 +25,10 @@ class Word:
         for w in word:
             audiofile_name = audiofile_name + (w if w not in symbols_to_replace else "_")
         return audiofile_name + ".mp3"
+
+    def add_error(self, user_answer_box):
+        self.errors[user_answer_box.get_content("text")] += 1
+
 
 class WordDict:
     def __init__(self, settings_dict={}):
@@ -58,6 +64,10 @@ class WordDict:
             chosen_word = self.container_[0]
 
         return chosen_word
+
+    def get_words_list(self):
+        return self.container_
+
 
 class ContentBox:
     def __init__(self, description="default", contents={}):
@@ -128,6 +138,9 @@ class Trainer:
                       "quality_percent":    0,
                       "points":             0,
                       "symbols_entered":    0,
+
+                      "username":           self.username,
+                      "dictname":           self.words.dictname,
                      } 
         self.flags = {"last_user_ans_was_correct" : True}
 
@@ -162,6 +175,7 @@ class Trainer:
             if self.word.errors_curr_game == 0:
                 self.stats["words_errored"] += 1
             self.word.errors_curr_game += 1
+            self.word.add_error(user_answer_box)
             
 
         return self.processor.get_answer()
@@ -198,24 +212,38 @@ class Trainer:
             self.stats["game_time"] = (hours + mins) if (hours != "0h") else mins
             self.stats["speed"] = (self.stats.get("symbols_entered", 0)*60) //  game_time_sec
         
-        if not os.path.exists("./games_history.csv"):
-            col_names = ["date", "user", "dict", "dict_words", "done", "correct",  
-                         "errors", "mistakes", "quality", "points", "time", "speed"]
-            with open("./games_history.csv", "w") as f:
-                f.write("\t".join(col_names) + "\n")
-        col_values = [self.date, self.username, self.words.dictname, 
-                      str(self.stats.get("words_dict", "-")),
-                      str(self.stats.get("words_done", "-")),
-                      str(self.stats.get("words_correct", "-")),
-                      str(self.stats.get("words_errored", "-")),
-                      str(self.stats.get("mistakes", "-")),
-                      str(self.stats.get("quality_percent", "-")) + " %",
-                      str(self.stats.get("points", "-")),
-                      str(self.stats.get("game_time", "-")),
-                      str(self.stats.get("speed", "-")),
-                     ]
-        with open("./games_history.csv", "a") as f:
-                f.write("\t".join(col_values) + "\n")
+        user_history_file = "./users/" + self.username + "/user_history.csv"
+        if not os.path.exists(user_history_file):
+            history_col_names = ["date", "user", "dict", "dict_words", "done", "correct",  
+                                 "errors", "mistakes", "quality", "points", "time", "speed"]
+            with open(user_history_file, "w") as f:
+                f.write("\t".join(history_col_names) + "\n")
+        history_col_values = [self.date, self.username, self.words.dictname, 
+                              str(self.stats.get("words_dict", "-")),
+                              str(self.stats.get("words_done", "-")),
+                              str(self.stats.get("words_correct", "-")),
+                              str(self.stats.get("words_errored", "-")),
+                              str(self.stats.get("mistakes", "-")),
+                              str(self.stats.get("quality_percent", "-")) + " %",
+                              str(self.stats.get("points", "-")),
+                              str(self.stats.get("game_time", "-")),
+                              str(self.stats.get("speed", "-")),
+                              ]
+        with open(user_history_file, "a") as f:
+                f.write("\t".join(history_col_values) + "\n")
+
+        user_errors_file = "./users/" + self.username + "/user_errors.txt"
+        if not os.path.exists(user_errors_file):
+            err_col_names = ["error_date", "user", "dict", "word", "translation", "errors"]
+            with open(user_errors_file, "w") as f:
+                f.write("\t".join(err_col_names) + "\n")
+        for word in self.words_done.get_words_list():
+            if word.errors_curr_game != 0:
+                err_col_values = [self.date, self.username, self.words.dictname, 
+                                  word.word1, word.word2, str(dict(word.errors))]
+                with open(user_errors_file, "a", encoding="UTF-8") as f:
+                    f.write("\t".join(err_col_values) + "\n")
+
 
     def eval_command(self, command):
         if command == "n":
@@ -335,8 +363,14 @@ class MainBoard(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
         num_mistakes = stats.get("mistakes", "-")
         num_percent = stats.get("quality_percent", "-")
         num_points = stats.get("points", "-")
+        username = stats.get("username", "-")
+        dictname = stats.get("dictname", "-")
+        
 
-        self.statusbar.showMessage(  "Done: "     + str(num_words_done) +  " "
+        self.statusbar.showMessage(  "User: "     + username +  " "
+                                   #+ "Dict: "     + dictname +  " "
+                                   + "\t\t\t"
+                                   + "Done: "     + str(num_words_done) +  " "
                                    + "Errors: "   + str(num_words_errored) + " "
                                    #+ "Correct: "  + str(num_words_correct) + " "
                                    + "Mistakes: " + str(num_mistakes) + " "
@@ -344,6 +378,8 @@ class MainBoard(QtWidgets.QMainWindow, meme_gui.Ui_MainWindow):
                                    + "Points: "   + str(num_points) + " " 
                                    + "\t\t" 
                                    + "Remain: "   + str(num_words_remain) + " "
+                                   
+                                   
                                   )
 
     def finalize(self):
@@ -384,15 +420,30 @@ def load_settings_global(settings_file="settings.txt"):
         settings_loaded = {(y[0]).strip():(y[1]).strip() for y in 
                         [x.split("=") for x in f.read().split("\n") 
                              if (len(x)>0 and x.strip()[0] != "#")]}
-    username = settings_loaded.get("username", "NoName")
     dictnames = settings_loaded.get("dictnames", None)
     dictprefix = settings_loaded.get("dictprefix", None)
     if dictprefix is not None:
         dictprefix = dictprefix + "_"
-    dictnames = [dictprefix + x.strip() for x in dictnames.split(",")]
+    dictnames = [dictprefix + x.strip() for x in dictnames.split(",") if x.strip() != ""]
     if len(dictnames) == 0:
         print("ERROR in load_settings(): no \"dictnames\" in settings.txt")
         raise Exception("ERROR in load_settings(): no \"dictname\" in settings.txt")
+    
+
+    if not os.path.exists("./users/"):
+        os.mkdir("./users/")
+    if not os.path.exists("./users/user_settings.txt"):
+        with open("./users/user_settings.txt", "w") as f:
+            f.write("# Set name of current user\nusername=Noname") 
+    with open("./users/user_settings.txt", "r") as f:
+        user_settings_loaded = {(y[0]).strip():(y[1]).strip() for y in 
+                                [x.split("=") for x in f.read().split("\n") 
+                                    if (len(x)>0 and x.strip()[0] != "#")]}
+    username = user_settings_loaded.get("username", "NoName")
+    if not os.path.exists("./users/" + username + "/"):
+        os.mkdir("./users/" + username + "/")
+
+
     settings_global = {"username": username,
                        "dictnames": dictnames,
                       }

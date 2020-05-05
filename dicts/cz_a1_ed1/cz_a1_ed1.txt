@@ -1,15 +1,14 @@
 ananas	ананас
 babička	бабушка
-banán	банан
-banka	банк
+barva	цвет
 bobule	ягода
 brambory	картофель
 bratr	брат
 bratranec	двоюродный брат
 broskev	персик
+brzy	ранo
 buchta	булочка
 byt	квартира
-čaj	чай
 centrum	центр
 čeština	чешский
 chlapec	мальчик
@@ -19,81 +18,80 @@ cibule	лук (репчатый)
 církev	церковь
 citron	лимон
 člověk	человек
-čokoláda	шоколад
 cukr	сахар
 dcera	дочь
 dědeček	дед
 děti	дети
-divadlo	театр
 dívka	девочка
-dort	торт
-dům	дом
 dveře	дверь
 džem	варенье
-džus	сок
+hodiny	часы
 hora	гора
 host	гость
 hotel	гостиница
+hotovo	сделано, готово
 houba	гриб
-hovězí	говядина
 hrách	горох
 hrozny	виноград
 hruška	груша
 inženýr	инженер
 jablko	яблоко
-jídlo	еда
+jahoda	клубника
+jak	как
+jeho	его
+kabát	пальто
+kam	куда
 kaše	каша
-káva	кофе
-kavárna	кафе
-kino	кинотеатр
 klíč	ключ
 klobása	колбаса
+klobouk	шляпа
 kočka	кошка
 koláč	пирог
 koupelna	ванная
 křižovatka	перекрёсток
 kuchyně	кухня
-kuře	курица
+květen	май
 láhev	бутылка
 lednička	холодильник
 les	лес
+letadlo	самолет
 ložnice	спальня
 lžíce	ложка
 malíř	художник
 manžel	муж
 máslo	масло
-maso	мясо
 matka	мать
 med	мёд
+měkký	мягкий
 meloun	дыня
-město	город
+meruňka	абрикос
+měsíc	месяц
 místo	место
-mléko	молоко
-most	мост
 mrkev	морковь
-nádraží	станция, вокзал
-náměstí	площадь
-nemocnice	больница
+na jaře	весной
+na podzim	осенью
+nízký	низкий
+noviny	газета
 nudle	лапша
 nůž	нож
-obchod	магазин
-oběd	обед
+obtížný	тяжёлый, трудный
 obývací pokoj	зал
+odkud	откуда
 okurka	огурец
 olej	растительное масло
 ořech	орех
 otec	отец
-ovoce	фрукты
 park	парк
 patro	этаж
 pepř	горький перец
 pes	собака
+pod	под
 podlaha	пол
 podšálek	блюдце
 pohovka	диван
-polévka	суп
 policie	полиция
 polštář	подушка
+pomalu	медленно
 pomeranč	апельсин
 pošta	почта
 práce	работа
@@ -102,15 +100,16 @@ přítel	друг
 prodavač	продавец
 pták	птица
 rajče	помидор
-řeka	река
 řepa	свекла
 řidič	водитель
-řízek	котлета
+říjen	октябрь
 rodiče	родители
+rozzlobený	сердитый
 ryba	рыба
-rýže	рис
-salát	салат
+rychle	быстро
+šachy	шахматы
 šálek	чашка
+šaty	платье
 sendvič	бутерброд
 sestra	сестра
 sestřenice	двоюродная сестра
@@ -119,6 +118,7 @@ sladkost	конфета, сладость
 snídaně	завтрак
 sodovka	газировка
 sprcha	душ
+srpen	август
 strop	потолок
 strýc	дядя
 sůl	соль
@@ -127,24 +127,24 @@ sýr	сыр
 talíř	тарелка
 tchán	тесть (свекор)
 tchyně	теща (свекровь)
+televizor	телевизор
 teta	тетя
 toaleta	туалет
 trh	рынок
+tvrdý	твёрдый
 ubrousek	салфетка
 účetní	бухгалтер
-ulice	улица
+únor	февраль
+včera	вчера
 večeře	ужин
 vejce	яйцо
-vepřové	свинина
 vidlička	вилка
-voda	вода
 vodní meloun	арбуз
+volný	свободный
 zahrada	сад
 zákusek	пирожное
-zastávka	остановка
 zdravotní sestra	медсестра
 zelí	капуста
-země	страна
-zmrzlina	мороженое
+zima	зима
 zrcadlo	зеркало
 zvíře	животное
