@@ -1,7 +1,7 @@
 .vscode
 memetrainer_old.py
 games_history.csv
-dicts/cz1_test/*
+dicts/cz_test/*
 dicts/dicts_creator/*
 dicts/old_dicts/*
 tools/*
