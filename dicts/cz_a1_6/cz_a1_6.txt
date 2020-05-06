@@ -5,8 +5,6 @@ brambor	картошка	m
 bramborový	картофельный	
 čaj	чай	m
 často	часто	
-černý	черный	
-červený	красный	
 česnekový	чесночный	
 číst, čtu	(V) читать, я читаю	
 čokoláda	шоколад	f
@@ -23,7 +21,6 @@ dcl	аббревиатура для 10 мл	n
 dezert	десерт	m
 dezerty	десерты	
 Dobrou chuť!	Приятного аппетита!	
-dobrý	хороший	
 dohromady	вместе	
 dort	торт	m
 dušený	тушеный	
@@ -46,7 +43,6 @@ karamel	карамель	m
 káva	кофе	f
 knedlík	кнедлик	m
 knedlíky	кнедлики	
-kniha	книга	f
 koktejl	коктейль	
 kola	кока-кола	f
 Kolik je hodin?	Который час?	
@@ -106,7 +102,6 @@ zaplatit, zaplatím	(V) заплатить, я заплачу
 zavřeno	закрыто	
 zelenina	oвощи (только ед. число)	f
 zeleninový	овощной	
-zelený	зеленый	
 žízeň	жажда	f
 zmrzlina	мороженое	f
 znát, znám	(V) знать, я знаю	
