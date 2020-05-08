@@ -1,0 +1,138 @@
+aktivní	активный
+analyzovat, analyzuju	(V) анализировать, я анализирую
+angličtina	английский язык
+Anglie	Англия
+asi	примерно
+babička	бабушка
+bratr	брат
+budu	я буду
+budu dělat	я буду делать
+budu rozumět	я пойму
+byl jsem	я был
+byla jsem	я была
+čekat, čekám	(V) ждать, я жду
+chvíle	минутка, минута
+dcera	дочь
+dědeček	дедушка
+dělal jsem	я делал
+dělala jsem	я делала
+délky	длины
+děti	дети
+diskutovat, diskutuju	(V) дискутировать/обсуждать, я дискутирую
+dítě	ребенок
+doma	дома
+elegantní	элегантный
+energický	энергичный
+hubený	худой
+inteligentní	интеллигентный
+Jaká je tvoje sestra?	Какая твоя сестра?
+jaká situace	какая ситуация
+Jaký je tvůj bratr?	Какой твой брат?
+Je jí dvacet pět let	Ей 25 лет
+Je mu dvacet pět let	Ему 25 лет
+jeho	его
+její	ее
+jejich	их
+ještě	еще
+jí	ей
+jim	им
+jmenovat se, jmenuju se	(V) называться, меня зовут
+kočka	кошка
+kolega	коллега (м)
+kolegyně	коллега (ж)
+Kolik jí je?	Сколько ей (лет)?
+Kolik mu je?	Сколько ему (лет)?
+komunikovat, komunikuju	(V) общаться, я общаюсь
+krásný	красивый
+Mám mladšího bratra	У меня есть младший брат
+Mám velkého psa	У меня есть большая собака
+maminka	мама (неофициально)
+manžel	супруг
+manželka	супруга
+matematika	математика
+matka	мать (официально)
+mechanik	механик
+medicína	медицина
+mi	мне
+mladší	младший
+moje	моя (ж)
+moment	момент, секундочку
+mu	ему (m+n род)
+můj	мой (м)
+myslet, myslím	(V) думать, я думаю
+nám	нам
+náš	наш (м)
+naše	наша (ж)
+nejlepší	самый лучший
+nemocný	больной
+nervózní	нервозный
+o	во время (+ предл. падеж)
+optimistický	оптимистичный
+otec	отец (официально)
+pečlivě	тщательно
+pes	собака
+pesimistický	пессимистичный
+plánovat, plánuju	(V) планировать, я планирую
+populární	популярный
+použijte	используйте (perfectní forma)
+pracovat, pracuju	(V) работать, я работаю
+pracuje	он-она работает
+pracujeme	мы работаем
+pracuješ	ты работаешь
+pracujete	вы работаете
+pracují	они работают (письм)
+pracujou	они работают (разг)
+příloha	приложение
+přítel	друг, boyfriend
+přítelkyně	подруга, girlfriend
+prodavač	продавец
+prodavačka	продавщица
+protestovat, protestuju	(V) возражать, я возражаю
+rodič	родитель
+rodiče	родители
+rozuměl jsem	я понял
+rozuměla jsem	я поняла
+sekretář	секретарь (он)
+sekretářka	секретарь (она)
+sestra	сестра
+silnější	более сильный, немного полный
+smutný	грустный
+spolu	вместе
+sportovat, sportuju	(V) заниматься спортом, я занимаюсь спортом
+starší	старшего возраста
+šťastný	счастливый
+studovat, studuju	(V) учиться, я учусь
+svobodný	неженатый
+sympatický	симпатичный
+syn	сын
+tatínek	папа (неофициально)
+telefonovat, telefonuju	(V) звонить по телефону, я звоню
+ti	тебе
+tlustý	толстый
+tramvají	(ехать) на трамвае
+tvoje	твоя (ж)
+tvůj	твой (м)
+univerzita	университет
+úřednice	чиновница
+úředník	чиновник
+uvidět, uvidím	(V) увидеть, я увижу
+vám	вам
+váš	ваш (м)
+vaše	ваша (ж)
+vdaná	замужем
+ve cvičení	в упражнении
+ve škole	в школе
+vnučka	внучка
+vnuk	внук
+výrazy	выражения
+výrobky	изделия
+výslovnost	произношение
+vysoký	высокий
+z Itálie	из Италии
+z Kanady	из Канады
+z Německa	из Германии
+z Vietnamu	из Вьетнама
+za	через (+ вин. падеж, о времени)
+Za chvíli jsem tady	Я буду через минутку
+ženatý	женатый
+žít, žiji	(V) жить 2, я живу

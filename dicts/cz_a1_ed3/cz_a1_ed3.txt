@@ -1,3 +1,6 @@
+doma	дома, у себя
+krásný	красивый
+prodavačka	продавщица
 bazén	бассейн
 blond	блондин
 břicho	живот
@@ -9,7 +12,6 @@ chyba	ошибка
 dárek	подарок 2
 deštník	зонт
 diktát	диктант
-doma	дома, у себя
 fotografie	фотографии
 francouzsky	французский
 guma	жевательная резинка
@@ -19,7 +21,6 @@ hokej	хоккей
 housle	скрипка
 jazyk	язык
 koncert	концерт
-krásný	красивый
 kytara	гитара
 limonáda	лимонад
 mokrý	влажный
@@ -51,7 +52,6 @@ policista	полицейский
 pozdě	поздно
 přestávka	перерыв
 příroda	природа
-prodavačka	продавщица
 prodávat	продавать
 program	программа
 půjčit	одолжить
@@ -76,7 +76,7 @@ studovat	учиться
 šunka	ветчина
 svátek	праздник
 světlo	свет
-svítí	загорается
+svítit	светить
 teplý	теплый
 test	тест
 text	текст

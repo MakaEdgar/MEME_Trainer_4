@@ -1,109 +1,145 @@
-banán	банан	m
-bota	ботинок	f
-boty	ботинки	
-brambor	картошка	m
-bramborový	картофельный	
-čaj	чай	m
-často	часто	
-česnekový	чесночный	
-číst, čtu	(V) читать, я читаю	
-čokoláda	шоколад	f
-čokoládový	шоколадный	
-čte	он читает	
-čteme	мы читаем	
-čteš	ты читаешь	
-čtete	вы читаете	
-čtou	они читают	
-Dám si ...	Мне пожалуйста ... (в ресторане)	
-dát si, dám si	(V) заказать, я закажу (в ресторане)	
-Dáte si ... ?	Вы не хотите ... ? (в ресторане)	
-dcl	аббревиатура для 10 мл	n
-dezert	десерт	m
-dezerty	десерты	
-Dobrou chuť!	Приятного аппетита!	
-dohromady	вместе	
-dort	торт	m
-dušený	тушеный	
-dvakrát	два раза, дважды	
-džus	сок	m
-guláš	гуляш	m
-gulášový	из гуляша	
-hlad	голод	m
-hotový	готовый	
-hovězí	говяжье, говядина	
-hranolky	картофель-фри	
-Já taky	Я тоже	
-Já taky ne	Я тоже нет	
-jednou	один раз, один, однажды	
-jídelní lístek	меню	
-jídla	блюда	
-jídlo	блюдо	n
-jíst, jím	(V) кушать, я кушаю	
-karamel	карамель	m
-káva	кофе	f
-knedlík	кнедлик	m
-knedlíky	кнедлики	
-koktejl	коктейль	
-kola	кока-кола	f
-Kolik je hodin?	Который час?	
-kuchař	повар	
-kuchařka	повариха	
-kuře	цыпленок	n
-kvalitní	качественный	
-maďarský	венгерский	
-Mám hlad a žízeň	Я хочу есть и пить	
-mám rád	я люблю (м)	
-mám ráda	я люблю (ж)	
-maso	мясо	n
-mít rád	любить (м)	
-mít ráda	любить (ж)	
-mléko	молоко	
-mobil	мобильный телефон	m
-nápoj	напиток	m
-nápoje	напитки	
-naproti	предлог напротив, вопреки, наоборот (+ Gen)	
-neperlivý	без газа (вода)	
-oběd	обед	m
-omáčka	соус	f
-otevřeno	открыто	
-ovoce	фрукты (только ед число)	n
-palačinka	блинчик	f
-palačinky	блинчики	
-pečený	запеченный	
-perlivý	с газом (вода)	
-pít, piju	(V) пить, я пью	
-pití	питье	n
-počkat, počkám	(V) подождать, я подожду	
-polévka	суп	f
-polévky	супы	
-pomerančový	апельсиновый	
-rajčatový	томатный, из помидоров	
-řízek	венский шницель	m
-rýže	рис	f
-salát	салат	m
-saláty	салаты	
-šampaňské víno	шампанское	
-šel	он шел (прош. вр. от идти)	
-smažený	жареный	
-světlý	светлый	
-svetr	свитер	m
-taky	также	
-takže	поэтому, так что	
-To je všechno?	Это все?	
-tričko	футболка	
-třikrát	три раза, трижды	
-vanilkový	ванильный	
-vařený	вареный	
-vepřové	свиное, свинина	
-voda	вода	f
-všechno	всё	
-Zaplatím	Счет, пожалуйста	
-zaplatit, zaplatím	(V) заплатить, я заплачу	
-zavřeno	закрыто	
-zelenina	oвощи (только ед. число)	f
-zeleninový	овощной	
-žízeň	жажда	f
-zmrzlina	мороженое	f
-znát, znám	(V) знать, я знаю	
-zvlášť	отдельно,особенно	
-Zvlášť nebo dohromady?	Вместе или отдельно? (платить в ресторане)	
+Ano, děkuju	Да, спасибо
+banán	банан
+bota	ботинок
+boty	ботинки
+brambor	картошка
+bramborový	картофельный
+čaj	чай
+často	часто
+česnekový	чесночный
+Chtěl bych ...	Я хотел бы ...
+Chtěla bych ...	Я хотела бы ...
+číst, čtu	(V) читать, я читаю
+čokoláda	шоколад
+čokoládový	шоколадный
+čte	он читает
+čteme	мы читаем
+čteš	ты читаешь
+čtete	вы читаете
+čtou	они читают
+Dám si ...	Мне пожалуйста ... (в ресторане)
+Dám si jednou kávu	Мне, пожалуйста, один кофе
+Dám si ten černý čaj, tu černou kávu a to černé pivo	Можно мне этот черный чай, этот черный кофе и это черное пиво.
+Dáme si dvakrát čaj	Нам, пожалуйста, два чая
+Dáme si třikrát hranolky	Нам, пожалуйста, три картошки фри
+Dáš si kávu?	Хочешь кофе?
+dát si, dám si	(V) заказать, я закажу (в ресторане)
+Dáte si ... ?	Вы не хотите ... ? (в ресторане)
+dcl	аббревиатура для 10 мл
+dezert	десерт
+dezerty	десерты
+Dobrou chuť!	Приятного аппетита!
+dobrou restauraci	хороший ресторан (Acc)
+dohromady	вместе
+dolů	(идите) вниз
+doprostřed	(идите) до середины
+dort	торт
+dušený	тушеный
+dvakrát	два раза, дважды
+džus	сок
+guláš	гуляш
+gulášový	из гуляша
+hlad	голод
+hotový	готовый
+hovězí	говяжье, говядина
+hranolky	картофель-фри
+Já taky	Я тоже
+Já taky ne	Я тоже нет
+jednou	один раз, один, однажды
+jídelní lístek	меню
+jídla	блюда
+jídlo	блюдо
+jíst, jím	(V) кушать, я кушаю
+kam	куда
+karamel	карамель
+káva	кофе
+knedlík	кнедлик
+knedlíky	кнедлики
+koktejl	коктейль
+kola	кока-кола
+Kolik je hodin?	Который час?
+kuchař	повар
+kuchařka	повариха
+kuře	цыпленок
+kvalitní	качественный
+maďarský	венгерский
+Mám hlad a žízeň	Я хочу есть и пить
+mám rád	я люблю (м)
+mám ráda	я люблю (ж)
+maso	мясо
+mít rád	любить (м)
+mít ráda	любить (ж)
+mléko	молоко
+mobil	мобильный телефон
+Musíte jet autobusem číslo dva	Можете ехать на автобусе номер 2
+Musíte jet dvojkou	Можете ехать двойкой
+Musíte jet jedničkou	Можете ехать единичкой
+Musíte jet tramvají číslo jedna	Можете ехать на трамвае номер 1
+Na zdraví!	На здоровье!
+nahoru	(идите) вверх
+nápoj	напиток
+nápoje	напитки
+naproti	напротив, вопреки, наоборот (+ Gen)
+Ne, děkuju	Не, спасибо
+Nedáte si kávu?	Не хотите кофе?
+neperlivý	без газа (вода)
+oběd	обед
+omáčka	соус
+otevřeno	открыто
+ovoce	фрукты (только ед число)
+pak	затем, потом
+palačinka	блинчик
+palačinky	блинчики
+pečený	запеченный
+perlivý	с газом (вода)
+pít, piju	(V) пить, я пью
+pití	питье
+počkat, počkám	(V) подождать, я подожду
+polévka	суп
+polévky	супы
+pomerančový	апельсиновый
+Promiňte, odskočím si	Извините, я отойду ненадолго
+Prosím, deset deka	Пожалуйста, 100 грамм
+rajčatový	томатный, из помидоров
+řízek	котлета
+rýže	рис
+salát	салат
+saláty	салаты
+šampaňské víno	шампанское
+šel	он шел (прош. вр. от идти)
+sem	(идите) сюда
+smažený	жареный
+sto dolarů	100 долларов
+sto korun	100 крон
+světlý	светлый
+svetr	свитер
+taky	также
+takže	поэтому, так что
+ten dobrý banán	этот хороший банан (Acc)
+to dobré auto	это хорошее авто (Acc)
+To je všechno?	Это все?
+toho dobrého studenta	того хорошего студента (Acc)
+toho kvalitní kolegu	того качественного коллегу (m, Acc)
+toho muže	того господина (Acc)
+tričko	футболка
+třikrát	три раза, трижды
+tu kávu	этот кофе (Acc)
+vanilkový	ванильный
+vařený	вареный
+vedle banky	возле банка
+vedle kina	возле кинотеатра
+vedle obchodu	около магазина
+vedle restaurace	около ресторана
+vepřové	свиное, свинина
+voda	вода
+všechno	всё
+Zaplatím	Счет, пожалуйста
+zaplatit, zaplatím	(V) заплатить, я заплачу
+zavřeno	закрыто
+zelenina	oвощи (только ед. число)
+zeleninový	овощной
+žízeň	жажда
+zmrzlina	мороженое
+znát, znám	(V) знать 2, я знаю
+zvlášť	отдельно,особенно
+Zvlášť nebo dohromady?	Вместе или отдельно? (платить в ресторане)
