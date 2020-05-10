@@ -119,7 +119,7 @@ ten dobrý banán	этот хороший банан (Acc)
 to dobré auto	это хорошее авто (Acc)
 To je všechno?	Это все?
 toho dobrého studenta	того хорошего студента (Acc)
-toho kvalitní kolegu	того качественного коллегу (m, Acc)
+toho kvalitního kolegu	того качественного коллегу (m, Acc)
 toho muže	того господина (Acc)
 tričko	футболка
 třikrát	три раза, трижды

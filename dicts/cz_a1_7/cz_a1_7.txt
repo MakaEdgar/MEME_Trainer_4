@@ -53,7 +53,7 @@ matematika	математика
 matka	мать (официально)
 mechanik	механик
 medicína	медицина
-mi	мне
+mi	(дать) мне
 mladší	младший
 moje	моя (ж)
 moment	момент, секундочку
@@ -135,4 +135,4 @@ z Vietnamu	из Вьетнама
 za	через (+ вин. падеж, о времени)
 Za chvíli jsem tady	Я буду через минутку
 ženatý	женатый
-žít, žiji	(V) жить 2, я живу
+žít, žiju	c
