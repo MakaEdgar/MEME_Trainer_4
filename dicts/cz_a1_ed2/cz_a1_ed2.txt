@@ -1,100 +1,150 @@
 balónek	воздушный шарик
-bez	без
-bonbon	конфеты
+bazén	бассейн
+blond	блондин
 březen	март
+břicho	живот
 bunda	куртка
-cena	цена
 čepice	шапка
 červen	июнь
 červenec	июль
-chladno	холодно
-dar	подарок
-datum	дата
-datum narození	дата рождения
-dlouho	долго
-do	в, до
-domácí úkol	домашнее задание
-dopis	письмо
-dopoledne	утром
+česnek	чеснок
+chodit	гулять
+chyba	ошибка
+čistý	чистый
+dárek	подарок 2
+deštník	зонт
+diktát	диктант
 drahý	дорогой
 duben	апрель
-hladový	голодный
-hlavní	главный
-hodina	час
-hory	горы
+fotografie	фотографии
+francouzsky	французский
+guma	жевательная резинка
+hloupý	глупый
+hodně	много
+housle	скрипка
 hračka	игрушка
 hřeben	расчёска
 jaro	весна
-jejich	их
-jezdit na kole	ездить на велосипеде
+jazyk	язык
 jízdenka	билет на поезд, автобус
-kakao	какао
 kalhoty	брюки
 kamera	камера
 kapesník	носовой платок
 kečup	кетчуп
 kolo	велосипед
 košile	рубашка
-krát	столько
 krátký	короткий
 kravata	галстук
-kufr	чемодан
+kytara	гитара
 leden	январь
 lehký	легкий (по весу)
 letenka	билет на самолет
 léto	лето
 levný	дешёвый
+limonáda	лимонад
 listopad	ноябрь
 mezi	между
 míč	мяч
 minulý	прошлый
-můj	мой
+mokrý	влажный
+moře	море
 mýdlo	мыло
-narozeniny	день рождения
 naš	наш
-obálka	конверт
+návštěva	визит
+německy	немецкий
+nemocný	больной, нездоровый
+nést	нести
+Nový rok	Новый год
+obědvat	обедать
+oči	глаза
+od	от
 oděv	одежда
+odpočívat	отдыхать
+odpovídat	ответить
+opakovat	повторить
+opice	обезьяна
+otázka	вопрос
+ovocný	фруктовый
+paprika	паприка
 pěkný	красивый
+plán	план
+plavky	купальник
 po	после
-počítač	компьютер
+počítat	считать
 podle	по, согласно
 podzim	осень
+pohádka	сказка
 pohlednice	открытка
+polibek	поцелуй
+policista	полицейский
 ponožka	носок
+pozdě	поздно
 později	поздно
 pozorný	внимательный
 před	до, прежде, перед
 přehrávač	плейер
+přestávka	перерыв
 připravený	готовый, приготовленный
+příroda	природа
 příští	следующий
+prodávat	продавать
 prosinec	декабрь
+půjčit	одолжить
+půl	половина
+půlnoc	полночь
 rád	рад(остный)
+ředitel	директор
 rukavice	перчатка
-s	с
 sako	пиджак
+sama	сама
+samozřejmě	конечно
 šátek	шарф
 šedý	серый
-smutný	печальный
+sejít se	встретиться
+slaný	соленый
+slunce	солнце
+slyšet	слышать
 snadný	лёгкий, несложный
+sněží	идет снег
+snídat	завтракать
+šortky	шорты
+souhlasit	согласиться
+špinavý	грязный
+správně	правильно
 správný	правильный
-šťastný	счастливый
+strana	страница
+strom	дерево
+studovat	учиться
 sukně	юбка
-svůj	свой
+šunka	ветчина
+svátek	праздник
+světlo	свет
+svítit	светить
 taška	сумка
-teplo	теплo
+teplý	теплый
+text	текст
 těžký	тяжелый (по весу)
+ticho	тихо, тишина
+tma	тьма, темнота
 tmavý	тёмный
-tvůj	твой
 účet	счёт
-váš	ваш
-váza	ваза
-vdaná	замужняя
+úkol	задача
+umět	уметь, знать
+uši	уши
+v krku	в горле
+v ruce	в руке
+v zimě	зимой
+ve třídě	в классе
 věc	вещь
+Velikonoce	пасха
+veselý	веселый
+vlasy	волосы
+vpředu	впереди
 vstupenka	билет в кино, театр
-vysoký	высокий
-za	за, позади
+vzduch	воздух
+začátek	начало
 září	сентябрь
 žehlička	утюг
-ženatý	женатый
-Chtěl bych ...	Я хотел бы ...
-Chtěla bych ...	Я хотела бы ...
+zkouška	экзамен
+zlý	плохой, злой
+z, ze	из, с (2 формы)

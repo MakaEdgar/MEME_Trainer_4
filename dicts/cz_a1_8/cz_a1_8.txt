@@ -1,0 +1,134 @@
+akce	мероприятие
+akční film	боевик
+aktivita	деятельность
+bohužel	к сожалению
+byt	квартира
+časopis	журнал
+celkem	общий
+chtít, chci	(V) хотеть, я хочу
+cvičit, cvičím	(V) заниматься спортом
+datum	дата
+detektivka	детектив
+diskotéka	дискотека
+divadelní hra	театральная пьеса
+domácí úkol	домашнее задание
+dopoledne	до обеда
+dvě	две
+festival	фестиваль
+fotbal	футбол
+Hodí	Подходит
+Hodí se ti to?	Тебе это подходит?
+Hodí se vám to?	Вам это подходит?
+hodina	час
+hodiny	(о времени) часы
+hodit se, hodí se	(V) подходить, это (мне) подходит
+hokej	хоккей
+hospoda	трактир
+hra	игра, пьеса
+hrát, hraju	(V) играть, я играю
+hudba	музыка
+Jdu do školy	Я иду в школу
+Je mi to jedno	Мне все равно
+Je mi to líto	Mне жаль
+jedí	они едят
+Jedu do Ruska	Я еду в Россию
+Jedu na univerzitu	Я eду в университет
+jiný	другой
+Jsem v Rusku	Я в России
+každý	каждый
+každý	каждый
+Kdy je ...	Когда ...
+Kdy se sejdeme?	Когда мы встретимся?
+Kolikátého je dnes?	Какое сегодня число?
+kolikátý	какой по счету, который
+koncert	концерт
+Koncert je v 9 večer	Концерт будет в 9 вечера
+končit, končím	(V) закончить, я закончу
+konference	конференция
+kontrolovat, kontroluji	(V) контролировать
+konzultace	консультация
+kulturní	культурный
+lekce češtiny	урок чешского языка
+Lekce je v 8 ráno	Лекция будет в 8 утра
+Mám moc práce	У меня много работы
+měsíc	месяц
+mítink	встреча, митинг
+moct, můžu	(V) мочь, я могу
+mýt se, myju se	(V) мыться
+nahlas	вслух
+nakupovat, nakupuju	(V) покупать, я покупаю
+narozeniny	день рождения
+navzáem	друг друга
+Nechceš jet na výlet?	Ты не хочешь поехать на экскурсию?
+Nechceš jít na procházku?	Ты не хочешь пойти на прогулку?
+Nechceš jít na tenis?	Ты не хочешь пойти на теннис?
+něco	что-то
+Nehodí	Не подходит (мне)
+někde	где-то
+někdo	кто-то
+někdy	когда-то
+nepatří	не принадлежит
+nic	ничего
+nikde	никде
+nikdo	никто
+nikdy	никогда
+Nikdy nehraju volejbal	Я никогда не играю в волейбол
+Nikdy nemám čas	У меня никогда нет времени
+noviny	газета/газеты (только мн. число)
+Oběd je ve 2 odpoledne	Обед будет в два часа дня
+obědvat, obědvám	(V) обедать
+oblékat se, oblékám se	(V) одеваться
+odpočívat, odpočívám	(V) отдыхать
+odpovídat, odpovídám	(V) отвечать
+opakovat, opakuju	(V) повторять
+opera	опера
+počítač	компьютер
+podtržený	подчеркнутый
+poslouchat, poslouchám	(V) слушать, я слушаю
+pospíchat, pospíchám	(V) торопиться
+práce	работа
+procházka	прогулка
+prodávat, prodávám	(V) продавать
+program	программа
+prohlížet si, prohlížím si	(V) осматривать
+psát, píšu	(V) писать, я пишу
+Ráda čte knihy	Она любит читать книги
+sedět, sedím	(V) сидеть
+Sejdeme se zítra ve 4	Встретимся завтра в 4
+sejít se, sejdu se	(V) встретиться, я встречусь
+skupina	группа
+sloveso	глагол
+spát, spím	(V) спать, я сплю
+společný	общий, совместный
+sport	спорт
+stromeček	рождественская елка
+tancovat, tancuju	(V) танцевать, я танцую
+tenis	теннис
+test	тест
+třeba	например, может быть
+trénink	тренировка
+uklízet, uklízím	(V) убирать, я убираю
+unavený	уставший
+úplně	совсем
+V kolik hodin je ...	Во сколько ...
+v noci	ночью
+v půl druhé	в пол второго
+v supermarketu	в супермаркете
+Vánoce	Рождество
+vařit, vařím	(V) готовить (еду), я готовлю
+ve čtvrt na jednu	в четверть первого
+ve tři čtvrtě na tří	без пятнадцати три
+večeřet, večeřím	(V) ужинать
+Veselé Vánoce!	Счастливого Рождества!
+veselý	веселый
+věty	предложения
+volejbal	волейбол
+vstávat, vstávám	(V) вставать, я встаю
+výlet	экскурсия
+výstava	выставка
+vysvětlovat, vysvětluju	(V) объяснять
+vzpomínat na, vzpomínám na	(V) вспоминать о
+Za týden jsou Vánoce	Через неделю Рождество
+začínat, začínám	(V) начинать(ся), я начинаю
+zdobit, zdobím	(V) украшать, я украшаю
+zdravit, zdravím	(V) здороваться

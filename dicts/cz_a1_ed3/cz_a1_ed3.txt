@@ -1,100 +1,125 @@
-doma	дома, у себя
-krásný	красивый
-prodavačka	продавщица
-bazén	бассейн
-blond	блондин
-břicho	живот
-časopis	журнал
-česnek	чеснок
-chodit	гулять
-chyba	ошибка
-čistý	чистый
-dárek	подарок 2
-deštník	зонт
-diktát	диктант
-fotografie	фотографии
-francouzsky	французский
-guma	жевательная резинка
-hloupý	глупый
-hodně	много
-hokej	хоккей
-housle	скрипка
-jazyk	язык
-koncert	концерт
-kytara	гитара
-limonáda	лимонад
-mokrý	влажный
-moře	море
-návštěva	визит
-něco	что-то
-někdo	кто-то
-německy	немецкий
-nemocný	больной, нездоровый
-nést	нести
-nikde	нигде
-Nový rok	Новый год
-obědvat	обедать
-oči	глаза
-od	от
-odpočívat	отдыхать
-odpovídat	ответить
-opakovat	повторить
-opice	обезьяна
-otázka	вопрос
-ovocný	фруктовый
-paprika	паприка
-plán	план
-plavky	купальник
-počítat	считать
-pohádka	сказка
-polibek	поцелуй
-policista	полицейский
-pozdě	поздно
-přestávka	перерыв
-příroda	природа
-prodávat	продавать
-program	программа
-půjčit	одолжить
-půl	половина
-půlnoc	полночь
-ředitel	директор
-sama	сама
-samozřejmě	конечно
-sejít se	встретиться
-slaný	соленый
-slunce	солнце
-slyšet	слышать
-sněží	идет снег
-snídat	завтракать
-šortky	шорты
-souhlasit	согласиться
-špinavý	грязный
-správně	правильно
-strana	страница
-strom	дерево
-studovat	учиться
-šunka	ветчина
-svátek	праздник
-světlo	свет
-svítit	светить
-teplý	теплый
-test	тест
-text	текст
-ticho	тихо, тишина
-tma	тьма, темнота
-úkol	задача
-umět	уметь, знать
-unavený	утомленный
-uši	уши
-v krku	в горле
-v ruce	в руке
-v zimě	зимой
-Vánoce	рождество
-ve třídě	в классе
-Velikonoce	пасха
-veselý	веселый
-vlasy	волосы
-vpředu	впереди
-vzduch	воздух
-začátek	начало
-zkouška	экзамен
+abeceda	алфавит
+balkón	балкон
+brýle	очки
+celý	целый, весь
+cesta	путь
+cestovat	путешествовать
+čistit	очистить
+dávat	дать
+děkovat	спасибо тебе
+dívat se	смотреть
+dospělý	взрослый, зрелый
+dostat	получить, принять
+fajn	большой
+fialový	фиолетовый
+flétna	флейта
+fotografovat	фотографировать
+foukat	удар
+gramatika	грамматика
+Hodně štěstí a zdraví!	Удачи и здоровья!
+hodný	хороший, добрый
+horko	жарко
+horký	горячий
+jezdit	кататься, ездить
+kašel	кашель
+klavír	пианино
+knížka	книга
+konec	конец
+koníček	хобби
+koupat se	принять ванну
+krásně	красиво
+krk	горло
+kupovat	купить
+loď	корабль
+lyže	лыжи
+lyžovat	кататься на лыжах
+Měj se hezky!	Хорошего дня тебе!
+Mějte se hezky!	Хорошего дня вам!
+milý	дорогой
+mít hlad	быть голодным
+mít na sobě	носить
+mít žízeň	испытывать жажду
+moct	мочь, быть в состоянии
+muzika	музыка
+navštívit	посетить
+nějaký	какой-то, некий
+několik	несколько
+některý	некоторые
+Není zač	Все хорошо
+nerad	нехотя, неохотно
+nikam	никуда
+nosit	носить
+oblečení	одежда
+oblékat se	одевать
+oblíbený	любимый, популярный
+odpověď	ответ
+oranžový	оранжевый
+oslava	торжества
+otvírat	открыть
+platit	платить
+plný	полный, наполненный
+podepsat se	подписаться
+pohled	вид
+policistka	сотрудница полиции
+pomáhat	помогать
+pomoct	помощь
+poslední	последний
+potom	потом, затем, дальше
+potřebovat	необходимость
+přání	желание
+prázdniny	каникулы
+připravovat se	готовиться, подготавливаться
+pršet	дождь
+ptát se	спросить
+ředitelka	директриса
+říkat	сказать
+ruce	руки
+růžový	розовый
+rýma	насморк
+šála	шарф
+sám	сам
+sami	сами
+silný	сильный, крепкий
+školní	школьный
+sladký	сладкий
+špagety	спагетти
+spolužačka	одноклассница
+spolužák	одноклассник
+sportovat	заниматься спортом
+štíhlý	стройный
+studený	холодный
+suchý	сухой
+sušenky	печенье
+svačina	второй завтрак, полдник
+tabule	доска
+telefonovat	звонить, разговаривать по телефону
+třída	класс
+učebnice	учебник
+uklízet	убирать, наводить порядок
+umývadlo	умывальник
+v pořádku	все в порядке
+venku	снаружи, на улице
+volno	досуг, свободное время
+vracet se	вернуться
+Všechno nejlepší!	Всего наилучшего!
+vstávat	вставать
+výborně	замечательно, отлично
+výborný	отличный, замечательный
+východ	выход, восход, восток
+vyučování	обучение
+vzít si	жениться
+záchod	уборная
+začínat	начинать
+záda	спина, хребет
+žádný	никакой, совсем не
+zajímat se	интересоваться
+zajímavý	интересный
+žák	ученик
+základní	основной, первичный
+žákyně	ученица
+zavírat	запирать, закрывать
+zavolat	позвонить
+zavřený	закрытый
+zdraví	здоровье
+zpátky	обратно, назад
+zub	зуб

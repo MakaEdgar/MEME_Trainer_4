@@ -1,16 +1,17 @@
 ananas	ананас
-babička	бабушка
 barva	цвет
+bez	без
 bobule	ягода
+bonbon	конфеты
 brambory	картофель
-bratr	брат
 bratranec	двоюродный брат
 broskev	персик
-brzy	ранo
+brzy	вскоре, скоро, рано
 buchta	булочка
-byt	квартира
+cena	цена
 centrum	центр
 čeština	чешский
+chladno	холодно
 chlapec	мальчик
 chléb	хлеб
 chodba	коридор
@@ -19,14 +20,18 @@ církev	церковь
 citron	лимон
 člověk	человек
 cukr	сахар
-dcera	дочь
-dědeček	дед
-děti	дети
+dar	подарок
+datum narození	дата рождения
 dívka	девочка
+dlouho	долго
+do	в, до
+dopis	письмо
 dveře	дверь
 džem	варенье
-hodiny	часы
+hladový	голодный
+hlavní	главный
 hora	гора
+hory	горы
 host	гость
 hotel	гостиница
 hotovo	сделано, готово
@@ -38,18 +43,20 @@ inženýr	инженер
 jablko	яблоко
 jahoda	клубника
 jak	как
-jeho	его
+jezdit na kole	ездить на велосипеде
 kabát	пальто
-kam	куда
+kakao	какао
+kamera	камера
 kaše	каша
 klíč	ключ
 klobása	колбаса
 klobouk	шляпа
-kočka	кошка
 koláč	пирог
 koupelna	ванная
+krát	столько
 křižovatka	перекрёсток
 kuchyně	кухня
+kufr	чемодан
 květen	май
 láhev	бутылка
 lednička	холодильник
@@ -58,33 +65,28 @@ letadlo	самолет
 ložnice	спальня
 lžíce	ложка
 malíř	художник
-manžel	муж
 máslo	масло
-matka	мать
 med	мёд
 měkký	мягкий
 meloun	дыня
 meruňka	абрикос
-měsíc	месяц
 místo	место
 mrkev	морковь
 na jaře	весной
 na podzim	осенью
 nízký	низкий
-noviny	газета
 nudle	лапша
 nůž	нож
+obálka	конверт
 obtížný	тяжёлый, трудный
 obývací pokoj	зал
 odkud	откуда
 okurka	огурец
 olej	растительное масло
 ořech	орех
-otec	отец
 park	парк
 patro	этаж
 pepř	горький перец
-pes	собака
 pod	под
 podlaha	пол
 podšálek	блюдце
@@ -94,24 +96,20 @@ polštář	подушка
 pomalu	медленно
 pomeranč	апельсин
 pošta	почта
-práce	работа
 pracovník	рабочий
-přítel	друг
-prodavač	продавец
 pták	птица
 rajče	помидор
 řepa	свекла
 řidič	водитель
 říjen	октябрь
-rodiče	родители
 rozzlobený	сердитый
 ryba	рыба
 rychle	быстро
+s	с
 šachy	шахматы
 šálek	чашка
 šaty	платье
 sendvič	бутерброд
-sestra	сестра
 sestřenice	двоюродная сестра
 sklenice	стакан
 sladkost	конфета, сладость
@@ -122,12 +120,13 @@ srpen	август
 strop	потолок
 strýc	дядя
 sůl	соль
-syn	сын
+svůj	свой
 sýr	сыр
 talíř	тарелка
 tchán	тесть (свекор)
 tchyně	теща (свекровь)
 televizor	телевизор
+teplo	теплo
 teta	тетя
 toaleta	туалет
 trh	рынок
@@ -135,6 +134,7 @@ tvrdý	твёрдый
 ubrousek	салфетка
 účetní	бухгалтер
 únor	февраль
+váza	ваза
 včera	вчера
 večeře	ужин
 vejce	яйцо
