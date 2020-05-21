@@ -1,5 +1,5 @@
 # Choose dictnames to train (use comma for several dicts)
-dictnames=a1_ed3, a1_6, a1_7
+dictnames=a1_9
 
 # Set prefix for dictionary (usually two letters of language)
 dictprefix=cz

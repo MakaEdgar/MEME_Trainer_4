@@ -8,8 +8,8 @@ tools/*
 users/*
 *.rar
 *.zip
-user_errors.lnk
-user_history.lnk
+*.lnk
+
 
 
 

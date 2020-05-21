@@ -6,9 +6,9 @@ byt	квартира
 časopis	журнал
 celkem	общий
 chtít, chci	(V) хотеть, я хочу
-cvičit, cvičím	(V) заниматься спортом
+cvičit, cvičím	(V) заниматься спортом, упражняться
 datum	дата
-detektivka	детектив
+detektivka	детектив (ж)
 diskotéka	дискотека
 divadelní hra	театральная пьеса
 domácí úkol	домашнее задание
@@ -36,7 +36,6 @@ Jedu na univerzitu	Я eду в университет
 jiný	другой
 Jsem v Rusku	Я в России
 každý	каждый
-každý	каждый
 Kdy je ...	Когда ...
 Kdy se sejdeme?	Когда мы встретимся?
 Kolikátého je dnes?	Какое сегодня число?
@@ -45,7 +44,7 @@ koncert	концерт
 Koncert je v 9 večer	Концерт будет в 9 вечера
 končit, končím	(V) закончить, я закончу
 konference	конференция
-kontrolovat, kontroluji	(V) контролировать
+kontrolovat, kontroluju	(V) контролировать
 konzultace	консультация
 kulturní	культурный
 lekce češtiny	урок чешского языка

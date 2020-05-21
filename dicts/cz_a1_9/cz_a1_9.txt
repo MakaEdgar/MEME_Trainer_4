@@ -1,0 +1,107 @@
+Američan	американец
+Američanka	американка
+atlet	атлет (м)
+atletka	атлет (ж)
+baron	барон
+baronka	баронесса
+bezhlavý	безголовый, без головы
+Byl jsem u holiče	Я был в парикмахерской
+Byla jsem u holiče	Я была в парикмахерской
+celý	весь
+Češi	чехи
+Češky	чешки
+dlouho	долго
+docela	довольно, вполне
+dokonce	даже
+dokument	документ, документальное кино
+dvacátý	двадцатый
+džíny	джинсы (только мн. число)
+filozof	философ (м)
+filozofka	философ (ж)
+finanční	финансовый
+Finsko	Финляндия
+fotograf	фотограф (м)
+fotografka	фотограф (ж)
+historie	история
+historie	история
+holič	парикмахер (м)
+holička	парикмахер (ж)
+hymna	гимн
+ideální	идеальный
+jezdit na koni, jezdím na koni	(V) ездить на лошади, я езжу на лошади
+když	когда, если
+Když jsem byl malý	Когда я был маленьким
+Když jsem byla malá	Когда я была маленькой
+kilometr	километр
+klasický	классический
+kolo	велосипед
+král	король
+královna	королева
+malíř	художник
+malířka	художница
+medaile	медаль
+minulý	прошедший, прошлый
+Mluvím česky	Я говорю по-чешски
+náboženský	религиозный
+narodit se, narodím se	(V) родиться, я рожусь
+Nedělal jsem nic	Я ничего не делал
+Nedělala jsem nic	Я ничего не делала
+Nikdy jsem neměl ... jako ty	У меня никогда не было ... как у тебя (м)
+Nikdy jsem neměla ... jako ty	У меня никогда не было … как у тебя (ж)
+olympiáda	олимпиада
+olympijský	олимпийский
+peníze	деньги (только мн. число)
+podnikatel	предприниматель
+podnikatelka	предприни­мательница
+pohádka	сказка
+politický	политический
+pomoc	помощь
+povídat si, povídám si	(V) рассказывать, я рассказываю
+povídka	рассказ
+prababička	прабабушка
+pradědeček	прадедушка
+prezident	президент (м)
+prezidentka	президент (ж)
+připravit, připravím	(V) приготовить, я приготовлю
+projekt	проект
+reformátor	реформатор (м)
+reformátorka	реформатор (ж)
+rekord	рекорд
+román	роман
+romantický	романтический
+rytíř	рыцарь
+skladatel	композитор (м)
+skladatelka	композитор (ж)
+slavný	известный
+spisovatel	писатель
+spisovatelka	писательница
+stejný	такой же, одинаковый
+století	век
+strašit, straším	(V) пугать, я пугаю
+Studuju češtinu	Я изучаю чешский язык
+talentovaný	талантливый
+těžký	тяжелый, трудный
+učit se, učím se	(V) изучать, я изучаю
+učit, učím	(V) преподавать, я преподаю
+umět, umím	(V) уметь, я умею
+Umím anglicky	Я разговариваю по-английски
+Umím plavat	Я умею плавать
+umřít, umřu	(V) умереть, я умру
+upír	вампир (м)
+upírka	вампир (ж)
+uvařit, uvařím	(V) приготовить (еду), я готовлю
+v roce	в году
+včera	вчера
+vědec	ученый (м)
+vědkyně	ученый (ж)
+Víš, kde je Praha?	Ты знаешь, где (находится) Прага?
+Vítám vás na hradě Kaprštejn!	Приветствую Вас в замке Карлштейн!
+vítat, vítám	(V) приветствовать, я приветствую
+vyhrát, vyhraju	(V) выиграть, я выиграю
+vytvořit, vytvořím	(V) создать, я создам
+zajímat se o, zajímám se o	(V) интересоваться чем-то, я интересуюсь чем-то
+zajímavý	интересный
+založit, založím	(V) заложить, я заложу
+závod	завод, соревнование
+zlatý	золотой
+Znáš Prahu?	Ты знаешь Прагу?

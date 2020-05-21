@@ -1,0 +1,116 @@
+bar	бар
+Belgie	Бельгия
+Bulharsko	Болгария
+Byl jsi někdy v …	Ты был когда-нибудь в …
+Byla jsi někdy v …	Ты была когда-нибудь в …
+cestování	путешествие
+cestovat, cestuju	(V) путешествовать, я путешествую
+chata	дача
+Dánsko	Дания
+diamant	бриллиант, алмаз
+Estonsko	Эстония
+Evropa	Европа
+firma	фирма
+hezky	красиво
+Holandsko	Голландия
+hora	гора
+hory	горы
+hostel	хостел
+hrozný	ужасный
+inspektor	инспектор (м)
+inspektorka	инспектор (ж)
+Jaké bylo počasí?	Какая была погода?
+Jaké počasí je u nás?	Какая сейчас погода у нас?
+Jaké počasí je u vás?	Какая сейчас погода у вас?
+jaro	весна
+jih	юг
+jižní	южный
+Kde jsi byl na dovolené?	Где ты был в отпуске?
+Kde jsi byl včera?	Где ты был вчера?
+Kde jsi byla na dovolené?	Где ты была в отпуске?
+Kde jsi byla včera?	Где ты была вчера?
+Kde jste byl včera?	Где Вы были вчера? (м)
+Kde jste byla včera?	Где Вы были вчера? (ж)
+Kdo ukradl diamanty?	Кто украл бриллианты?
+klub	клуб
+krupiér	крупье (м)
+krupiérka	крупье (ж)
+léto	лето
+ležet, ležím	(V) лежать, я лежу
+lidé	люди
+Litva	Литва
+Lotyšsko	Латвия
+Lucembursko	Люксембург
+lyžování	катание на лыжах
+Maďarsko	Венгрия
+Mluvíme o dovolené	Мы разговариваем об отпуске
+móda	мода
+moře	море
+na jaře	весной
+na jihu	на юге
+na obrázcích	на картинках
+na podzim	осенью
+na severu	на севере
+na východě	на востоке
+na západě	на западе
+návštěva	визит, посещение
+Nejdu pozdě?	Я не опоздал/а?
+O čem mluvíte?	O чем вы разговариваете?
+obrázek	картинка
+opalovat se, opaluju se	(V) загорать, я загораю
+opravdu	действительно
+ošklivo	отвратительно, некрасиво, мерзко
+památka	исторический памятник, память
+park	парк
+parkoviště	парковка
+penzion	пенсион
+podezřelý	подозрительный
+podzim	осень
+Pojď sem!	Иди сюда!
+Pojďte sem!	Идите сюда!
+policejní	полицейский (прил.)
+pořád	все время, постоянно
+Portugalsko	Португалия
+pozdě	поздно
+přijít, přijdu	(V) прийти, я приду
+prší	идет дождь
+pryč	прочь, вон
+ptát se, ptám se	(V) спрашивать, я спрашиваю
+Rakousko	Австрия
+Řecko	Греция
+rehabilitace	реабилитация
+říct, řeknu	(V) сказать, я скажу
+Rumunsko	Румыния
+sever	север
+severní	северный
+skandál	скандал
+Slovensko	Словакия
+Slovinsko	Словения
+slunečno	солнечно
+slyšet, slyším	(V) слышать, я слышу
+sněží	идет снег
+Španělsko	Испания
+Srbsko	Сербия
+starat se o, starám se o	(V) заботиться о, я забочусь о
+stupeň	градус
+Švédsko	Швеция
+teplo	тепло
+ukradený	украденный
+ukrást, ukradnu	(V) украсть, я украду
+v létě	летом
+v zimě	зимой
+Velká Británie	Великобритания
+vítr	ветер
+vlasy	волосы
+vrátná	вахтер (ж)
+vrátný	вахтер (м)
+východ	восток
+východní	восточный
+zajímavý	интересный
+západ	запад
+západní	западный
+zataženo	пасмурно
+zima	зима, холод
+zima	зима
+zloděj	вор
+zlodějka	воровка
