@@ -11,14 +11,15 @@ Ask me if you run into any difficulties or find bugs.
 
 ## Installation
 1. clone git repository
->>> git clone https://github.com/MakaEdgar/MEME_Trainer_4
+> git clone https://github.com/MakaEdgar/MEME_Trainer_4
 
 2. install python3
 https://www.python.org/downloads/
 
 3. install necessary libraries
->>> pip install pygame
->>> pip install pyqt5
+> pip install pygame
+
+> pip install pyqt5
 
 
 ## Game
