@@ -4,8 +4,10 @@ makaed@yandex.ru
 
 A tool for the intelligent study of words with pronunciation.
 The Czech dictionaries are included, but any language can be added.
+
 You can read the full description of the method here (in Russian)
 https://github.com/MakaEdgar/MEMEnglish
+
 Ask me if you run into any difficulties or find bugs. 
 
 
