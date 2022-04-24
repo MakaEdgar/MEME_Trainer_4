@@ -13,15 +13,23 @@ Ask me if you run into any difficulties or find bugs.
 
 ## Installation
 1. clone git repository
-> git clone https://github.com/MakaEdgar/MEME_Trainer_4
+```
+git clone https://github.com/MakaEdgar/MEME_Trainer_4
+```
 
-2. install python3
+2. Install python3
 https://www.python.org/downloads/
 
-3. install necessary libraries
-> pip install pygame
+3. Install necessary libraries
+```
+pip install pygame
+pip install pyqt5
+```
 
-> pip install pyqt5
+4. To load audio for dicts put txt files into folder `./tools/new_dicts` and run py script. Also you will need install gTTS
+```
+pip install gTTS
+```
 
 
 ## Game
