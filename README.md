@@ -1,9 +1,9 @@
 # MEME Trainer v4
-Edgar Makarov, 2020 (c)
+Edgar Makarov, 2019-2022 (c)
 makaed@yandex.ru
 
 A tool for the intelligent study of words with pronunciation.
-The Czech dictionaries are included, but any language can be added.
+The Czech and Portugese dictionaries are included, but any language can be added.
 
 You can read the full description of the method here (in Russian)
 https://github.com/MakaEdgar/MEMEnglish
@@ -24,11 +24,9 @@ https://www.python.org/downloads/
 ```
 pip install pygame
 pip install pyqt5
-```
 
-4. To load audio for dicts put txt files into folder `./tools/new_dicts` and run py script. Also you need to install gTTS library.
-```
-pip install gTTS
+# to create new dicts
+pip install gTTS    
 ```
 
 
@@ -40,7 +38,12 @@ pip install gTTS
 4. write word => +Enter
 5. If you are wrong, you should write it one more time
 6. Repeat until the end of the words
-7. You can find statistics in 'users' folder
-8. To create dict you can investigate 'dicts' folder or write me :)
-9. See error and game statistics in `./users/UserName`
- 
+7. See error and game statistics in `./users/UserName`
+
+## Adding new dicts
+1. Create txt file with two column structure: "phrase"-tab-"meaning"
+2. Put is into folder `./tools/new_dicts`
+3. Execute `download_audio_for_txt.bat` file and wait (~2 second per word)
+4. Copy new folder into `./dicts`, see structure there
+
+
