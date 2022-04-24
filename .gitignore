@@ -1,6 +1,6 @@
 .vscode
 games_history.csv
-#users/*
+users/*
 *.rar
 *.zip
 *.lnk
