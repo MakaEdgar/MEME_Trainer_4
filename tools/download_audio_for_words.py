@@ -5,6 +5,11 @@ toho kvalitního kolegu
 words = [x.strip() for x in words.split("\n") if x.strip() != ""]
 
 
+# portugese = pt, czech = cs
+lang_key = "pt"
+slow_speed = True
+
+
 import os
 import time
 from gtts import gTTS
@@ -17,8 +22,7 @@ def get_audiofile_name(word):
         audiofile_name = audiofile_name + (w if w not in symbols_to_replace else "_")
     return audiofile_name + ".mp3"
 
-# portugese = pt, czech = cs
-def load_audio(word, audiopath="./", slow=True, lang_key="pt"):
+def load_audio(word, audiopath="./", slow=slow_speed, lang_key=lang_key):
     myobj = gTTS(text=word, lang=lang_key, slow=slow)
     
     filename = get_audiofile_name(word)

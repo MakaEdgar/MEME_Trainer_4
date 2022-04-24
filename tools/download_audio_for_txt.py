@@ -1,6 +1,10 @@
 # For dicts in txt files
 sourcepath = "new_dicts/"
-dicts = ['cz_a1_9','cz_a1_10']
+dicts = ['pt_a1_1']
+
+# portugese = pt, czech = cs
+lang_key = "pt"
+slow_speed = True
 
 
 import os
@@ -16,8 +20,7 @@ def get_audiofile_name(word):
     return audiofile_name + ".mp3"
 
 
-# portugese = pt, czech = cs
-def load_audio(word, audiopath="./", slow=True, lang_key="pt"):
+def load_audio(word, audiopath="./", slow=slow_speed, lang_key=lang_key):
     myobj = gTTS(text=word, lang=lang_key, slow=slow)
     filename = get_audiofile_name(word)
     myobj.save(audiopath + filename)
