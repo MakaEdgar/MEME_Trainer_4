@@ -1,8 +1,9 @@
+
 # Choose dictnames to train (use comma for several dicts)
 dictnames=a1_1
 
 # Set prefix for dictionary (usually two letters of language)
-dictprefix=cz
+dictprefix=pt
 
 
 
@@ -19,3 +20,12 @@ dictprefix=cz
 # a1_chisla1      60w         Kolichestvennie chislitelnie
 # a1_ed1          150w        Edgar a1 dicts
 # a1_ed2,3        100w        Edgar a1 dicts
+
+
+###############################################
+# List of dicts for Portugese (dictprefix=pt) #
+###############################################
+
+# DICTIONARY      WORDS       DESCRIPTIONs
+# a1_1            97w         beginner dict
+

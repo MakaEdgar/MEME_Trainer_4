@@ -1,0 +1,2 @@
+# Set name of current user
+username=Alex

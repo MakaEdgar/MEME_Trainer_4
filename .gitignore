@@ -1,11 +1,6 @@
 .vscode
-memetrainer_old.py
 games_history.csv
-dicts/cz_test/*
-dicts/dicts_creator/*
-dicts/old_dicts/*
-tools/*
-users/*
+#users/*
 *.rar
 *.zip
 *.lnk
