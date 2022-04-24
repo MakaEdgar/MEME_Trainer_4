@@ -43,7 +43,8 @@ pip install gTTS
 ## Adding new dicts
 1. Create txt file with two column structure: "phrase"-tab-"meaning"
 2. Put is into folder `./tools/new_dicts`
-3. Execute `download_audio_for_txt.bat` file and wait (~2 second per word)
-4. Copy new folder into `./dicts`, see structure there
+3. Specify target language and speed in `download_audio_for_txt.py`
+4. Execute `download_audio_for_txt.bat` file and wait (~2 second per word)
+5. Copy new folder into `./dicts`, see structure there
 
 
