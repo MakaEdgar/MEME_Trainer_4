@@ -26,13 +26,14 @@ pip install pygame
 pip install pyqt5
 ```
 
-4. To load audio for dicts put txt files into folder `./tools/new_dicts` and run py script. Also you will need install gTTS
+4. To load audio for dicts put txt files into folder `./tools/new_dicts` and run py script. Also you need to install gTTS library.
 ```
 pip install gTTS
 ```
 
 
 ## Game
+0. Set your name in `./users/user_settings.txt`
 1. Set dictionary in settings.txt
 2. execute "run.bat"
 3. press Start
@@ -41,4 +42,5 @@ pip install gTTS
 6. Repeat until the end of the words
 7. You can find statistics in 'users' folder
 8. To create dict you can investigate 'dicts' folder or write me :)
+9. See error and game statistics in `./users/UserName`
  
