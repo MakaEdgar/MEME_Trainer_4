@@ -1,9 +1,9 @@
 # For dicts in txt files
 sourcepath = "new_dicts/"
-dicts = ['pt_a1_1']
+dicts = ['nl_a1_2', 'nl_a1_3']
 
-# portugese = pt, czech = cs
-lang_key = "pt"
+# dutch = nl, portugese = pt, czech = cs
+lang_key = "nl"
 slow_speed = True
 
 

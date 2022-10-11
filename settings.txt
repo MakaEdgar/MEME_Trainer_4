@@ -3,7 +3,18 @@
 dictnames=a1_1
 
 # Set prefix for dictionary (usually two letters of language)
-dictprefix=pt
+dictprefix=nl
+
+
+
+###########################################
+# List of dicts for Dutch (dictprefix=nl) #
+###########################################
+
+# DICTIONARY      WORDS       DESCRIPTIONs
+# a1_1            66w         beginner dict
+# a1_2            61w         beginner dict
+# a1_3            128w        beginner dict
 
 
 

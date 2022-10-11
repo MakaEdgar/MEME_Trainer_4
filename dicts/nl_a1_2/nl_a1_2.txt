@@ -1,0 +1,61 @@
+gaan	to go
+willen	to want
+zeggen	to say
+nemen	to take
+geven	to give
+weten	to know
+horen	to hear
+zien	to see
+vragen	to ask / to request
+antwoorden	to answer / to reply
+zoeken	to look for / to search
+vinden	to find / to discover
+komen	to come
+beginnen	to begin / to start
+begrijpen	to understand
+wachten	to wait
+weggaan	to leave
+tellen	to count
+lezen	to read
+schrijven	to write
+slapen	to sleep
+kennen	to know
+kijken naar	to watch
+helpen	to help
+uitleggen	to explain
+de echtgenoot	the spouse (m.) / the husband 
+de echtgenote	the spouse (f.) / the wife
+goed	good / right / correct
+slecht	bad / wrong / incorrect
+makkelijk	easy
+moeilijk	difficult / hard
+nieuw	new
+duur	expensive
+groot	large / big / tall / great / major
+dik	big / fat
+klein	small / little
+lang	long / tall
+kort	short
+snel	fast / quick
+langzaam	slow
+warm	warm
+koud	cold
+beter	better
+slechtst	worst
+zwart	black
+wit	white
+blauw	blue
+rood	red
+en 	and
+of 	or
+wijn of water 	wine or water
+bedankt	спасибо
+alsjeblieft	пожалуйста
+hallo	здравствуйте
+goedemorgen	доброе утро
+goedemiddag	добрый день
+goedeavond	добрый вечер
+mijn naam is …	меня зовут …
+Ik spreek alleen in het Engels	Я говорю только по английски
+hoi	привет
+sorry	извините

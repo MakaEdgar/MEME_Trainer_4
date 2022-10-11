@@ -1,0 +1,66 @@
+ik	I
+jij	ты
+u	ты (уважит.)
+hij	he
+zij	she
+wij	we
+jullie	вы
+zij	they
+zijn	to be
+hebben	to have
+doen	to do
+maken	to make
+nul	zero
+eén	one
+twee	two
+drie	three
+vier	four
+vijf	five
+zes	six
+zeven	seven
+acht	eight
+negen	nine
+tien	ten
+het uur	the hour
+de minuut	the minute
+de dag	the day
+de maand	the month
+het jaar	the year
+maandag	Monday
+dinsdag	Tuesday
+woensdag	Wednesday
+donderdag	Thursday
+vrijdag	Friday
+zaterdag	Saturday
+zondag	Sunday
+de ochtend	the morning
+de middag	the afternoon
+de avond	the evening
+de nacht	the night
+het land	the country
+de winkel	the shop
+de telefoon	the phone
+het scherm	the screen
+de computer	the computer
+het internet	the internet
+het huis	the house
+de deur	the door
+het raam	the window
+de keuken	the kitchen
+de slaapkamer	the bedroom
+het toilet	the toilet / the restroom
+de bus	the bus
+de trein	the train
+de fiets	the bicycle
+de stad	the city
+de straat	the street
+het water	the water
+het fruit	the fruit
+de groente	the vegetable
+het brood	the bread
+eerste	first
+laatste	last / final / latest
+gisteren	yesterday
+vandaag	today
+morgen	tomorrow
+vanavond	tonight
