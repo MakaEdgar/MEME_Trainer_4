@@ -1,12 +1,11 @@
 words = """
-toho kvalitního kolegu
-žít, žiju
+nul appels
 """
 words = [x.strip() for x in words.split("\n") if x.strip() != ""]
 
 
-# portugese = pt, czech = cs
-lang_key = "pt"
+# dutch = nl, portugese = pt, czech = cs
+lang_key = "nl"
 slow_speed = True
 
 

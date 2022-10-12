@@ -1,4 +1,3 @@
-
 # Choose dictnames to train (use comma for several dicts)
 dictnames=a1_1
 

@@ -1,61 +1,61 @@
-gaan	to go
-willen	to want
-zeggen	to say
-nemen	to take
-geven	to give
-weten	to know
-horen	to hear
-zien	to see
-vragen	to ask / to request
+Ik spreek alleen in het Engels	Я говорю только по английски
+alsjeblieft	пожалуйста
 antwoorden	to answer / to reply
-zoeken	to look for / to search
-vinden	to find / to discover
-komen	to come
+bedankt	спасибо
 beginnen	to begin / to start
 begrijpen	to understand
-wachten	to wait
-weggaan	to leave
-tellen	to count
-lezen	to read
-schrijven	to write
-slapen	to sleep
+beter	better
+blauw	blue
+de echtgenoot	the husband 
+de echtgenote	the wife
+dik	big / fat
+duur	expensive
+en	and
+gaan	to go
+geven	to give
+goed	good / right / correct
+goedeavond	добрый вечер
+goedemiddag	добрый день
+goedemorgen	доброе утро
+groot	large / big / tall / great / major
+hallo	здравствуйте
+helpen	to help
+hoi	привет
+horen	to hear
 kennen	to know
 kijken naar	to watch
-helpen	to help
-uitleggen	to explain
-de echtgenoot	the spouse (m.) / the husband 
-de echtgenote	the spouse (f.) / the wife
-goed	good / right / correct
-slecht	bad / wrong / incorrect
-makkelijk	easy
-moeilijk	difficult / hard
-nieuw	new
-duur	expensive
-groot	large / big / tall / great / major
-dik	big / fat
 klein	small / little
-lang	long / tall
+komen	to come
 kort	short
-snel	fast / quick
-langzaam	slow
-warm	warm
 koud	cold
-beter	better
-slechtst	worst
-zwart	black
-wit	white
-blauw	blue
+lang	long / tall
+langzaam	slow
+lezen	to read
+makkelijk	easy
+mijn naam is	меня зовут …
+moeilijk	difficult / hard
+nemen	to take
+nieuw	new
+of	or
 rood	red
-en 	and
-of 	or
-wijn of water 	wine or water
-bedankt	спасибо
-alsjeblieft	пожалуйста
-hallo	здравствуйте
-goedemorgen	доброе утро
-goedemiddag	добрый день
-goedeavond	добрый вечер
-mijn naam is …	меня зовут …
-Ik spreek alleen in het Engels	Я говорю только по английски
-hoi	привет
+schrijven	to write
+slapen	to sleep
+slecht	bad / wrong / incorrect
+slechtst	worst
+snel	fast / quick
 sorry	извините
+tellen	to count
+uitleggen	to explain
+vinden	to find / to discover
+vragen	to ask / to request
+wachten	to wait
+warm	warm
+weggaan	to leave
+weten	to know
+wijn of water	wine or water
+willen	to want
+wit	white
+zeggen	to say
+zien	to see
+zoeken	to look for / to search
+zwart	black

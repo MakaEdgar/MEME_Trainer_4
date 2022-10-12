@@ -1,66 +1,66 @@
-ik	I
-jij	ты
-u	ты (уважит.)
-hij	he
-zij	she
-wij	we
-jullie	вы
-zij	they
-zijn	to be
-hebben	to have
-doen	to do
-maken	to make
-nul	zero
-eén	one
-twee	two
-drie	three
-vier	four
-vijf	five
-zes	six
-zeven	seven
 acht	eight
-negen	nine
-tien	ten
-het uur	the hour
-de minuut	the minute
-de dag	the day
-de maand	the month
-het jaar	the year
-maandag	Monday
-dinsdag	Tuesday
-woensdag	Wednesday
-donderdag	Thursday
-vrijdag	Friday
-zaterdag	Saturday
-zondag	Sunday
-de ochtend	the morning
-de middag	the afternoon
 de avond	the evening
-de nacht	the night
-het land	the country
-de winkel	the shop
-de telefoon	the phone
-het scherm	the screen
-de computer	the computer
-het internet	the internet
-het huis	the house
-de deur	the door
-het raam	the window
-de keuken	the kitchen
-de slaapkamer	the bedroom
-het toilet	the toilet / the restroom
 de bus	the bus
-de trein	the train
+de computer	the computer
+de dag	the day
+de deur	the door
 de fiets	the bicycle
+de groente	the vegetable
+de keuken	the kitchen
+de maand	the month
+de middag	the afternoon
+de minuut	the minute
+de nacht	the night
+de ochtend	the morning
+de slaapkamer	the bedroom
 de stad	the city
 de straat	the street
-het water	the water
-het fruit	the fruit
-de groente	the vegetable
-het brood	the bread
+de telefoon	the phone
+de trein	the train
+de winkel	the shop
+dinsdag	Tuesday
+doen	to do
+donderdag	Thursday
+drie	three
 eerste	first
-laatste	last / final / latest
+één	one
 gisteren	yesterday
-vandaag	today
+hebben	to have
+het brood	the bread
+het fruit	the fruit
+het huis	the house
+het internet	the internet
+het jaar	the year
+het land	the country
+het raam	the window
+het scherm	the screen
+het toilet	the toilet / the restroom
+het uur	the hour
+het water	the water
+hij	he
+ik	I
+jij	ты
+jullie	вы
+laatste	last / final / latest
+maandag	Monday
+maken	to make
 morgen	tomorrow
+negen	nine
+nul appels	zero apples
+tien	ten
+twee	two
+u	ты (уважит.)
 vanavond	tonight
+vandaag	today
+vier	four
+vijf	five
+vrijdag	Friday
+wij	we
+woensdag	Wednesday
+zaterdag	Saturday
+zes	six
+zeven	seven
+zij	she
+zij	they
+zijn	to be
+zondag	Sunday
