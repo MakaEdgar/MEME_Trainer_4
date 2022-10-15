@@ -22,7 +22,7 @@ hallo	здравствуйте
 helpen	to help
 hoi	привет
 horen	to hear
-kennen	to know
+kennen	to know people
 kijken naar	to watch
 klein	small / little
 komen	to come
@@ -51,7 +51,7 @@ vragen	to ask / to request
 wachten	to wait
 warm	warm
 weggaan	to leave
-weten	to know
+weten	to know facts
 wijn of water	wine or water
 willen	to want
 wit	white
