@@ -1,0 +1,58 @@
+lopen	to walk
+worden	to become
+vragen	to ask
+de vraag	the question
+het antwoord	the answer
+kopen	to buy
+krijgen	to get, to receive
+eten	to eat
+drinken	to drink
+rijden	to drive
+vergeten	to forget
+luisteren	to listen
+kijken	to look
+weten	to know
+schrijven	to write
+spreken	to speak
+praten	to talk
+zeggen	to say
+werken	to work
+de snelweg	the highway
+de tram	the tram
+de halte	the stopping place
+de metro	the metro
+de boot	the boat
+het vliegtuig	the airplane
+het vliegveld	the airport
+de haven	the port
+het station	the railway station
+het kantoor	the office
+de winkel	the shop
+de supermarkt	the supermarket
+het ziekenhuis	the hospital
+de apotheek	the pharmacy
+het zwembad	the swimming pool
+de sporthal	the sports hall
+het politiebureau	the police station
+de bibliotheek	the library
+de school	the school
+de universiteit	the university
+het bad	the bath tub
+de bijkeuken	the scullery
+de garage	the garage
+de tuin	the garden
+de zolder	the attic
+de jongen	the boy
+het meisje	the girl
+zo	like this
+hoeveel	how much
+de bloem	the flower
+de dagen van de week	the days of the week
+welke dag van de week?	which day of the week
+hoog	high, tall
+laag	low
+augustus	august
+september	September
+oktober	October
+november	November
+december	December

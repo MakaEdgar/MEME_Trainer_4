@@ -100,29 +100,29 @@ beetje	little / few
 wat	some / somewhat
 meer	more
 minder	less
-dit 	this
-deze 	this / these
-dat 	that
-die 	that / those
+dit	this
+deze	this / these
+dat	that
+die	that / those
 wie	who
-Wie is daar? 	Who’S There?
+Wie is daar?	Who is There?
 waar	where
-Waar ben je? 	Where Are You?
+Waar ben je?	Where Are You?
 wanneer	when
-Wanneer ben je geboren? 	When Were You Born?
+Wanneer ben je geboren?	When Were You Born?
 wat	what
-Wat doen we vanavond? 	What Are We Doing Tonight?
+Wat doen we vanavond?	What Are We Doing Tonight?
 waarom	why
-Waarom lach je? 	Why Are You Laughing?
-alles 	everything
-niets 	nothing
-iets 	something
-iedereen 	everybody
-niemand 	nobody
-iemand 	somebody
-een kat en een hond 	a cat and a dog
-als 	if
-omdat 	because
-maar 	but
-door 	by / through
+Waarom lach je?	Why Are You Laughing?
+alles	everything
+niets	nothing
+iets	something
+iedereen	everybody
+niemand	nobody
+iemand	somebody
+een kat en een hond	a cat and a dog
+als	if
+omdat	because
+maar	but
+door	by / through
 aangenaam	приятно познакомиться

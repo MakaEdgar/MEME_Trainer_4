@@ -1,0 +1,97 @@
+eten	food
+drinken	drinks
+de boterham	the slice of bread
+de kaas	the cheese
+de hagelslag	the chocolate sprinkles
+de pindakaas	the peanut butter
+de melk	the milk
+de thee	the tea
+de aardappel	the potato
+het bier	the beer
+het vlees	the meat
+de kip	the chicken
+de friet	the French fries
+de frikandel	Dutch meat sausage
+de kroket	Dutch fried ragout bar
+de pannenkoek	the pancake
+de stroopwafel	the syrup waffle
+de woning	the house
+de stoel	the chair
+de kruk	the stool
+de lamp	the lamp
+de televisie	the television
+de kast	the closet
+de wc	the toilet
+de keuken	the kitchen
+het fornuis	the cooker
+de koelkast	the fridge
+de kamer	the room
+de woonkamer	the living room
+de bank	the couch
+de slaapkamer	the sleeping room
+het bed	the bed
+de badkamer	the bathroom
+de douche	the shower
+tot ziens	see you
+tot	until
+doei	bye
+dank je wel	thank you
+ja	yes
+nee	no
+niet	not
+roken	to smoke
+links	left
+rechts	right
+of	or
+en	and
+welke	which
+dan	then
+terwijl	while
+hoe	how
+daarom	that’s why
+behalve	except
+elf	eleven
+twaalf	twelve
+dertien	thirteen
+veertien	fourteen
+vijftien	fifteen
+twintig	twenty
+éénentwintig	twenty one
+dertig	thirty
+veertig	forty
+vijftig	fifty
+honderd	hundred
+tweehonderd	two hundred
+duizend	thousand
+miljoen	million
+vies	dirty, disgusting
+schoon	clean
+interessant	interesting
+saai	boring
+arm	poor
+rijk	rich
+donker	dark
+licht	light
+zwaar	heavy
+hard	hard, fast
+zacht	soft, slow
+lief	lovely, sweet
+stout	naughty
+koud	cold
+warm	warm
+duur	expensive
+goedkoop	cheap
+week	week
+de maand	the month
+de maan	the moon
+januari	January
+februari	February
+maart	march
+april	April
+mei	may
+juni	June
+juli	July
+winter	winter
+lente	spring
+zomer	summer
+herfst	autumn
