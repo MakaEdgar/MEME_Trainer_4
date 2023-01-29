@@ -1,0 +1,64 @@
+de gracht	the canal
+het grachtenpand	the canal house
+de woonboot	the house boat
+wonen	to live
+het paleis	the palace
+pont	the ferry
+de rondvaart	the canal cruise
+het museum	the museum
+het concert	the concert
+het bos	the forest
+Hoe laat?	What time?
+Hoe laat is het?	What time is it?
+de klok	the clock
+het uur	the hour
+twee uur	two o’clock
+om tien uur	at ten o’clock
+half vier	half past three
+half een	half past twelve
+het kwartier	the quarter
+kwart over drie	quarter past three
+kwart voor zeven	quarter to seven
+de minuut	the minute
+tien over zes	ten past six
+vijf voor acht	five to eight
+vijf voor half zeven	twenty five past six
+vijf over half vier	twenty five to four
+twintig voor vijf	twenty to five
+Hoe lang?	how long?
+het duurt drie uur	it takes three hours
+van twee uur tot vijf uur	from two till five o’clock
+de nacht	the night
+s nachts	at night
+de ochtend, de morgen	the morning
+s morgens	in the morning
+de middag	the afternoon
+s middags	in the afternoon
+de avond	the evening
+s avonds	in the evening
+kwart voor zeven s ochtends	quarter to seven am
+middernacht	midnight
+twaalf uur s middags	noon
+de coffeeshop	bar where soft drugs is sold
+het stadion	the stadium
+het hoofdkantoor	the head office
+de wallen	the red light district
+de hoer	the prostitute
+het concertgebouw	the Concertgebouw
+achter	behind
+naast	next to
+beneden	down, downstairs
+boven	above, up, upstairs
+onder	below
+op	at, on top
+tussen	between
+het midden	the middle
+over	about, over
+binnen	inside
+buiten	outside
+tegen	against
+rond	around
+sinds	since
+zonder	without
+na	after
+om	at

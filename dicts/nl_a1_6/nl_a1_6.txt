@@ -1,0 +1,74 @@
+bij	at, near
+bitter	bitter
+de aardbei	the strawberry
+de abrikoos	the apricot
+de appel	the apple
+de banaan	the banana
+de bes	the berry
+de boerenkool	the kale
+de boon	the bean
+de brug	the bridge
+de citroen	the lemon
+de erwt	the pea
+de fles	the bottle
+de framboos	the raspberry
+de geur	the smell
+de kers	the cherry
+de knoflook	the garlic
+de komkommer	the cucumber
+de lepel	the spoon
+de lunch	the lunch
+de maaltijd	the meal
+de mandarijn	the mandarin
+de meloen	the melon
+de pan	the pan
+de peer	the pear
+de peper	the pepper
+de perzik	the peach
+de pruim	the plum
+de rijst	the rice
+de ring	the ring, the ring road
+de rook	the smoke
+de sinaasappel	the orange
+de sla	the lettuce
+de smaak	the taste
+de soep	the soup
+de spinazie	the spinach
+de suiker	the sugar
+de tomaat	the tomato
+de ui	the onion
+de vork	the fork
+de worst	the sausage
+de wortel	the carrot
+dorst hebben	to be thirsty
+eet smakelijk	enjoy your meal
+het avondeten	the dinner
+het bestek	the cutlery
+het bord	the plate
+het ei	the egg
+het eiland	the island
+het fietspad	the bicycle track
+het gebouw	the building
+het gerecht	the dish
+het glas	the glass
+het kopje	the cup
+het mes	the knife
+het ontbijt	the breakfast
+het park	the park
+het plein	the square
+het vuur	the fire
+het zout	the salt
+honger hebben	to be hungry
+in	in
+koken	to cook
+met	with
+naar	to
+pittig	spicy
+smakelijk eten	enjoy your meal
+van	from
+vers	fresh
+voor	before
+voor	before, in front of
+zoet	sweet
+zout	salty
+zuur	acid
