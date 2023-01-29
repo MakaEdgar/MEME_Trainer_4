@@ -1,5 +1,5 @@
 # Choose dictnames to train (use comma for several dicts)
-dictnames=a1_1, a1_2, a1_3, a1_4, a1_5, 
+dictnames=a1_7
 
 # Set prefix for dictionary (usually two letters of language)
 dictprefix=nl
@@ -17,7 +17,7 @@ dictprefix=nl
 # a1_4            97w         beginner dict
 # a1_5            58w         beginner dict
 # a1_6            73w         beginner dict (fruits, vegetables, cooking)
-# a1_7            64w         beginner dict (time, prepositions)
+# a1_7            63w         beginner dict (time, prepositions)
 
 
 
