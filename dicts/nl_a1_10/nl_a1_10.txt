@@ -1,0 +1,60 @@
+doen	to do
+beginnen	to begin
+geloven	to believe
+brengen	to bring
+halen	to pick up
+lenen	to borrow
+bellen	to call
+kunnen	to can
+sluiten	to close
+snijden	to cut
+beslissen	to decide
+vallen	to fall
+voelen	to feel, to touch
+volgen	to follow
+gebeuren	to happen
+iets	something
+helpen	to help
+houden	to hold, to keep
+houden van	to love
+weten	to know facts
+kennen	to know people
+leuk vinden	to like
+laten	to leave
+verliezen	to lose
+winnen	to win
+maken	to make
+Ik weet hoe je het Nederlandse alfabet moet opzeggen	I know how to say the Dutch alphabet out loud
+Ik ken het Nederlandse alfabet uit mijn hoofd	I know the Dutch alphabet by heart
+laatst	last
+welkom	welcome
+thuis	home
+het gras	the grass
+de boom	the tree
+eigen	own (adj)
+mijn	my
+jouw	your
+haar	her
+zijn	his
+uw	your
+hun	their
+geen	no, none
+gewoon	usual
+als	if
+het verschil	the difference
+de leeftijd	the age
+iemand	somebody
+iedereen	everybody
+samen	together
+dichtbij	nearby
+vaak	often
+de grap	the joke
+het idee	the idea
+het geluid	the sound
+de muziek	the music
+het nummer	the number / the song
+de naam	the name
+het boek	the book
+de les	the lesson
+het woord	the word
+

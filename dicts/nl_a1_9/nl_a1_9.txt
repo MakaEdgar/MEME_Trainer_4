@@ -1,0 +1,58 @@
+iets	something
+niets	nothing
+alles	everything
+een beetje	a bit
+natuurlijk	of course
+reeds	already
+al	already
+net	just
+pas	only
+nog	still
+erg	very
+even	just (as)
+alleen	alone
+altijd	always
+door	through
+dus	so
+genoeg	enough
+bijna	almost
+bijvoorbeeld	for example
+normaal	usually
+nooit	never
+ooit	ever
+nu	now
+soms	sometimes
+ook	also, too
+meer	more
+minder	less
+verder	further
+terug	back
+het weer	the weather
+wat voor weer wordt het?	what will be the weather?
+het weerbericht	the weather forecast
+het bericht	the message
+lekker weer, hè	nice weather isn’t it?
+zeker	(for) sure
+mooi weer	nice weather
+vandaag	today
+de temperatuur	the temperature
+de thermometer	the thermometer
+graden	degrees
+de graad	the degree
+schijnen	to shine
+slecht weer	bad weather
+de neerslag	the precipitation
+regenen	to rain
+sneeuwen	to snow
+hagelen	to hail
+de wind	the wind
+waaien	to blow
+de storm	the storm
+het onweer	the thunderstorm
+de bliksem	the lightning
+de donder	the thunder
+de wolk	the cloud
+bewolkt	cloudy
+vriezen	to freeze
+het ijs	the ice
+

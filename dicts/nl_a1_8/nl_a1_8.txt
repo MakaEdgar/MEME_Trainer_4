@@ -1,0 +1,57 @@
+ander	other
+kort	short
+lang	long
+belangrijk	important
+beter	better
+best	best
+enige	only
+enkel	single
+dubbel	double
+vroeg	early
+laat	late
+vrij	free
+heel	whole, very
+echt	real
+vol	full
+leeg	empty
+speciaal	special
+duidelijk	clear
+onduidelijk	unclear
+beschikbaar	available
+waarschijnlijk	probable
+mogelijk	possible
+huidig	current
+verkeerd	wrong
+juist	correct
+klaar	ready
+de kleur	the colour
+rood	red
+het vierkant	the square (figure)
+de cirkel	the circle
+de driehoek	the triangle
+groen	green
+volgende	next
+blauw	blue
+geel	yellow
+paars	purple
+oranje	orange
+wit	white
+zwart	black
+donker	dark
+grijs	grey
+bruin	brown
+roze	pink
+plat	flat
+dik	thick, fat
+dun	thin
+breed	wide
+smal	narrow
+beide	both
+het gezicht	the face
+elk	each
+gelijk	equal
+zelfde	same
+recht	straight
+makkelijk	easy
+moeilijk	difficult
+
