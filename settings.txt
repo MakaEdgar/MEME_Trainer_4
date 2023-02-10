@@ -9,7 +9,6 @@ dictprefix=nl
 ###########################################
 # List of dicts for Dutch (dictprefix=nl) #
 ###########################################
-
 # DICTIONARY      WORDS       DESCRIPTIONs
 # a1_1            66w         beginner dict
 # a1_2            61w         beginner dict
@@ -21,13 +20,13 @@ dictprefix=nl
 # a1_8            56w         beginner dict (Lessons 25, 35)
 # a1_9            57w         beginner dict (Lessons 34, 24)
 # a1_10           59w         beginner dict (Lessons 18, 40)
+# pb2_1           89w         words from Puss-In-Boots 2 (part 1)
 
 
 
 ###########################################
 # List of dicts for Cesky (dictprefix=cz) #
 ###########################################
-
 # DICTIONARY      WORDS       DESCRIPTIONs
 # a1_1,2          100w        beginner dicts
 # a1_3            100w        L1 "Cestina express 1"
@@ -42,7 +41,6 @@ dictprefix=nl
 ###############################################
 # List of dicts for Portugese (dictprefix=pt) #
 ###############################################
-
 # DICTIONARY      WORDS       DESCRIPTIONs
 # a1_1            97w         beginner dict
 
