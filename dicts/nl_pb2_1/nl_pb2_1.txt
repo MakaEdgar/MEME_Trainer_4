@@ -5,7 +5,7 @@ alsof	as if
 automatische	automatic
 bang	afraid, scared
 behoorlijk	proper, decent
-bekend	known, famous
+bekend	well-known
 bekijken	to look at
 beloofd	promised
 beroemde	famous
@@ -14,7 +14,7 @@ beschouwen	to regard
 bezig	busy
 bidden	to pray
 bijna	almost
-bijzonder	special
+bijzonder	unusual, special
 dapper	brave
 de angst	the fear
 de baas	the boss
@@ -49,11 +49,11 @@ eenvoudige	simple
 eindelijk	finally
 elk	each
 enkele	few, some
-gelukkig	happy
+gelukkig	happy (adj/adv)
 geweldig	awesome
 grappig	funny
 het avontur	adventure
-het bezoek	the the visit
+het bezoek	the visit
 het ding	the thing
 het einde	the end
 het gat	the hole
@@ -63,11 +63,10 @@ het graf	the grave
 het spul	the stuff
 het volk	the people
 jezelf	yourself
-jezelf	yourself
-kennis	knowledge
-kerk	church
+de kennis	knowledge
+de kerk	church
 knappe	handsome
-lage	low
+lage	low (+ noun)
 leuk	fun, nice
 meestal	usually
 mezelf	myself

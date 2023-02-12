@@ -13,9 +13,7 @@ vallen	to fall
 voelen	to feel, to touch
 volgen	to follow
 gebeuren	to happen
-iets	something
-helpen	to help
-houden	to hold, to keep
+houden	to keep
 houden van	to love
 weten	to know facts
 kennen	to know people
@@ -28,7 +26,7 @@ Ik weet hoe je het Nederlandse alfabet moet opzeggen	I know how to say the Dutch
 Ik ken het Nederlandse alfabet uit mijn hoofd	I know the Dutch alphabet by heart
 laatst	last
 welkom	welcome
-thuis	home
+thuis	at home
 het gras	the grass
 de boom	the tree
 eigen	own (adj)
@@ -42,7 +40,6 @@ geen	no, none
 gewoon	usual
 als	if
 het verschil	the difference
-de leeftijd	the age
 iemand	somebody
 iedereen	everybody
 samen	together
@@ -57,4 +54,11 @@ de naam	the name
 het boek	the book
 de les	the lesson
 het woord	the word
-
+de achternaam	surname
+de leeftijd	the age
+het geslacht	the sex, gender
+de geboortedatum	the date of birth
+het woonadres	the home address
+het geboorteland	the country of origin
+het huisnummer	the house number
+het postnummer	the postcode

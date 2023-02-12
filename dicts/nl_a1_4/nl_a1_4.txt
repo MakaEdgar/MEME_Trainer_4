@@ -13,21 +13,21 @@ de kip	the chicken
 de friet	the French fries
 de frikandel	Dutch meat sausage
 de kroket	Dutch fried ragout bar
+de bitterballen	Dutch fried ragout ball
 de pannenkoek	the pancake
 de stroopwafel	the syrup waffle
-de woning	the house
+de woning	the living place (residence)
 de stoel	the chair
 de kruk	the stool
 de lamp	the lamp
 de televisie	the television
 de kast	the closet
-de wc	the toilet
 de keuken	the kitchen
 het fornuis	the cooker
 de koelkast	the fridge
 de kamer	the room
 de woonkamer	the living room
-de bank	the couch
+de bank	the couch, sofa
 de slaapkamer	the sleeping room
 het bed	the bed
 de badkamer	the bathroom
@@ -35,7 +35,7 @@ de douche	the shower
 tot ziens	see you
 tot	until
 doei	bye
-dank je wel	thank you
+dank je wel	thank you (informal)
 ja	yes
 nee	no
 niet	not
@@ -86,9 +86,9 @@ de maand	the month
 de maan	the moon
 januari	January
 februari	February
-maart	march
+maart	March
 april	April
-mei	may
+mei	May
 juni	June
 juli	July
 winter	winter

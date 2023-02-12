@@ -14,7 +14,7 @@ en	and
 gaan	to go
 geven	to give
 goed	good / right / correct
-goedeavond	добрый вечер
+goedenavond	добрый вечер
 goedemiddag	добрый день
 goedemorgen	доброе утро
 groot	large / big / tall / great / major

@@ -15,6 +15,7 @@ weten	to know
 schrijven	to write
 spreken	to speak
 praten	to talk
+vertellen	to tell
 zeggen	to say
 werken	to work
 de snelweg	the highway
@@ -38,7 +39,6 @@ de bibliotheek	the library
 de school	the school
 de universiteit	the university
 het bad	the bath tub
-de bijkeuken	the scullery
 de garage	the garage
 de tuin	the garden
 de zolder	the attic
@@ -48,10 +48,10 @@ zo	like this
 hoeveel	how much
 de bloem	the flower
 de dagen van de week	the days of the week
-welke dag van de week?	which day of the week
+Welke dag van de week?	Which day of the week?
 hoog	high, tall
 laag	low
-augustus	august
+augustus	August
 september	September
 oktober	October
 november	November

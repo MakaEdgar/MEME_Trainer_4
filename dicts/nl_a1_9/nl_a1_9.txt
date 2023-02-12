@@ -3,7 +3,7 @@ niets	nothing
 alles	everything
 een beetje	a bit
 natuurlijk	of course
-reeds	already
+reeds	already (formal)
 al	already
 net	just
 pas	only
@@ -13,7 +13,7 @@ even	just (as)
 alleen	alone
 altijd	always
 door	through
-dus	so
+dus	so (than)
 genoeg	enough
 bijna	almost
 bijvoorbeeld	for example
@@ -28,16 +28,16 @@ minder	less
 verder	further
 terug	back
 het weer	the weather
-wat voor weer wordt het?	what will be the weather?
+Wat voor weer wordt het?	What will be the weather?
 het weerbericht	the weather forecast
 het bericht	the message
-lekker weer, hè	nice weather isn’t it?
+Lekker weer, hè?	Nice weather, isn’t it?
 zeker	(for) sure
-mooi weer	nice weather
+mooi weer	beautiful weather
 vandaag	today
 de temperatuur	the temperature
 de thermometer	the thermometer
-graden	degrees
+de graden	degrees
 de graad	the degree
 schijnen	to shine
 slecht weer	bad weather
@@ -55,4 +55,3 @@ de wolk	the cloud
 bewolkt	cloudy
 vriezen	to freeze
 het ijs	the ice
-

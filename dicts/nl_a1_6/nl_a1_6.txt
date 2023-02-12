@@ -5,6 +5,7 @@ de abrikoos	the apricot
 de appel	the apple
 de banaan	the banana
 de bes	the berry
+de bloemkool	the cauliflower
 de boerenkool	the kale
 de boon	the bean
 de brug	the bridge
@@ -16,6 +17,7 @@ de geur	the smell
 de kers	the cherry
 de knoflook	the garlic
 de komkommer	the cucumber
+de kool	the cabbage
 de lepel	the spoon
 de lunch	the lunch
 de maaltijd	the meal
@@ -55,7 +57,7 @@ het kopje	the cup
 het mes	the knife
 het ontbijt	the breakfast
 het park	the park
-het plein	the square
+het plein	the square (place)
 het vuur	the fire
 het zout	the salt
 honger hebben	to be hungry
@@ -64,10 +66,8 @@ koken	to cook
 met	with
 naar	to
 pittig	spicy
-smakelijk eten	enjoy your meal
 van	from
 vers	fresh
-voor	before
 voor	before, in front of
 zoet	sweet
 zout	salty
