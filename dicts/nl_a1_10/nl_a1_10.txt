@@ -13,12 +13,12 @@ vallen	to fall
 voelen	to feel, to touch
 volgen	to follow
 gebeuren	to happen
-houden	to keep
+houden	to keep, to hold
 houden van	to love
 weten	to know facts
 kennen	to know people
 leuk vinden	to like
-laten	to leave
+laten	to let
 verliezen	to lose
 winnen	to win
 maken	to make
@@ -31,13 +31,15 @@ het gras	the grass
 de boom	the tree
 eigen	own (adj)
 mijn	my
-jouw	your
+jouw	your (informal singular)
+jullie	your (informal plural)
 haar	her
 zijn	his
-uw	your
+ons	our (+het)
+onze	our (+de)
+uw	your (formal)
 hun	their
-geen	no, none
-gewoon	usual
+geen	no, none (+smth)
 als	if
 het verschil	the difference
 iemand	somebody

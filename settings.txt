@@ -1,6 +1,7 @@
 # Choose dictnames to train (use comma for several dicts)
 # dictnames=a1_1, a1_2, a1_3, a1_4, a1_5, a1_6, a1_7
-dictnames=pb2_1, a1_8, a1_9, a1_10
+dictnames=pb2_1, a1_8, a1_9, a1_10, a1_11
+
 
 # Set prefix for dictionary (usually two letters of language)
 dictprefix=nl
@@ -14,14 +15,17 @@ dictprefix=nl
 # a1_1            66w         beginner dict (colors, numbers, time)
 # a1_2            61w         beginner dict 
 # a1_3            127w        beginner dict (verbs)
-# a1_4            97w         beginner dict (home)
+# a1_4            96w         beginner dict (home)
 # a1_5            58w         beginner dict (verbs, Amsterdam)
 # a1_6            74w         beginner dict (fruits, vegetables, cooking, numbers)
 # a1_7            63w         beginner dict (time, prepositions)
-# a1_8            56w         beginner dict (Lessons 25, 35)
+# a1_8            60w         beginner dict (Lessons 25, 35)
 # a1_9            57w         beginner dict (Lessons 34, 24)
-# a1_10           64w         beginner dict (Lessons 18, 40)
-# pb2_1           88w         words from Puss-In-Boots 2 (part 1)
+# a1_10           66w         beginner dict (Lessons 18, 40)
+# a1_11           55w         beginner dict (Lessons 3, 13)
+# a1_12           54w         beginner dict (Lessons 16, 17)
+# a1_13           55w         beginner dict (Lessons 19, 23)
+# pb2_1           87w         words from Puss-In-Boots 2
 
 
 

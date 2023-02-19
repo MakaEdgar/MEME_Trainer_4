@@ -4,8 +4,12 @@ lang	long
 belangrijk	important
 beter	better
 best	best
-enige	only
-enkel	single
+enige	(my/the) only (+smth) 
+enkel	only, single
+enkele	few, some
+alleen	only, alone
+maar	only (+countable)
+pas	only/just (a small while ago)
 dubbel	double
 vroeg	early
 laat	late
@@ -21,7 +25,7 @@ beschikbaar	available
 waarschijnlijk	probable
 mogelijk	possible
 huidig	current
-verkeerd	wrong
+verkeerd	wrong, incorrect
 juist	correct
 klaar	ready
 de kleur	the colour

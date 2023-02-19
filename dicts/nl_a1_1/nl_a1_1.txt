@@ -22,7 +22,7 @@ dinsdag	Tuesday
 doen	to do
 donderdag	Thursday
 drie	three
-eerste	first
+eerst	first
 één	one
 gisteren	yesterday
 hebben	to have
@@ -41,7 +41,7 @@ hij	he
 ik	I
 jij	ты
 jullie	вы
-laatste	last / final / latest
+laatst	last / final / latest
 maandag	Monday
 maken	to make
 morgen	tomorrow

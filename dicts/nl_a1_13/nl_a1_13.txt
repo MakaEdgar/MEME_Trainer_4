@@ -13,7 +13,7 @@ de ervaring	the experience
 het gesprek	the conversation, the interview
 het sollicitatiegesprek	the job interview
 het bedrijf	the company
-de zaak	the company
+de zaak	the case, the business
 het salaris	the salary
 bruto	gross
 netto	net
@@ -25,7 +25,7 @@ de reiskosten	the travel expenses
 de vergoeding	the compensation
 de reiskostenvergoeding	the compensation for travel expenses
 de collega	the colleague
-aannemen	to hire
+aannemen	to hire (staff)
 ontslaan	to fire
 nodig hebben	to need
 vinden	to find, to think (have an opinion)

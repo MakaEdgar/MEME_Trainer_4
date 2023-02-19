@@ -1,23 +1,23 @@
 iets	something
 niets	nothing
 alles	everything
-een beetje	a bit
+een beetje	a bit of ( + uncountable)
 natuurlijk	of course
 reeds	already (formal)
 al	already
-net	just
-pas	only
-nog	still
+nog	still, (+not) yet
 erg	very
-even	just (as)
-alleen	alone
+pas	just (a small time ago)
+net	just (a moment ago, только что)
+even	just (for a short amount of time)
+gewoon	just (as usual), simply, ordinary
 altijd	always
 door	through
 dus	so (than)
 genoeg	enough
 bijna	almost
 bijvoorbeeld	for example
-normaal	usually
+normaal	normal, usual
 nooit	never
 ooit	ever
 nu	now
@@ -32,12 +32,12 @@ Wat voor weer wordt het?	What will be the weather?
 het weerbericht	the weather forecast
 het bericht	the message
 Lekker weer, hè?	Nice weather, isn’t it?
-zeker	(for) sure
+zeker	certainly, definitely, sure
 mooi weer	beautiful weather
 vandaag	today
 de temperatuur	the temperature
 de thermometer	the thermometer
-de graden	degrees
+de graden	the degrees
 de graad	the degree
 schijnen	to shine
 slecht weer	bad weather

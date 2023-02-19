@@ -1,7 +1,6 @@
-het lichaam	the body
-het lijf	the body
-het hoofd	the head
-de kop	the head
+het lichaam	the body (physical)
+het hoofd	the head (of human)
+de kop	the head (of animal_
 de mond	the mouth
 de tand	the tooth
 het oor	the ear
@@ -45,11 +44,11 @@ het hemd	the undershirt
 het overhemd	the shirt
 de blouse	the blouse, the shirt
 het pak	the suit
-het, de colbert	the suit jacket
+de colbert	the suit jacket
 de stropdas	the tie
 de strik	the bow
 de pyjama	the pyjamas
 de onderbroek	the undershorts
-de bh	the bra
+de beha	the bra
 de hoed	the hat
 de das	the scarf

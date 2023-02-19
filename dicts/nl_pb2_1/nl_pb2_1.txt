@@ -8,7 +8,7 @@ behoorlijk	proper, decent
 bekend	well-known
 bekijken	to look at
 beloofd	promised
-beroemde	famous
+beroemd	famous
 beroven	to rob
 beschouwen	to regard
 bezig	busy
@@ -43,13 +43,12 @@ de staart	the tail
 de steen	the stone
 de vertaling	the translation
 de zak	the bag
-degenen	those
-dezelfde	the same
-eenvoudige	simple
+dezelfde woorden	the same words
+hetzelfde woord	the same word
+eenvoudig	simple
 eindelijk	finally
 elk	each
-enkele	few, some
-gelukkig	happy (adj/adv)
+gelukkig	happy (long term)
 geweldig	awesome
 grappig	funny
 het avontur	adventure
@@ -63,14 +62,14 @@ het graf	the grave
 het spul	the stuff
 het volk	the people
 jezelf	yourself
-de kennis	knowledge
-de kerk	church
-knappe	handsome
-lage	low (+ noun)
+de kennis	the knowledge
+de kerk	the church
+knappe	handsome (+smth)
+lage	low (+smth)
 leuk	fun, nice
 meestal	usually
 mezelf	myself
-nobele	noble
+nobel	noble
 onsterfelijk	immortal
 onszelf	ourselves
 precies	precisely
@@ -80,7 +79,7 @@ Spaanse	Spanish
 stalen	steel (adj)
 verborgen	hidden
 voorzichtig	careful
-vorige	previous
+vorige	previous (+smth)
 werkelijk	actual, actually
 zich	(it-him-her)self short
 zichzelf	(it-him-her)self

@@ -44,7 +44,6 @@ links	left
 rechts	right
 of	or
 en	and
-welke	which
 dan	then
 terwijl	while
 hoe	how
@@ -73,8 +72,8 @@ rijk	rich
 donker	dark
 licht	light
 zwaar	heavy
-hard	hard, fast
-zacht	soft, slow
+hard	hard
+zacht	soft
 lief	lovely, sweet
 stout	naughty
 koud	cold

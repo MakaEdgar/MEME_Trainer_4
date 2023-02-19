@@ -1,14 +1,15 @@
 zijn	to be
-de leraar	the teacher
-blij	happy
-leuk	funny
-mooi	pretty
+de leraar	the teacher (in a high school)
+blij	happy (short term)
+gelukkig	happy (long term, deeplys)
+leuk	fun, nice (about mood)
+mooi	beautiful
 oud	old
 jong	young
 de voetballer	the football player
 de premier	the prime minister
 de student	the student
-de leerling	the scholar
+de leerling	the pupil
 de baas	the boss
 de bakker	the baker
 de slager	the butcher
@@ -18,7 +19,6 @@ de advocaat	the lawyer
 de dokter	the doctor
 de ober	the waiter
 de politieman	the police officer
-de agent	the police officer
 de kapper	the hairdresser
 de directeur	the (company) director
 de boekhouder	the accountant
@@ -46,8 +46,8 @@ uitgaan	to go out
 stappen	to go out (and drink)
 dronken zijn	being drunk
 koken	to cook
-kunst	art
-verjaardag	the birthday
+de kunst	the art
+de verjaardag	the birthday
 een verjaardag vieren	to celebrate a birthday
 hij is jarig	it’s his birthday
 zingen	to sing
