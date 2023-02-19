@@ -58,13 +58,13 @@ de student	the student
 de school	the school
 de dokter	the doctor
 de verkoper	the salesman
-de docent	the teacher
+de docent	the teacher (in a high school)
 anders	different
 alleen	only / alone / lonely
 mooi	handsome / beautiful / nice / good
 lelijk	ugly
 sterk	strong
-aardig	nice / kind
+aardig	nice / kind (about human)
 gek	crazy
 blij	glad / happy
 ziek	sick / ill

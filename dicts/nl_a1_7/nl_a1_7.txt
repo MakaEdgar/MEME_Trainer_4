@@ -25,7 +25,7 @@ vijf voor acht	five to eight
 vijf voor half zeven	twenty five past six
 vijf over half vier	twenty five to four
 twintig voor vijf	twenty to five
-Hoe lang?	How long?
+Hoe lang?	How long? (about length)
 het duurt drie uur	it takes three hours
 van twee uur tot vijf uur	from two till five o’clock
 de nacht	the night
@@ -36,7 +36,7 @@ s middags	in the afternoon
 de avond	the evening
 s avonds	in the evening
 kwart voor zeven s ochtends	quarter to seven am
-de middernacht	midnight
+de middernacht	the midnight
 twaalf uur s middags	 noon (exact time stamp)
 de coffeeshop	bar where soft drugs is sold
 het stadion	the stadium
