@@ -1,0 +1,55 @@
+het lichaam	the body
+het lijf	the body
+het hoofd	the head
+de kop	the head
+de mond	the mouth
+de tand	the tooth
+het oor	the ear
+het oog	the eye
+de bril	the glasses
+de zonnebril	the sunglasses
+de neus	the nose
+het haar	the hair
+de arm	the arm
+de elleboog	the elbow
+de hand	the hand
+de vinger	the finger
+het been	the leg
+de knie	the knee
+de voet	the foot
+de teen	the toe
+de rug	the spine
+de buik	the belly, the stomach
+de schouder	the shoulder
+de kont	the ass
+de borst	the chest, the breast
+de baard	the beard
+de snor	the moustache
+het hart	the heart
+de kleren	the clothes
+de kleding	the clothing
+de kledingwinkel	the clothes shop
+de broek	the pants
+de spijkerbroek	the jeans
+de trui	the sweater
+de jas	the coat
+de rok	the skirt
+de jurk	the dress
+de sok	the sock (short)
+de kous	the sock (long)
+de schoen	the shoe
+de klomp	the wooden shoe
+de riem	the belt
+het T-shirt	the T-shirt
+het hemd	the undershirt
+het overhemd	the shirt
+de blouse	the blouse, the shirt
+het pak	the suit
+het, de colbert	the suit jacket
+de stropdas	the tie
+de strik	the bow
+de pyjama	the pyjamas
+de onderbroek	the undershorts
+de bh	the bra
+de hoed	the hat
+de das	the scarf

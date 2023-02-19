@@ -1,0 +1,55 @@
+zijn	to be
+de leraar	the teacher
+blij	happy
+leuk	funny
+mooi	pretty
+oud	old
+jong	young
+de voetballer	the football player
+de premier	the prime minister
+de student	the student
+de leerling	the scholar
+de baas	the boss
+de bakker	the baker
+de slager	the butcher
+de boer	the farmer
+de visser	the fisherman
+de advocaat	the lawyer
+de dokter	the doctor
+de ober	the waiter
+de politieman	the police officer
+de agent	the police officer
+de kapper	the hairdresser
+de directeur	the (company) director
+de boekhouder	the accountant
+de verkoper	the salesman
+de vertegenwoordiger	the representative
+vrije tijd	leisure time
+de hobby	the hobby
+reizen	to travel
+de vakantie	the holiday
+kamperen	to camp out
+het strand	the beach
+zonnen	to sunbathe
+het pretpark	the theme park
+tuinieren	gardening
+de taal	the language
+een taal leren	to learn a language
+sporten	to exercise
+hardlopen	to run
+wandelen	to go for a walk
+tennissen	to play tennis
+hockeyen	to play hockey
+borrelen	to have a drink
+uit eten gaan	to go out for dinner
+uitgaan	to go out
+stappen	to go out (and drink)
+dronken zijn	being drunk
+koken	to cook
+kunst	art
+verjaardag	the birthday
+een verjaardag vieren	to celebrate a birthday
+hij is jarig	it’s his birthday
+zingen	to sing
+dansen	to dance
+winkelen	to go shopping
