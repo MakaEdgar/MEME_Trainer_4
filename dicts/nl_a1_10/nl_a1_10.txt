@@ -56,7 +56,7 @@ de naam	the name
 het boek	the book
 de les	the lesson
 het woord	the word
-de achternaam	surname
+de achternaam	the surname
 de leeftijd	the age
 het geslacht	the sex, gender
 de geboortedatum	the date of birth

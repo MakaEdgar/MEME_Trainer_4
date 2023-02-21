@@ -1,7 +1,7 @@
 zijn	to be
-de leraar	the teacher (in a high school)
+de leraar	the teacher (in a secondary school)
 blij	happy (short term)
-gelukkig	happy (long term, deeplys)
+gelukkig	happy (long term, deeply)
 leuk	fun, nice (about mood)
 mooi	beautiful
 oud	old
