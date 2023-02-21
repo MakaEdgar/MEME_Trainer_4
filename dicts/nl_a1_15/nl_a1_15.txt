@@ -1,0 +1,57 @@
+nodig hebben	to need
+bedoelen	to mean
+bewegen	to move
+nemen	to take
+komen	to come
+willen	to want
+gebruiken	to use
+geven	to give
+proberen	to try
+lijken	to seem
+laten zien	to show
+spelen	to play
+zitten	to sit
+staan	to stand
+betalen	to pay
+ontmoeten	to meet
+doorgaan	to continue
+uitgeven	to spend
+groeien	to grow
+aanbieden	to offer
+herinneren	to remember
+overwegen	to consider
+bouwen	to build
+blijven	to stay
+spreken	to speak
+praten	to talk
+zeggen	to say
+vertellen	to tell
+vinden	to find, to think (have an opinion)
+zoeken	to search, to look for
+het humeur	the mood
+de gevoelens	the feelings
+chagrijnig	grumpy
+moe	tired
+teleurgesteld	disappointed
+vervelend	annoying
+vervelen	to annoy
+verdrietig	sad
+boos	angry
+kwaad	furious
+depressief	depressive
+onrustig	restless
+bang	afraid
+ongeduldig	impatient
+blij	happy (short term)
+vrolijk	cheerful
+tevreden	satisfied
+ontevreden	dissatisfied
+verrast	surprised
+enthousiast	enthusiastic
+ontspannen	relaxed
+romantisch	romantic
+vriendelijk	friendly, kindly
+sympathiek	sympathetic
+zielig	pathetic
+serieus	serious
+

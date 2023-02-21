@@ -1,0 +1,58 @@
+het dier	the animal
+het huisdier	the pet
+de hond	the dog
+de kat	the cat
+de muis	the mouse
+het konijn	the rabbit
+de haas	the hare
+de boerderij	the farm
+de koe	the cow
+het paard	the horse
+het varken	the pig
+de ezel	the donkey
+de kip	the chicken
+de haan	the cockerel
+de vogel	the bird
+de eend	the duck
+de zwaan	the swan
+de gans	the goose
+de ooievaar	the stork
+de mus	the sparrow
+de duif	the pigeon
+de vis	the fish
+het hert	the deer
+het insect	the insect
+de vlieg	the fly
+de bij	the bee
+de vlinder	the butterfly
+de spin	the spider
+de gezondheid	the health
+gezond	healthy
+ziek	ill
+zich ziek melden	to report oneself ill
+de griep	the flu
+verkouden zijn	to have a cold
+de koorts	the fever
+de ontsteking	the inflammation
+misselijk	nauseous
+duizelig	dizzy
+de vergiftiging	the poisoning
+de pijn	the ache
+zeer	painful
+de behandeling	the treatment
+de huisarts	the general practitioner
+de patiënt	the patient
+het spreekuur	the consultation hours
+de eerste hulp	the first aid
+spoed	urgent
+de ambulance	the ambulance
+de afspraak	the appointment
+de verwijsbrief	the referral letter
+verwijzen	to refer
+het onderzoek	the check-up
+de tandarts	the dentist
+de verzekering	the insurance
+de ziektekostenverzekering	the health insurance
+het medicijn	the medication
+het recept	the prescription
+

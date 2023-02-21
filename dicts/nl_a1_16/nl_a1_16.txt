@@ -1,0 +1,58 @@
+aardrijkskunde	geography
+het land	the country
+de provincie	the province
+de streek	the region
+de stad	the city
+de hoofdstad	the capital
+het dorp	the village
+de plaats	the place (general, broad area)
+de gemeente	the municipality
+het gemeentehuis	the town hall
+het platteland	the countryside
+de polder	the polder
+de vesting	the fortress
+wallen	fortified walls
+de wal	the shore
+de zee	the sea
+het meer	the lake
+de gracht	the canal (urban)
+het kanaal	the channel (long artificial river)
+de rivier	the river
+de natuur	the nature
+de dam	the dam
+de dijk	the dike
+de duin	the dune
+de tunnel	the tunnel
+de berg	the mountain
+de heuvel	the hill
+de hei	the moor
+de strand	the beach
+immigreren	to immigrate
+emigreren	to emigrate
+de allochtoon	the immigrant
+verhuizen	to move
+huren	to rent
+de makelaar	the real estate agent
+het huurcontract	the rental contract
+de huur	the rent
+gwe	utility bills
+de vve bijdrage	communal costs
+het adres	the address
+de buren	the neighbours
+inschrijven	to subscribe
+het paspoort	the passport
+het legitimatiebewijs	the id
+zich legitimeren	to identify oneself
+het visum	the visa
+de identiteitskaart	the identity card
+het rijbewijs	the driving license
+de verblijfsvergunning	the residence permit
+de werkvergunning	the working permit
+de inburgering	the assimilation (formal)
+integreren	to integrate (in practice)
+de naturalisatie	the naturalisation
+heimwee	homesick
+de vereniging	the assotiation, union
+de eigenaar	the owner
+de bijdrage	the contribution
+
