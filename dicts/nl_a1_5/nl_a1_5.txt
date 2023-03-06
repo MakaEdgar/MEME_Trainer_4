@@ -11,7 +11,7 @@ rijden	to drive
 vergeten	to forget
 luisteren	to listen
 kijken	to look
-weten	to know
+weten	to know facts
 schrijven	to write
 spreken	to speak
 praten	to talk
