@@ -1,6 +1,6 @@
 het lichaam	the body (physical)
 het hoofd	the head (of human)
-de kop	the head (of animal_
+de kop	the head (of animal)
 de mond	the mouth
 de tand	the tooth
 het oor	the ear
