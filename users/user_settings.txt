@@ -1,2 +1,0 @@
-# Set name of current user
-username=Edgar

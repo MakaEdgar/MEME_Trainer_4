@@ -1,5 +1,4 @@
 .vscode
-games_history.csv
 users/*
 tools/new_dicts/*
 *.rar
