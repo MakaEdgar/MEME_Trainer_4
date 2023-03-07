@@ -1,4 +1,4 @@
-aardrijkskunde	geography
+de aardrijkskunde	the geography
 het land	the country
 de provincie	the province
 de streek	the region
@@ -11,7 +11,7 @@ het gemeentehuis	the town hall
 het platteland	the countryside
 de polder	the polder
 de vesting	the fortress
-wallen	fortified walls
+de wallen	the fortified walls
 de wal	the shore
 de zee	the sea
 het meer	the lake
@@ -26,16 +26,16 @@ de tunnel	the tunnel
 de berg	the mountain
 de heuvel	the hill
 de hei	the moor
-de strand	the beach
+het strand	the beach
 immigreren	to immigrate
 emigreren	to emigrate
 de allochtoon	the immigrant
-verhuizen	to move
+verhuizen	to move to another living place
 huren	to rent
 de makelaar	the real estate agent
 het huurcontract	the rental contract
 de huur	the rent
-gwe	utility bills
+gwl	utility bills (gas, water, electricity)
 de vve bijdrage	communal costs
 het adres	the address
 de buren	the neighbours
@@ -51,7 +51,7 @@ de werkvergunning	the working permit
 de inburgering	the assimilation (formal)
 integreren	to integrate (in practice)
 de naturalisatie	the naturalisation
-heimwee	homesick
+het heimwee	the homesick
 de vereniging	the assotiation, union
 de eigenaar	the owner
 de bijdrage	the contribution

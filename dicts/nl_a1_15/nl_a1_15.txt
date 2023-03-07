@@ -1,33 +1,3 @@
-nodig hebben	to need
-bedoelen	to mean
-bewegen	to move
-nemen	to take
-komen	to come
-willen	to want
-gebruiken	to use
-geven	to give
-proberen	to try
-lijken	to seem
-laten zien	to show
-spelen	to play
-zitten	to sit
-staan	to stand
-betalen	to pay
-ontmoeten	to meet
-doorgaan	to continue
-uitgeven	to spend
-groeien	to grow
-aanbieden	to offer
-herinneren	to remember
-overwegen	to consider
-bouwen	to build
-blijven	to stay
-spreken	to speak
-praten	to talk
-zeggen	to say
-vertellen	to tell
-vinden	to find, to think (have an opinion)
-zoeken	to search, to look for
 het humeur	the mood
 de gevoelens	the feelings
 chagrijnig	grumpy
@@ -54,4 +24,39 @@ vriendelijk	friendly, kindly
 sympathiek	sympathetic
 zielig	pathetic
 serieus	serious
-
+lachen	to laugh
+wassen	to wash
+gedragen	to behave
+haten	to hate
+delen	to share
+kiezen	to choose
+begrijpen	to understand
+ik begrijp het niet	I don’t understand
+dromen	to dream
+genieten	to enjoy
+huilen	to cry
+ontdekken	to discover
+ontwikkelen	to develop
+praten	to talk
+vergelijken	to compare
+vergissen	to be mistaken
+verkopen	to sell
+vertrekken	to leave (expected to be back)
+weggaan	to go away
+verlaten	to leave (+smth, e.g. trein) without intent to return
+achterlaten	to leave smth/smb in the other place
+vertrouwen	to trust
+verwachten	to expect
+in verwachting	expecting (a baby)
+zwanger	pregnant
+zingen	to sing
+zoeken	to search
+zullen	will, shall
+ik zal	I will
+bijten	to bite
+noemen	to call
+bedoelen	to mean
+bewegen	to move
+lijken	to seem
+laten zien	to show
+overwegen	to consider

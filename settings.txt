@@ -25,11 +25,11 @@ dictprefix=nl
 # a1_12           54w         beginner dict (Lessons 16, 17)
 # a1_13           55w         beginner dict (Lessons 19, 23)
 # a1_14           57w         beginner dict (Lessons 21, 26)
-# a1_15           56w         beginner dict (Lessons 23, 29)
+# a1_15           62w         beginner dict (Lessons 29, 32)
 # a1_16           57w         beginner dict (Lessons 27, 28)
 # pb2_1           87w         words from Puss-In-Boots 2
 # vb              43w         beginner dict (Lesson 22 voetball)
-# a1_err1         48w         the hardest words from dicts a1_1-a1_11
+# a1_errs1        48w         the hardest words from dicts a1_1-a1_11
 
 
 
