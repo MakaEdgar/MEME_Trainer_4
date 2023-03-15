@@ -1,5 +1,5 @@
 # Choose dictnames to train (use comma for several dicts)
-dictnames=a1_14
+dictnames=a1_errs1, a1_12, a1_13, a1_14, a1_15, a1_16
 
 
 # Set prefix for dictionary (usually two letters of language)
@@ -27,6 +27,9 @@ dictprefix=nl
 # a1_14           57w         beginner dict (Lessons 21, 26)
 # a1_15           62w         beginner dict (Lessons 29, 32)
 # a1_16           57w         beginner dict (Lessons 27, 28)
+# a1_17           52w         beginner dict (Lessons 33, Ordinal nums)
+# a1_18           50w         beginner dict (Lessons 38, 39)
+# a1_19           54w         beginner dict (Lessons 36, 37)
 # pb2_1           87w         words from Puss-In-Boots 2
 # vb              43w         beginner dict (Lesson 22 voetball)
 # a1_errs1        48w         the hardest words from dicts a1_1-a1_11

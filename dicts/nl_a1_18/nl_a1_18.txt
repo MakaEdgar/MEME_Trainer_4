@@ -1,0 +1,50 @@
+nat	wet
+droog	dry
+algemeen	general
+bijzonder	special, unusual
+gebruikelijk	common
+dom	stupid
+slim	clever
+druk	busy, crouded
+glad	slippery
+beroemd	famous
+lui	lazy
+stil	quiet
+verschrikkelijk	terrible
+voorzichtig	careful
+sterk	strong
+zwak	weak
+eenzaam	lonely
+compleet	complete
+wakker	awake
+meest	most
+noord	north
+oost	east
+zuid	south
+west	west
+veilig	safe
+gevaarlijk	dangerous
+het leger	the army
+de oefening	the exercise
+de oorlog	the war
+de aanval	the attack
+het bloed	the blood
+dood	dead
+het nieuws	the news
+de krant	the newspaper
+de vlag	the flag
+de toekomst	the future
+het einde	the end
+de maan	the moon
+de ster	the star
+de schaduw	the shadow / shade
+moeten	must / have to / should
+zetten	to put
+draaien	to turn
+kosten	to cost
+ruiken	to smell
+leiden	to lead
+het dak	the roof
+heet	hot
+de markt	the market
+het geld	the money

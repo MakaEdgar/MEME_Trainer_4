@@ -1,0 +1,52 @@
+het gereedschap	the tools
+het instrument	the tool, the (musical) instrument
+de schaar	the scissors
+knippen	to cut (with scissors)
+snijden	to cut (with a knife)
+de machine	the machine
+de rekenmachine	the calculator
+de computer	the computer
+het slot	the lock
+de sleutel	the key
+openen	to open
+de telefoon	the telephone
+het potlood	the pencil
+de pen	the pen
+het papier	the paper
+de olie	the oil
+de benzine	the petrol
+de brandstof	the fuel
+het goud	the gold
+het zilver	the silver
+het hout	the wood
+de plank	the plank
+de lucht	the air
+het ijzer	the iron
+het staal	the steel
+de steen	the stone
+het stof	the dust
+de stof	the material
+de aarde	the earth
+rangtelwoorden	ordinal numbers
+eerste	first
+tweede	second
+derde	third
+vierde	fourth
+vijfde	fifth
+zesde	sixth
+zevende	seventh
+achtste	eighth
+negende	ninth
+tiende	tenth
+elfde	eleventh
+twaalfde	twelfth
+dertiende	thirteenth
+veertiende	fourteenth
+vijftiende	fifteenth
+zestiende	sixteenth
+zeventiende	seventeenth
+achttiende	eighteenth
+negentiende	nineteenth
+twintigste	twentieth
+eenmaal	once
+tweemaal	twice
