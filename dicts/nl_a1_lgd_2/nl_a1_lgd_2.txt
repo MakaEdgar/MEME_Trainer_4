@@ -13,7 +13,7 @@ bruin	brown
 dan	then, than
 dankjewel	thank you
 de band hebben met	the to have a connection with
-de familie	the family
+de familie	the family (2)
 de herfst	the fall, autumm
 de klas	the class
 de kleding	the clothes
@@ -23,7 +23,7 @@ de kop	the cup
 de laptop	the laptop
 de lente	the spring
 de leraar	the teacher
-de les	the class, lesson
+de les	the lesson
 de man	the man
 de moeder	the mother
 de muziek	the music
@@ -33,22 +33,24 @@ de taal	the language
 de telefoon	the phone
 de uitspraak	the pronunciation
 de vrouw	the woman
+de winter	the winter
 de zee	the sea
 de zomer	the summer
 de zon	the sun
 de zus	the sister
+denken	to think
 dinsdag	Tuesday
 donderdag	Thursday
 druk	busy
 eerste	first
-eigen	own
+eigen	own (adj.)
 elkaar	each other
 Engels	English
 fietsen	to cycle
 gaan	to go
-gelukkig	fortunately
-graag	please
-groetjes	regards
+gelukkig	fortunately, luckily
+graag	gladly, with big please
+groetjes	greetings
 hardlopen	to run
 helaas	unfortunately
 hem	him
@@ -71,19 +73,19 @@ huren	to rent
 iets	something
 Italiaans	Italian
 jong	young
+kennen	to know people
 kijken	to look, to watch
 koffie zetten	to make coffee
 kopen	to buy
 krijgen	to get
 lekker	nice, delicious
-leven	to live
+leven	to live (exist)
 lezen	to read
 liggen	to lie down
 lopen	to walk
-luisteren (naar)	to listen (to)
+luisteren naar	to listen to
 maandag	Monday
 makkelijk	easy
-mam	mom
 maximaal	maximum
 mensen	people
 met wie	with whom
@@ -99,7 +101,7 @@ praten	to talk
 prima	wonderful
 samen	together
 schrijven	to write
-serieus	serious(ly)
+serieus	seriously
 sinds wanneer	since when
 sociaal	social
 soms	sometimes
@@ -111,12 +113,10 @@ staan	to stand
 sturen	to send
 succes	good luck
 thuis	at home
-to think	denken
 trots	proud
 trouw	faithful
 tweehonderdachtentwintig	228
 tweehonderdnegenentwintig	229
-tweehonderdzevenent	227
 vaak	often
 van wie	whose
 vanavond	this evening
@@ -132,15 +132,14 @@ waroom	why
 wat	what
 welk	which
 werken	to work
-weten	to know
+weten	to know facts
 wie	who
 willen	to want
-winter	winter
 woensdag	Wednesday
-wonen	to live
+wonen	to live (somewhere)
 woning	house, place of living
 zaterdag	Saturday
-zeggen	to zay
+zeggen	to say
 zeker	certainly, sure, certain
 zien	to see
 zitten	to sit

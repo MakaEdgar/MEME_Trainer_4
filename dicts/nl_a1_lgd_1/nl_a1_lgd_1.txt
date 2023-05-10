@@ -1,5 +1,9 @@
-aangenaam	pleased (to meet you)
-aardig	kind, nice, friendly other
+Duitsland	Germany
+Italië	Italy
+Nederland	The Netherlands
+Nederlands	Dutch
+aangenaam	nice to meet you (short)
+aardig	kind, nice, friendly
 belangrijk	important
 best	best
 blij	happy
@@ -18,7 +22,7 @@ de kat	the cat
 de maand	the month
 de man	the man
 de meneer	the Mr.
-de mevrouw	the Ms., Mrs.
+de mevrouw	the Ms./Mrs.
 de slaapkamer	the bedroom
 de tuin	the garden
 de vriend	the friend, boyfriend
@@ -28,11 +32,10 @@ dik	fat
 doei	bye
 doen	to do
 dom	stupid
-Duitsland	Germany
 dun	skinny
 erg	very
 gaan	to go
-good day	goedendag
+goedendag	good day
 grappig	funny
 groot	big
 hallo	hello
@@ -42,21 +45,19 @@ helpen	to help
 het document	the document
 het formulier	the form
 het gesprek	the conversation
-het gezin	the family
+het gezin	the family (1)
+het hoofdstuk	the chapter
 het huis	the house
 het jaar	the year
 het meisje	the girl
 het woord	the word
 heten	to be called, to be named
 hoeveel	how many
-hoi	hi, hello
-hoofdstuk	chapter
+hoi	hi
 intelligent	intelligent
-Italië	Italy
-jij	you, singular, informal
-jouw	your
-jullie	you, plural/your
-kennen	to know
+jij	you (singular, informal)
+jouw	your (singular, informal)
+jullie	you, plural
 klaar	ready
 klein	small, little
 komen	to come
@@ -65,17 +66,15 @@ lang	tall
 leren	to learn
 leren kennen	to get to know, to meet
 leuk	nice
-leuk je te ontmoeten lief	nice to meet you
+leuk je te ontmoeten lief	nice to meet you (long)
 maar	but
 met	with
 mijn	my
-Nederland	The Netherlands
-Nederlands	Dutch
 nieuw	new
 nodig hebben	to need
 ook	also
 oud	old
-over	about
+over	about (prep.)
 praten	to talk
 samen	together
 slim	clever
@@ -83,17 +82,19 @@ terug	back
 tot morgen	see you tomorrow
 tot snel	see you soon
 tot straks	see you later
-tot ziens	goodbye
+tot ziens	see you, goodbye
 tweehonderdvijfentwintig	225
 tweehonderdzesentwintig	226
-u	you, singular/plural, formal
+tweehonderdzevenentwintig	227
+u	you (singular, formal)
 uit	from
+uw	your(singular, informal)
 vandaag	today
 veel	many, much
 vinden	to find
 voor	for
 waar	where
 wij	we
-wonen	to live
+wonen	to live (somewhere)
 zij	she, they
 zijn	to be

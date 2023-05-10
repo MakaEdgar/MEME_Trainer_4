@@ -42,8 +42,8 @@ dictprefix=nl
 # a2_24           60w         freq dict core words
 # a2_25           60w         freq dict core words
 # a2_26           74w         freq dict core words
-# a1_lgd_1        99w         L1 from LetsGoDutch A1
-# a1_lgd_2       151w         L2 from LetsGoDutch A1
+# a1_lgd_1       100w         L1 from LetsGoDutch A1
+# a1_lgd_2       150w         L2 from LetsGoDutch A1
 
 
 
