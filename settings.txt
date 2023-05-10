@@ -1,5 +1,6 @@
 # Choose dictnames to train (use comma for several dicts)
-dictnames=a1_errs1, a1_12, a1_13, a1_14, a1_15, a1_16
+# dictnames=a1_17, a1_18, a1_19, a2_20, a2_21, a2_22
+dictnames=a1_lgd_1, a1_lgd_2
 
 
 # Set prefix for dictionary (usually two letters of language)
@@ -13,7 +14,7 @@ dictprefix=nl
 # DICTIONARY      WORDS       DESCRIPTIONs
 # a1_1            66w         beginner dict (colors, numbers, time)
 # a1_2            61w         beginner dict 
-# a1_3            127w        beginner dict (verbs)
+# a1_3           127w         beginner dict (verbs)
 # a1_4            96w         beginner dict (home)
 # a1_5            58w         beginner dict (verbs, Amsterdam)
 # a1_6            74w         beginner dict (fruits, vegetables, cooking, numbers)
@@ -24,7 +25,7 @@ dictprefix=nl
 # a1_11           55w         beginner dict (Lessons 3, 13)
 # pb2_1           87w         words from Puss-In-Boots 2
 # a1_errs1        48w         the hardest words from dicts a1_1-a1_11 (E)
-# a1_errs2        146w        the hardest words from dicts a1_1-a1_11 (P)
+# a1_errs2       146w         the hardest words from dicts a1_1-a1_11 (P)
 # a1_12           54w         beginner dict (Lessons 16, 17)
 # a1_13           55w         beginner dict (Lessons 19, 23)
 # a1_14           57w         beginner dict (Lessons 21, 26)
@@ -41,6 +42,8 @@ dictprefix=nl
 # a2_24           60w         freq dict core words
 # a2_25           60w         freq dict core words
 # a2_26           74w         freq dict core words
+# a1_lgd_1        99w         L1 from LetsGoDutch A1
+# a1_lgd_2       151w         L2 from LetsGoDutch A1
 
 
 

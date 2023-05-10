@@ -1,0 +1,151 @@
+actief	active
+al	already
+alleen	alone
+alles	everything
+beginnen	to begin, to start
+begrijpen	to understand
+bellen	to call
+bestaan	to exist
+bestellen	to order
+bezoeken	to visit
+blijven	to stay, to remain
+bruin	brown
+dan	then, than
+dankjewel	thank you
+de band hebben met	the to have a connection with
+de familie	the family
+de herfst	the fall, autumm
+de klas	the class
+de kleding	the clothes
+de kleur	the color
+de koffie	the coffee
+de kop	the cup
+de laptop	the laptop
+de lente	the spring
+de leraar	the teacher
+de les	the class, lesson
+de man	the man
+de moeder	the mother
+de muziek	the music
+de schat	the darling
+de schoen	the shoe
+de taal	the language
+de telefoon	the phone
+de uitspraak	the pronunciation
+de vrouw	the woman
+de zee	the sea
+de zomer	the summer
+de zon	the sun
+de zus	the sister
+dinsdag	Tuesday
+donderdag	Thursday
+druk	busy
+eerste	first
+eigen	own
+elkaar	each other
+Engels	English
+fietsen	to cycle
+gaan	to go
+gelukkig	fortunately
+graag	please
+groetjes	regards
+hardlopen	to run
+helaas	unfortunately
+hem	him
+herhalen hoe	to repeat how
+het bedrijf	the company
+het beetje	the little
+het grapje	the joke
+het haar	the hair
+het hart	the heart
+het kind	the child
+het oog	the eye
+het raam	the window
+het uur	the hour
+het vriendinnetje	the girlfriend
+het vriendje	the boyfriend
+hoe laat	what time
+hoe vaak	how often
+hoelang	how long
+huren	to rent
+iets	something
+Italiaans	Italian
+jong	young
+kijken	to look, to watch
+koffie zetten	to make coffee
+kopen	to buy
+krijgen	to get
+lekker	nice, delicious
+leven	to live
+lezen	to read
+liggen	to lie down
+lopen	to walk
+luisteren (naar)	to listen (to)
+maandag	Monday
+makkelijk	easy
+mam	mom
+maximaal	maximum
+mensen	people
+met wie	with whom
+moeilijk	difficult
+moeten	must, should, to have to
+morgen	tomorrow
+Netflixen	to watch Netflix
+nu	now
+of	or
+openen	to open
+pakken	to pack, to get
+praten	to talk
+prima	wonderful
+samen	together
+schrijven	to write
+serieus	serious(ly)
+sinds wanneer	since when
+sociaal	social
+soms	sometimes
+spannend	exciting
+speciaal	special, especially
+spontaan	spontaneous
+spreken	to speak
+staan	to stand
+sturen	to send
+succes	good luck
+thuis	at home
+to think	denken
+trots	proud
+trouw	faithful
+tweehonderdachtentwintig	228
+tweehonderdnegenentwintig	229
+tweehonderdzevenent	227
+vaak	often
+van wie	whose
+vanavond	this evening
+vandaag	today
+verschillend	different
+vertellen	to tell
+voor wie	for whom
+vrijdag	Friday
+vrolijk	happy
+wachten	to wait
+wanneer	when
+waroom	why
+wat	what
+welk	which
+werken	to work
+weten	to know
+wie	who
+willen	to want
+winter	winter
+woensdag	Wednesday
+wonen	to live
+woning	house, place of living
+zaterdag	Saturday
+zeggen	to zay
+zeker	certainly, sure, certain
+zien	to see
+zitten	to sit
+zo meteen	very soon
+zoeken	to look for, to search
+zondag	Sunday
+zwart	black
+zwemmen	to swim
