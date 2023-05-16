@@ -1,60 +1,58 @@
-daarna	afterwards
-verschillend	different
-de partij	party
-de soort	kind of
-sommige	some
-ieder	each
-welk	which
-de foto	photo
-de punt	a) full stop b) item c) point
-raken	to touch, to hit
-het feit	fact
-leven	to live
-de titel	title
-de reden	reason
-slaan	to hit
-afgelopen	last
-volledig	full
-inderdaad	indeed
-half	half
-open	open
-langs	past
-uiteindelijk	final
-de kant	side
-voorbij	past
-zodat	so that
-de politie	police
-het verhaal	story
-het artikel	a) article b) product, object
-zowel	both
-betekenen	to mean
-het gevolg	result
-hangen	to hang
-het plan	plan
+afgelopen	last (2)
+betekenen	to mean (2)
 daarmee	with it
-extra	additional
-pakken	to take
-nadat	after
-ruim	spacious
-voeren	to have, to carry out
-ongeveer	about
-de idee	idea
-de zin	a) sentence b) sense
-hoeven	to need (to)
-de staat	state
-de rest	rest
-steken	a) to stab b) to put
-trouwens	anyway
-stoppen	to stop
-het lid	member
-leveren	to supply
-waarbij	in which
-de vorm	form
-de meter	metre
-de rol	role
-de prijs	price
-reageren	to react
-waarvan	whose
-waarop	on which
+daarna	afterwards
 de dienst	service
+de foto	photo
+de kant	side
+de meter	metre
+de partij	party (political)
+de politie	police
+de prijs	price
+de punt	a) full stop b) item c) point
+de reden	reason
+de rest	rest
+de rol	role
+de soort	kind of
+de staat	state
+de titel	title
+de vorm	form
+de zin	a) sentence b) sense
 ervan	of it
+extra	additional
+half	half
+hangen	to hang
+het artikel	a) article b) product, object
+het feit	fact
+het gevolg	result
+het lid	member
+het plan	plan
+het verhaal	story
+hoeven	to need to do smth. (not required)
+ieder	each (formal)
+inderdaad	indeed
+langs	along, alongside (pred., int the past)
+leven	to live
+leveren	to supply
+nadat	after (2)
+ongeveer	about
+pakken	to paste
+raken	to touch, to hit
+reageren	to react
+ruim	spacious
+slaan	to hit
+sommige	some
+steken	a) to stab b) to put
+stoppen	to stop
+trouwens	moreover, besides, by the way
+uiteindelijk	final (adj.)
+verschillend	different (adj.)
+voeren	to carry out
+volledig	fully, complete
+voorbij	past
+waarbij	in which
+waarop	on which
+waarvan	whose
+welk	which
+zodat	so that
+zowel ... als ...	both ... and ...

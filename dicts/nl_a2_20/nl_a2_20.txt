@@ -1,60 +1,60 @@
-er	there
-wel	(approx.) rather
-toch	yet
-mogen	to be allowed
-weer	again
-de tijd	time
 af	off
-liggen	to lie
-eens	once, (not) even
-zoals	as
-mee	with
-want	because
-toe	towards
-de keer	time, occasion
-volgens	according to
-vooral	especially
-zelfs	even
-stellen	to put
-tijdens	during
-steeds	always
-vorig	previous
+allemaal	all
+bestaan	to exist
+bijvoorbeeld	for example
 blijken	to prove
-toen	then
-weinig	little, few
+bovendien	also
+de groep	group
+de kans	chance
+de keer	occasion, time
+de manier	way
+de tijd	time
+eens	once, (not) even
+eerder	sooner
+eigenlijk	actually
 elkaar	each other
+er	there (pronoun)
+geleden	ago
+graag	gladly, with pleasure
+helemaal	completely
+hen	them
+het aantal	number, quantity
+het deel	part
+het geval	case
 het kind	child
 het leven	life
-bestaan	to exist
-het aantal	number
-het deel	part
-het probleem	problem
-per	by, per
-geleden	ago
-nodig	necessary
-allemaal	all
-helemaal	completely
-men	one, you
-het geval	case
-vanaf	from
-weg	gone
-eigenlijk	actually
-eerder	sooner
+het moment	moment
 het paar	couple
-hen	them
-het moment	time, moment
-de manier	way
-opnieuw	again
-de groep	group
-ver	far
+het probleem	problem
 het stuk	piece
-de kans	chance
-leggen	to put
-waarin	wherein
-vast	fixed, certain
-bijvoorbeeld	for example
-zorgen	to provide
-meteen	immediately
-bovendien	also
-graag	gladly, with pleasure
 hopen	to hope
+leggen	to put (3)
+liggen	to lie
+mee	with, along (adv.)
+men	one, you
+meteen	immediately
+mogen	to be allowed
+nodig	necessary
+opnieuw	again
+per	by, per
+steeds	always
+stellen	to put (4)
+tijdens	during
+toch	yet (2)
+toe	towards
+toen	then (about the past)
+vanaf	from (2)
+vast	fixed, certain
+ver	far
+volgens	according to
+vooral	especially
+vorig	previous
+waarin	wherein
+want	because (2)
+weer	again
+weg	gone, away (adv.)
+weinig	little, few
+wel	(approx.) rather
+zelfs	even
+zoals	as
+zorgen	to provide

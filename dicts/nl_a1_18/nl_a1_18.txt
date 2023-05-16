@@ -5,7 +5,7 @@ bijzonder	special, unusual
 gebruikelijk	common
 dom	stupid
 slim	clever
-druk	busy, crouded
+druk	busy, crowded
 glad	slippery
 beroemd	famous
 lui	lazy
@@ -39,7 +39,7 @@ de maan	the moon
 de ster	the star
 de schaduw	the shadow / shade
 moeten	must / have to / should
-zetten	to put
+zetten	to put (2)
 draaien	to turn
 kosten	to cost
 ruiken	to smell

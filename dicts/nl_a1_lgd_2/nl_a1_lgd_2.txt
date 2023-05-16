@@ -128,7 +128,7 @@ vrijdag	Friday
 vrolijk	happy
 wachten	to wait
 wanneer	when
-waroom	why
+waarom	why
 wat	what
 welk	which
 werken	to work

@@ -33,14 +33,14 @@ doei	bye
 doen	to do
 dom	stupid
 dun	skinny
-erg	very
+erg	very (2)
 gaan	to go
 goedendag	good day
 grappig	funny
 groot	big
 hallo	hello
 hebben	to have
-heel	very
+heel	very (1)
 helpen	to help
 het document	the document
 het formulier	the form (to fill)

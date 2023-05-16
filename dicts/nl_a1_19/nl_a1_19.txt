@@ -17,7 +17,7 @@ het paasei	the Easter egg
 uitnodigen	to invite
 het bezoek	the visit
 Zwarte Piet	Black Pete
-de zak	the bag
+de zak	the bag (big)
 Kerstmis	Christmas
 de kerstboom	the Christmas tree
 de kerstman	Santa Claus

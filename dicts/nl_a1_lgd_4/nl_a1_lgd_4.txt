@@ -24,7 +24,7 @@ de diepvriezer	the freezer
 de douche	the shower
 de eetkamer	the dining room
 de eettafel	the dining table
-de etage	the floor
+de etage	the floor (1)
 de euro	the euro
 de fauteuil	the armchair
 de garage	the garage
@@ -49,7 +49,7 @@ de oven	the oven
 de overeenkomst	the similarity
 de pagina	the page
 de plattegrond	the floor plan
-de plek	the place
+de plek	the place (exact location)
 de reactie	the reaction
 de salontafel	the coffee table
 de slaapkamer	the bedroom
@@ -62,7 +62,7 @@ de tuinstoel	the lawn chair
 de tv	the TV
 de vaatwasmachine	the dishwasher
 de verdeling	the layout
-de verdieping	the floor
+de verdieping	the floor (2)
 de wereld	the world
 de woonkamer	the living room
 de woonplaats	the place of residence
@@ -109,7 +109,7 @@ het schilderij	the painting
 het stadscentrum	the city center
 het strand	the beach
 het toilet	the toilet
-het venster	the window
+het venster	the window (whole)
 het verkeer	the traffic
 het verschil	the difference
 het zwembad	the swimming pool
@@ -152,7 +152,7 @@ tweehonderddrieëndertig	233
 tweehonderdtweeëndertig	232
 tweehonderdvierendertig	234
 uitleggen	to explain
-ver (weg)	far (away)
+ver	far (away)
 verder	further (away)
 verdienen	to earn
 vergelijken	to compare

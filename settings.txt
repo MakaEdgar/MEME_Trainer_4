@@ -1,6 +1,4 @@
 # Choose dictnames to train (use comma for several dicts)
-#dictnames=a1_17, a1_18, a1_19, a2_20, a2_21, a2_22
-#dictnames=a1_lgd_1, a1_lgd_2
 dictnames=a1_lgd_3, a1_lgd_4
 
 
@@ -37,7 +35,7 @@ dictprefix=nl
 # a1_19           54w         beginner dict (Lessons 36, 37)
 # vb              43w         beginner dict (Lesson 22 voetball)
 # a2_20           60w         freq dict core words
-# a2_21           60w         freq dict core words
+# a2_21           58w         freq dict core words
 # a2_22           60w         freq dict core words
 # a2_23           60w         freq dict core words
 # a2_24           60w         freq dict core words
