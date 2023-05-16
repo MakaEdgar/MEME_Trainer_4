@@ -1,0 +1,135 @@
+april	April
+augustus	August
+beantwoorden	to answer (to smth., e.g. jouw vraag)
+bepaald	certain
+bespreken	discuss
+betalen	to pay
+bouwen	to build
+contant betalen	to pay cash
+de aardappel	the potato
+de appel	the apple
+de baby	the baby
+de banaan	the banana
+de begroeting	the greeting
+de bezem	the broom
+de boodschappen	the groceries
+de boodschappenlijst	the grocery list
+de bosui	the spring onion
+de boter	the butter
+de brief	the letter (1)
+de bus	the bus
+de caissière	the cashier
+de champignon	the champignon
+de datum	the date
+de drank	the drink
+de dropmix	the licorice mix
+de feestdagenkalender	the holiday calendar
+de geboortedatum	the date of birth
+de graanproducten	the cereals
+de groente	the vegetable
+de ham	the ham
+de hoeveelheid	the quantity (with units)
+de huurorganisatie	the rental organization
+de informatie	the information
+de kaas	the cheese
+de kipfilet	the chicken fillet
+de klant	the customer
+de klasgenoot	the classmate
+de komkommer	the cucumber
+de letter	the letter (2)
+de melk	the milk
+de melkchocolade	the milk chocolate
+de muur	the wall
+de naam	the name
+de paprika	the sweet pepper
+de paraplu	the umbrella
+de partner	the partner
+de persoon	the person
+de postcode	the ZIP code
+de prijs	the price
+de reep	the bar
+de rol	the roll
+de roos	the rose
+de sla	the lettuce
+de spaarzegel	the savings stamp
+de stad	the city
+de stoel	the chair
+de supermarkt	the supermarket
+de tafel	the table
+de taxi	the taxi
+de tomaat	the tomato
+de vakantie	the vacation
+de verkoper	the salesman
+de vis	the fish
+de vraag	the question
+de vriendin	the girlfriend (2)
+de winkel	the store, shop
+de wortel	the carrot
+de yoghurt	the yogurt
+de zalmfilet	the salmon fillet
+de zoetigheid	the candy
+december	December
+een vraag stellen	to ask a question
+elk	each, every
+februari	February
+fijn	fine, nice, good
+gebruiken	to use
+halfvolle melk	semi-skimmed milk
+heerlijk	delicious (2)
+het antwoord	the answer
+het bakje	the (little) container
+het bericht	the message
+het bosje	the bunch
+het brood	the bread
+het broodje	the sandwich
+het cijfer	the number, digit
+het ei	the egg
+het feest	the party
+het fruit	the fruit
+het huisnummer	the house number
+het internet	the internet
+het kuipje	the tub
+het ontbijt	the breakfast
+het oor	the ear
+het paar	the couple of, several, some
+het plakje	the slice
+het product	the product
+het rundergehakt	the ground beef
+het sap	the juice
+het schip	the ship
+het stuk	the piece
+het tasje	the small handbag
+het telefoonnummer	the phone number
+het toiletpapier	the toilet paper
+het vlees	the meat
+het weekend	the weekend
+het zuivelproduct	the dairy product
+hetzelfde	the same (neutr.)
+hoeven	to need (used in negations)
+januari	January
+jarig zijn	to have a birthday
+juli	July
+juni	June
+kosten	to cost
+lang	long
+later	later
+maart	March
+meestal	usually
+mei	May
+minstens	at least
+mogen	may, to be allowed to
+noteren	to write down
+november	November
+oktober	Oktober
+oma	grandmother
+overig	other
+overslaan	to skip
+perfect	perfect
+pinnen	to pay by debit card
+plaatsen	to place, put (1)
+september	September
+sommige	some
+tweehonderddertig	230
+tweehonderdeenendertig	231
+tweehonderdnegenentwintig	229
+volgens	according to

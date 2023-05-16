@@ -1,0 +1,168 @@
+aan de linkerkant	on the left side
+aan de rechterkant	on the right side
+achter	behind
+bedragen	to amount to
+beide	both
+bekijken	to look at
+beschrijven	to describe
+beslissen	to decide
+bewegen	to move
+bij	at, next to, near
+boven	above
+Chinees	Chinese
+daar	there
+de badkamer	the bathroom
+de bank	the sofa, couch
+de berg	the mountain
+de beslissing	the decision
+de bewoner	the occupant
+de bioscoop	the cinema
+de bloem	the flower
+de borg	the deposit
+de citroen	the lemon
+de diepvriezer	the freezer
+de douche	the shower
+de eetkamer	the dining room
+de eettafel	the dining table
+de etage	the floor
+de euro	the euro
+de fauteuil	the armchair
+de garage	the garage
+de handdoek	the towel
+de horrorfilm	the horror movie
+de huur	the rent
+de huurwoning	the rental house
+de inwoner	the resident
+de kamer	the room
+de keuken	the kitchen
+de keukenkast	the kitchen cupboard
+de kledingkast	the wardrobe
+de koelkast	the refrigerator
+de lamp	the lamp
+de meubels	the furniture
+de mobiele telefoon	the cell phone
+de muziekvideo	the music video
+de nachtlamp	the nightlight
+de natuur	the nature
+de optie	the option
+de oven	the oven
+de overeenkomst	the similarity
+de pagina	the page
+de plattegrond	the floor plan
+de plek	the place
+de reactie	the reaction
+de salontafel	the coffee table
+de slaapkamer	the bedroom
+de spiegel	the mirror
+de tekst	the text
+de thee	the tea
+de thuisbar	the home bar
+de trap	the stairs
+de tuinstoel	the lawn chair
+de tv	the TV
+de vaatwasmachine	the dishwasher
+de verdeling	the layout
+de verdieping	the floor
+de wereld	the world
+de woonkamer	the living room
+de woonplaats	the place of residence
+de zee	the sea
+de zomervakantie	the summer holidays
+derde	third
+dichtbij	close to
+drinken	to drink
+duidelijk	clear(ly)
+dus	so, that
+duur	expensive
+eenmalig	one-time-only
+eerst	first
+eng	scary
+ergens	somewhere
+exclusief	excluding
+gemeubileerd	furnished
+gezond	healthy
+goedkoop	cheap
+groen	green
+grootte	size
+het aantal	the number, quantity
+het advies	the advice
+het appartement	the apartment
+het bad	the bath
+het balkon	the balcony
+het bed	the bed
+het boek	the book
+het centrum	the center
+het deel	the part
+het dorp	the village
+het droomhuis	the dream house
+het eten	the food
+het festival	the festival
+het fornuis	the stove
+het geboorteland	the country of birth
+het gebouw	the building
+het geld	the money
+het idee	the idea
+het karakter	the character
+het midden	the middle
+het nachtkastje	the bedside table
+het schilderij	the painting
+het stadscentrum	the city center
+het strand	the beach
+het toilet	the toilet
+het venster	the window
+het verkeer	the traffic
+het verschil	the difference
+het zwembad	the swimming pool
+hieronder	below
+huidig	current
+iemand	someone
+in	in
+inclusief	including
+kiezen	to choose
+kosten	to cost
+lelijk	ugly
+licht	bright
+links	left
+minder	less
+modern	modern
+mooi	beautiful
+naast	next to
+nieuwsgierig	curious
+onder	under
+ondergronds	underground
+onderstrepen	to underline
+ooit	ever
+op	on
+ouderwets	old-fashioned
+parkeren	to park
+precies	exact(ly)
+raar	strange
+raden	to guess
+rechts	right
+rijk	rich
+rustig	calm(ly)
+starten	to start
+tegen	against
+tegenover	opposite
+tekenen	to draw
+toevoegen	to add
+tussen	between
+tweede	second
+tweehonderddrieëndertig	233
+tweehonderdtweeëndertig	232
+tweehonderdvierendertig	234
+uitleggen	to explain
+ver (weg)	far (away)
+verder	further (away)
+verdienen	to earn
+vergelijken	to compare
+vies	filthy
+volledig	completely, fully
+voor	in front of
+vorige	previous
+wel	certainly
+wintervakantie	winter holidays
+zich bevinden	the to be located
+zouden	would
+zuur	sour
+zwaar	heavy

@@ -137,7 +137,7 @@ wie	who
 willen	to want
 woensdag	Wednesday
 wonen	to live (somewhere)
-woning	house, place of living
+de woning	the house, place of living
 zaterdag	Saturday
 zeggen	to say
 zeker	certainly, sure, certain

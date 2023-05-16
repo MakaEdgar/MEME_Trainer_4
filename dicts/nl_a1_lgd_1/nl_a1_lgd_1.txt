@@ -27,7 +27,7 @@ de slaapkamer	the bedroom
 de tuin	the garden
 de vriend	the friend, boyfriend
 de vrouw	the woman
-de weinig	little, few
+de weinig	the few, little
 dik	fat
 doei	bye
 doen	to do
@@ -43,7 +43,7 @@ hebben	to have
 heel	very
 helpen	to help
 het document	the document
-het formulier	the form
+het formulier	the form (to fill)
 het gesprek	the conversation
 het gezin	the family (1)
 het hoofdstuk	the chapter
@@ -87,8 +87,8 @@ tweehonderdvijfentwintig	225
 tweehonderdzesentwintig	226
 tweehonderdzevenentwintig	227
 u	you (singular, formal)
-uit	from
-uw	your(singular, informal)
+uit	from (1)
+uw	your (singular, formal)
 vandaag	today
 veel	many, much
 vinden	to find
