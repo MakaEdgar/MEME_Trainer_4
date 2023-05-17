@@ -1,5 +1,5 @@
 # Choose dictnames to train (use comma for several dicts)
-dictnames=a1_lgd_3, a1_lgd_4
+dictnames=a2_20, a2_21, a2_22, a1_lgd_1, a1_lgd_2, a1_lgd_3, a1_lgd_4
 
 
 # Set prefix for dictionary (usually two letters of language)
@@ -37,10 +37,10 @@ dictprefix=nl
 # a2_20           60w         freq dict core words
 # a2_21           58w         freq dict core words
 # a2_22           60w         freq dict core words
-# a2_23           60w         freq dict core words
-# a2_24           60w         freq dict core words
-# a2_25           60w         freq dict core words
-# a2_26           74w         freq dict core words
+# a2_23           58w         freq dict core words
+# a2_24           60w         freq dict core words (fix)
+# a2_25           60w         freq dict core words (fix)
+# a2_26           74w         freq dict core words (fix)
 # a1_lgd_1       100w         L1 from LetsGoDutch A1
 # a1_lgd_2       150w         L2 from LetsGoDutch A1
 # a1_lgd_3       135w         L3 from LetsGoDutch A1

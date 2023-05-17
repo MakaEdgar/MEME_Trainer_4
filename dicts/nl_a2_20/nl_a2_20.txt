@@ -3,7 +3,7 @@ allemaal	all
 bestaan	to exist
 bijvoorbeeld	for example
 blijken	to prove
-bovendien	also
+bovendien	also (2)
 de groep	the group
 de kans	the chance
 de keer	the occasion, time
@@ -35,7 +35,7 @@ men	one, you
 meteen	immediately
 mogen	to be allowed
 nodig	necessary
-opnieuw	again
+opnieuw	again (1)
 per	by, per
 steeds	always
 stellen	to put (4)
@@ -51,7 +51,7 @@ vooral	especially
 vorig	previous
 waarin	wherein
 want	because (2)
-weer	again
+weer	again (2)
 weg	gone, away (adv.)
 weinig	little, few
 wel	(approx.) rather

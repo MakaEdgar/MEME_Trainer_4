@@ -159,10 +159,10 @@ vergelijken	to compare
 vies	filthy
 volledig	completely, fully
 voor	in front of
-vorige	previous
-wel	certainly
+vorig	previous
+wel	good, well
 wintervakantie	winter holidays
-zich bevinden	the to be located
+zich bevinden	to be located
 zouden	would
 zuur	sour
 zwaar	heavy
