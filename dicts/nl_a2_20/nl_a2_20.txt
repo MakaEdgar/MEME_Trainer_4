@@ -4,11 +4,11 @@ bestaan	to exist
 bijvoorbeeld	for example
 blijken	to prove
 bovendien	also
-de groep	group
-de kans	chance
-de keer	occasion, time
-de manier	way
-de tijd	time
+de groep	the group
+de kans	the chance
+de keer	the occasion, time
+de manier	the way
+de tijd	the time
 eens	once, (not) even
 eerder	sooner
 eigenlijk	actually
@@ -18,15 +18,15 @@ geleden	ago
 graag	gladly, with pleasure
 helemaal	completely
 hen	them
-het aantal	number, quantity
-het deel	part
-het geval	case
-het kind	child
-het leven	life
-het moment	moment
-het paar	couple
-het probleem	problem
-het stuk	piece
+het aantal	the number, quantity
+het deel	the part
+het geval	the case
+het kind	the child
+het leven	the life
+het moment	the moment
+het paar	the couple
+het probleem	the problem
+het stuk	the piece
 hopen	to hope
 leggen	to put (3)
 liggen	to lie

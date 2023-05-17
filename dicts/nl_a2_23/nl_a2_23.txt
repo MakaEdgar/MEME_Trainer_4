@@ -1,60 +1,58 @@
-liever	rather
-de buurt	neighbourhood
-het slachtoffer	victim
-de reactie	reaction
-het contact	contact
-tegenover	opposite, against
-de kaart	map
-voorlopig	provisional
-de rekening	bill
-breken	to break
-de eeuw	century
-betreffen	to concern
-dicht	closed
-direct	immediate
-melden	to report
-daarvan	thereof, from that
-inmiddels	meanwhile
-lukken	to succeed
-de film	film
-de mogelijkheid	possibility
-het publiek	public
-de informatie	information
-geraken	to get
-overigens	anyway
-Duits	German
-de keuze	choice
-rekenen	to count
-nauwelijks	hardly
-opnemen	to record
-de lijst	list
-officieel	official
-diep	deep
-de hoogte	height
-stijgen	to rise
-kloppen	to knock, to beat
-de stap	step
-blijkbaar	apparently
-de geschiedenis	history
-namelijk	namely
-bewijzen	to prove
-vervolgens	then
-het centrum	centre
-geboren	born
-de politiek	politics
-ondertussen	meanwhile
-de ruimte	space
-durven	to dare
-de band	bond
-overlijden	to die
-schieten	to shoot
-de zomer	summer
-wellicht	possibly, perhaps
-de bedoeling	intention
-voorstellen	to propose
-erop	on it
 absoluut	absolute
-nogal	rather
-vreemd	strange, foreign
-de waarde	value
+betreffen	to concern
 betrekken	to involve
+bewijzen	to prove
+blijkbaar	apparently
+breken	to break
+daarvan	thereof, from that
+de band	the bond
+de bedoeling	the intention
+de buurt	the neighbourhood
+de eeuw	the century
+de film	the film
+de geschiedenis	the history
+de hoogte	the height
+de informatie	the information
+de kaart	the map
+de keuze	the choice
+de lijst	the list
+de mogelijkheid	the possibility
+de politiek	the politics
+de reactie	the reaction
+de rekening	the bill
+de ruimte	the space
+de stap	the step
+de waarde	the value
+dicht	closed
+diep	deep
+Duits	German
+durven	to dare
+erop	on it (adv.)
+geboren	born
+geraken	to get somewhere in time
+het centrum	the centre
+het contact	the contact
+het publiek	the public
+het slachtoffer	the victim
+inmiddels	meanwhile
+kloppen	to knock, to beat
+liever ... dan ...	rather ... than ...
+lukken	to succeed (2)
+melden	to report
+namelijk	namely
+nauwelijks	hardly
+nogal	rather (2)
+officieel	official
+ondertussen	meantime
+opnemen	to record
+overigens	moreover
+overlijden	to die
+rekenen	to count
+schieten	to shoot
+stijgen	to rise
+tegenover	opposite, against
+vervolgens	then, subsequently (adv.)
+voorlopig	provisional
+voorstellen	to propose
+vreemd	strange, foreign
+wellicht	perhaps, maybe (2)
