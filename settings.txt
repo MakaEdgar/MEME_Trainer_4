@@ -45,6 +45,8 @@ dictprefix=nl
 # a1_lgd_2       143w         L2 from LetsGoDutch A1
 # a1_lgd_3       135w         L3 from LetsGoDutch A1
 # a1_lgd_4       168w         L4 from LetsGoDutch A1
+# a1_lgd_5       109w         L5 from LetsGoDutch A1
+# a1_lgd_6       165w         L6 from LetsGoDutch A1
 
 
 

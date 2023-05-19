@@ -1,0 +1,165 @@
+afkoelen	to cool
+afwassen	to do the dishes
+altijd	always
+applicatie	application
+bakken	to bake
+behalve	except (for)
+behulpzaam	helpful
+beklimmen	to climb
+betekenen	to mean
+beter	better
+bevriend zijn	to be friends
+bijles geven	to tutor
+bijna	almost
+binnen	inside
+chagrijnig	grumpy
+chaotisch	chaotic
+creatief	creative
+daarna	afterwards
+dansen	to dance
+de adrenaline	the adrenaline
+de afspraak	the appointment
+de applicatieontwikkelaar	the application developer
+de autogarage	the car garage
+de autotechnologie	the automotive engineering
+de baan	the job
+de bijbaan	the job on the side
+de definitie	the definition
+de dochter	the daughter
+de droom	the dream
+de droombaan	the dream job
+de eigenschap	the characteristic
+de film	the movie
+de gewoonte	the custom
+de hobby	the hobby
+de huishoudelijke taken	the household chores
+de kerel	the guy, dude
+de klant	the customer
+de kok	the cook
+de krant	the newspaper
+de kruiden	the spices
+de kunst	the art
+de kust	the coast
+de lepel	the spoon
+de marketing	the marketing
+de mening	the opinion
+de motor	the motor
+de olie	the oil
+de organisatie	the organization
+de ouder	the parent
+de pan	the pan
+de passie	the passion
+de projectondersteuner	the project assistant
+de psychologie	the psychology
+de school	the school
+de situatie	the situation
+de spaghetti	the spaghetti
+de sportschool	the gym
+de stamppot	the mashed potato and vegetables
+de vrijetijdsbesteding	the leisure activity
+de was doen	to do the laundry
+echt	really
+eigenwijs	stubborn, self-assured
+eindelijk	finally
+energiek	energetic
+enkele	a few
+feesten	to party
+frituren	to fry
+gaar	cooked, done
+geduldig	patient
+gescheiden	divorced
+getrouwd	married
+goh	oh
+haast hebben	to be in a hurry
+het avondeten	the dinner
+het cadeau	the gift
+het café	the cafe, pub
+het concert	the concert
+het feestje	the party (-je)
+het gerecht	the dish
+het ingrediënt	the ingredient
+het innerlijk	the character
+het interview	the interview
+het kookrecept	the cooking recipe
+het magazijn	the warehouse
+het management	the management
+het recept	the recipe
+het spijt me	I am sorry
+het straatfeest	the street party
+het tijdschrift	the magazine
+het toerisme	the tourism
+het vuur	the flame
+het weekend	the weekend
+hopelijk	hopefully
+hun	their
+in de bediening werken	working as a waiter
+koken	to cook
+koud	cold
+lachen	to laugh
+leerzaam	educational
+lekker smaken	to taste good
+lui	lazy
+mengen	to blend, to mix
+Mexico	Mexico
+mopperig	grumpy
+net	just
+ongeduldig	impatient
+onjuist	incorrect, false
+ontspannend	relaxing
+op bezoek gaan	to go visit
+oplossen	to solve
+opruimen	to clean up
+opzoeken	to look up
+organiseren	to organize
+overtuigen	to convince
+overtuigend	convincing
+Polen	Poland
+prachtig	beautiful, wonderful
+reizen	to travel
+roeren	to stir
+saai	boring
+schillen	to peel
+serveren	to serve
+slecht	bad
+slordig	messy
+smeren	to spread
+snijden	to cut with knife
+sporten	to excersise sport
+stampen	to mash
+stap voor stap	step by step
+stil	quiet
+stofzuigen	to vacuum
+strijken	to iron
+studeren	to study
+tenslotte	at last
+toevoegen	to add
+tuineren	to garden
+Turkije	Turkey
+tweehonderdachtendertig	238
+tweehonderdnegenendertig	239
+tweehonderdzevenendertig	237
+typisch	typical
+uitgaan	to go out
+vast	fixed
+vergeten	to forget
+verhitten	to heat
+verlegen	shy
+verliefd zijn	to be in love
+verwarmen	to heat
+voetballen	to play football
+volleyballen	to play volleyball
+vooral	especially
+voorbereiden	to prepare
+vriendelijk	friendly
+wandelen	to walk
+want	because
+weer	again (2)
+wees	to be (imperative)
+weten	to know
+zelfs	even
+zelfstandig	independent
+zich ontspannen	to relax
+zielig	sad
+zoals	such as
+zorgen	to care
+zorgzaam	caring
