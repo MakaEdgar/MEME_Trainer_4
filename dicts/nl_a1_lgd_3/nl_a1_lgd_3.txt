@@ -112,7 +112,7 @@ juli	July
 juni	June
 kosten	to cost
 lang	long
-later	later
+later	later (2)
 maart	March
 meestal	usually
 mei	May

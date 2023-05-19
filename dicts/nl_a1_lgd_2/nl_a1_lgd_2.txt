@@ -24,7 +24,6 @@ de laptop	the laptop
 de lente	the spring
 de leraar	the teacher
 de les	the lesson
-de man	the man
 de moeder	the mother
 de muziek	the music
 de schat	the darling
@@ -32,7 +31,6 @@ de schoen	the shoe
 de taal	the language
 de telefoon	the phone
 de uitspraak	the pronunciation
-de vrouw	the woman
 de winter	the winter
 de zee	the sea
 de zomer	the summer
@@ -47,7 +45,6 @@ eigen	own (adj.)
 elkaar	each other
 Engels	English
 fietsen	to cycle
-gaan	to go
 gelukkig	fortunately, luckily
 graag	gladly, with big please
 groetjes	greetings
@@ -97,9 +94,7 @@ nu	now
 of	or
 openen	to open
 pakken	to pack, to get
-praten	to talk
 prima	wonderful
-samen	together
 schrijven	to write
 serieus	seriously
 sinds wanneer	since when
@@ -120,12 +115,11 @@ tweehonderdnegenentwintig	229
 vaak	often
 van wie	whose
 vanavond	this evening
-vandaag	today
 verschillend	different
 vertellen	to tell
 voor wie	for whom
 vrijdag	Friday
-vrolijk	happy
+vrolijk	happy (2)
 wachten	to wait
 wanneer	when
 waarom	why

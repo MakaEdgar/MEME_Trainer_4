@@ -37,7 +37,7 @@ mogen	to be allowed
 nodig	necessary
 opnieuw	again (1)
 per	by, per
-steeds	always
+steeds	always (2)
 stellen	to put (4)
 tijdens	during
 toch	yet (2)
