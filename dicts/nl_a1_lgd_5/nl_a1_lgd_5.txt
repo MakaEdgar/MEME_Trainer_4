@@ -1,7 +1,7 @@
 afspreken	to make an appointment
-allebei	both
-allemaal	everyone
-alsjeblieft	Please
+allebei	both (2)
+allemaal	everyone (2)
+alsjeblieft	please
 bedankt	thanks
 binnen	within
 bowlen	to bowl
@@ -9,7 +9,7 @@ brengen	to take, to bring
 dat klopt	that's right
 de agenda	the diary
 de barbecue	the barbecue
-de chocomel	the chocolate milk
+de chocomel	the chocolate milk (2)
 de dierenartsenpraktijk	the veterinary clinic
 de fietsenverkoper	the bicycle salesman
 de fietsenwinkel	the bicycle shop
@@ -21,9 +21,9 @@ de rekening	the bill
 de remmen	the brakes
 de stadsfiets	the city bike
 de trein	the train
-de uitleg	the explanation
-de Verenigde Staten	the The United States
-de verklaring	the explanation
+de uitleg	the explanation (2)
+de Verenigde Staten	the United States
+de verklaring	the explanation (1)
 de versnelling	the gear
 de vertraging	the delay
 de voetbalwedstrijd	the soccer match
@@ -37,11 +37,11 @@ elektrisch	electric
 eruitzien	to look
 even	for a moment
 geboren	born
-gedurende	during
+gedurende	during (1)
 gefeliciteerd	congratulations
 geweldig	fantastic
 handig	handy
-heel	very
+heel	very (1)
 helemaal	completely, totally
 het alternatief	the alternative
 het assortiment	the assortment
@@ -61,7 +61,7 @@ het vliegtuig	the plane, aircraft
 het voorbeeld	the example
 het werkfeest	the office party
 horen	to hear
-iedereen	everyone
+iedereen	everyone (1)
 inderdaad	indeed
 internationaal	international
 kamperen	camping
@@ -95,7 +95,7 @@ snappen	to understand (2)
 sportief	sporty
 tevreden	satisfied
 tweedehands	second-hand
-tweehonderdvijvendertig	235
+tweehonderdvijfendertig	235
 tweehonderdzesendertig	236
 uit je hoofd leren	to learn by heart
 uitnodigen	to invite
@@ -104,6 +104,6 @@ verkopen	to sell
 vertrekken	to leave
 vieren	to celebrate
 vliegen	to fly
-warm	hot
+warm	warm
 zo snel mogelijk	as soon as possible
 zullen	will, shall
