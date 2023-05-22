@@ -34,19 +34,19 @@ dictprefix=nl
 # a1_18           50w         beginner dict (Lessons 38, 39)
 # a1_19           54w         beginner dict (Lessons 36, 37)
 # vb              43w         beginner dict (Lesson 22 voetball)
-# a2_20           60w         freq dict core words
-# a2_21           58w         freq dict core words
-# a2_22           60w         freq dict core words
-# a2_23           58w         freq dict core words
-# a2_24           60w         freq dict core words (TODO: fix)
-# a2_25           60w         freq dict core words (TODO: fix)
-# a2_26           74w         freq dict core words (TODO: fix)
+# a2_20           60w         freq 1k dict core words
+# a2_21           58w         freq 1k dict core words
+# a2_22           60w         freq 1k dict core words
+# a2_23           58w         freq 1k dict core words
+# a2_24           60w         freq 1k dict core words
+# a2_25           59w         freq 1k dict core words
+# a2_26           65w         freq 1k dict core words
 # a1_lgd_1       100w         L1 from LetsGoDutch A1
 # a1_lgd_2       143w         L2 from LetsGoDutch A1
 # a1_lgd_3       135w         L3 from LetsGoDutch A1
 # a1_lgd_4       168w         L4 from LetsGoDutch A1
-# a1_lgd_5       109w         L5 from LetsGoDutch A1
-# a1_lgd_6       165w         L6 from LetsGoDutch A1
+# a1_lgd_5       110w         L5 from LetsGoDutch A1
+# a1_lgd_6       164w         L6 from LetsGoDutch A1
 
 
 

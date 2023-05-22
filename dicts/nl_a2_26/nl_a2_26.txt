@@ -1,74 +1,65 @@
-het verband	a) link b) bandage
-voordat	before
-onmogelijk	impossible
-de zon	sun
-fijn	nice
-verdelen	to divide
-tenminste	at least
-behandelen	to treat
-de loop	course
-fout	wrong
-het lied	song
-de beurt	turn
-simpel	simple
-opstellen	to draw up
-waard	worth
-raar	strange
-apart	separate
-het begrip	understanding
-lastig	difficult
-verzamelen	to collect
-eraan	with it
-realiseren	to realize
-de gelegenheid	opportunity
-ineens	suddenly
-lijden	to suffer
-beschrijven	to describe
-herkennen	to recognize
-besteden	to spend
-de dame	lady
-meemaken	to experience
-uitkomen	to come out
-mis	wrong
-ermee	with it
-de verandering	change
-waarvoor	what for
-de radio	radio
-zover	so far
-daarover	about it
-het opzicht	regard
-het plezier	pleasure
 aankomen	to arrive
-de toestand	state
-toevallig	accidental
-het teken	sign
-de maat	size
-oplossen	to solve
-vandaar	hence
-achteraf	afterwards
-het blad	a) journal, magazine b) leaf
-knap	a) good-looking b) smart, clever, able
-prima	excellent
-het type	type
-nadenken	to think
-eruit	out
+achteraf	afterwards (2)
+apart	separate
+behandelen	to treat
+besteden	to spend
+bewaren	to keep
+daarover	about it
+de achtergrond	the background
+de behoefte	the need
+de beurt	the turn
+de dame	the lady
+de figuur	the figure
+de gelegenheid	the opportunity
+de inhoud	the content
+de kosten	the costs
+de loop	the course (direction)
+de maat	the size (2)
+de opmerking	the remark
+de plaat	the a) record b) plate
+de radio	the radio
+de rand	the edge
+de ruzie	the quarrel
+de toestand	the state (2)
+de verandering	the change
+de zon	the sun
+fout	wrong (2)
 gezellig	enjoyable, cosy
 herhalen	to repeat
-twijfelen	to doubt
-de inhoud	content
-de plaat	a) record b) plate
-de kost, kosten	cost(s)
-de behoefte	need
-allebei	both
-bewaren	to keep
-de rand	edge
-de achtergrond	background
+herkennen	to recognize
+het begrip	the understanding
+het blad	the a) journal, magazine b) leaf
+het lied	the song
+het opzicht	the regard
+het plezier	the pleasure
+het teken	the sign
+het type	the type
+het verband	the a) link b) bandage
+ineens	suddenly
+knap	a) good-looking b) smart, clever, able
+lastig	difficult (2)
+lijden	to suffer
+meemaken	to experience
 min	minus
-de opmerking	remark
-de figuur	figure
+mis	wrong (3)
+nadenken	to reflect on, think
+onmogelijk	impossible
+oplossen	to solve
+opstellen	to draw up
 opvallen	to strike, to catch the eye
-de ruzie	quarrel, row
 overkomen	to happen to
-heerlijk	lovely
-bespreken	to discuss
+raar	strange
+realiseren	to realize
+simpel	simple
 tegelijkertijd	at the same time
+tenminste	at least (2)
+toevallig	accidental
+twijfelen	to doubt
+uitkomen	to come out
+vandaar	hence
+verdelen	to divide
+verzamelen	to collect
+voordat	before (2, conj.)
+waard	worth
+waarvoor	what for
+zover	so far

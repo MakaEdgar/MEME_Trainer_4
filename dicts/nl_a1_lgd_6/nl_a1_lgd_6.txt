@@ -1,7 +1,7 @@
 afkoelen	to cool
 afwassen	to do the dishes
 altijd	always
-applicatie	application
+de applicatie	the application
 bakken	to bake
 behalve	except (for)
 behulpzaam	helpful
@@ -12,7 +12,7 @@ bevriend zijn	to be friends
 bijles geven	to tutor
 bijna	almost
 binnen	inside
-chagrijnig	grumpy
+chagrijnig	grumpy (1)
 chaotisch	chaotic
 creatief	creative
 daarna	afterwards
@@ -75,10 +75,10 @@ het avondeten	the dinner
 het cadeau	the gift
 het café	the cafe, pub
 het concert	the concert
-het feestje	the party (-je)
+het feest	the party
 het gerecht	the dish
 het ingrediënt	the ingredient
-het innerlijk	the character
+het innerlijk	the character (2)
 het interview	the interview
 het kookrecept	the cooking recipe
 het magazijn	the warehouse
@@ -101,7 +101,7 @@ lekker smaken	to taste good
 lui	lazy
 mengen	to blend, to mix
 Mexico	Mexico
-mopperig	grumpy
+mopperig	grumpy (2)
 net	just
 ongeduldig	impatient
 onjuist	incorrect, false
@@ -145,17 +145,16 @@ vergeten	to forget
 verhitten	to heat
 verlegen	shy
 verliefd zijn	to be in love
-verwarmen	to heat
+verwarmen	to warm
 voetballen	to play football
 volleyballen	to play volleyball
 vooral	especially
 voorbereiden	to prepare
 vriendelijk	friendly
-wandelen	to walk
-want	because
+wandelen	to go for a walk
+want	because (2)
 weer	again (2)
 wees	to be (imperative)
-weten	to know
 zelfs	even
 zelfstandig	independent
 zich ontspannen	to relax

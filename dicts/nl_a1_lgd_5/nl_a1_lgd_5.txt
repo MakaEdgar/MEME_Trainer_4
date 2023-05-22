@@ -34,7 +34,7 @@ doordeweeks	during the week
 duren	to last, to take
 eindigen	to end
 elektrisch	electric
-eruitzien	to look
+eruitzien	to look (2)
 even	for a moment
 geboren	born
 gedurende	during (1)
@@ -46,7 +46,7 @@ helemaal	completely, totally
 het alternatief	the alternative
 het assortiment	the assortment
 het ding	the thing
-het etentje	the dinner
+het etentje	the meal, dinner
 het hoofd	the head
 het kwartiertje	the quarter of an hour
 het land	the country
@@ -72,7 +72,7 @@ liever	rather
 lijken	to seem, to appear
 lukken	to work, succed
 maandagavond	Monday evening
-minimaal	at least
+minimaal	minimum
 misschien	perhaps
 natuurlijk	of course
 Nederlanders	Dutch people
@@ -80,7 +80,8 @@ niemand	nobody
 omdat	because
 ongeveer	about
 ontdekken	to discover
-onze ons	the our
+onze	the our (de)
+ons	the our (het)
 ophalen	to pick up
 overmorgen	the day after tomorrow
 passend	suitable
