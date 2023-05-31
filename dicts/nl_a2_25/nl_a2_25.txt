@@ -1,4 +1,4 @@
-afsluiten	to close
+afsluiten	to lock
 alweer	again (3)
 bedenken	to think up
 beloven	to promise
@@ -24,7 +24,7 @@ de schuld	the a) debt b) blame
 de sfeer	the atmosphere
 de studie	the study
 de taak	the task (2)
-degelijk	sound (adj.)
+degelijk	sound solid, reliable (adj.)
 doordat	because (3)
 drukken	to print
 eerlijk	honest, fair
@@ -55,5 +55,5 @@ vlak	planar, flat
 vliegen	to fly
 vullen	to fill
 wensen	to wish
-zomaar	simply, easily
+zomaar	simply, easily (adv.)
 zulk	such (3)

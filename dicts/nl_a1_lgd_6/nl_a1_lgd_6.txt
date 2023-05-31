@@ -133,7 +133,7 @@ strijken	to iron
 studeren	to study
 tenslotte	at last
 toevoegen	to add
-tuineren	to garden
+tuinieren	to garden
 Turkije	Turkey
 tweehonderdachtendertig	238
 tweehonderdnegenendertig	239

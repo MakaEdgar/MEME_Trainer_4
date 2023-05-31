@@ -24,7 +24,7 @@ de slag	the blow
 de stand	the a) position b) score
 de top	the top
 de wet	the law
-de wijze	the way
+de wijze	the manner, way of doing smth
 de zorg	the a) care b) worry
 dergelijk	such (adj.)
 dreigen	to threaten
@@ -41,14 +41,14 @@ het verleden	the past
 het voordeel	the advantage
 keren	to turn
 kwijt	lost
-los	loose
+los	loose (adj.)
 menen	to believe, to think
 onderzoeken	to investigate
 onmiddellijk	immediate
 overtuigen	to convince
 regelen	to regulate, to arrange
 regelmatig	regular
-rustig	quiet
+rustig	calm, restful
 sterven	to expire
 tegenwoordig	nowadays
 telkens	each time
