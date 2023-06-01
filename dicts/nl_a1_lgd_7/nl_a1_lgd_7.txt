@@ -1,8 +1,8 @@
 aanvragen	to apply for
-alweer	again
+alweer	again (3)
 anoniem	anonymous
 blauw	blue
-bovenstaand	above
+bovenstaand	above (2)
 daarom	therefore
 de advertentie	the advertisement
 de adviseur	the advisor
@@ -30,11 +30,11 @@ de tuin	the garden
 de tv	the TV
 de vaardigheid	the skill
 de vacature	the job offer, vacancy
-de verhuizing	the move to another living place
+de verhuizing	the relocation
 de website	the website
 de werkervaring	the work experience
 de werkgever	the employer
-de werkkennis	the work knowle ge
+de werkkennis	the work knowledge
 de werkmogelijkheid	the job opportunity
 digitaal	digital
 geel	yellow
@@ -43,7 +43,7 @@ herschrijven	to rewrite
 het adres	the address
 het cv	the resume
 het cv-sjabloon	the resume template
-het doel	the objective
+het doel	the aim, goal
 het huiswerk	the homework
 het kaartnummer	the card number
 het kind	the child
@@ -58,13 +58,13 @@ inchecken	to check in, to register
 instappen	to get in
 invullen	to fill in
 jouw	your (sing. informal)
-jullie	your (pl.)
+jullie	your (pl. informal)
 lopend te voet	to walk by foot
 mijn	my
 naast	next to
 openstaand	open, available (adj.)
 opladen	to load, to charge
-opnemen	to answer the phone
+opnemen de telefoon	to answer the phone
 productief	productive
 regelen	to arrange, to manage
 solliciteren	to apply for a job
@@ -77,7 +77,7 @@ uitstappen	to get off
 uw	your (sing./pl. formal)
 verantwoordelijk	responsible
 verzinnen	to make up
-vrachtwagenchauffeur	truck driver
+de vrachtwagenchauffeur	the truck driver
 wachten	to wait
 zijn	his
 zonder	without
