@@ -1,0 +1,129 @@
+aandoen	to put on
+aangenomen	hired
+aankleden	to get dressed
+aankomen	to arrive
+aantrekken	to put on
+afrekenen	to pay
+bang	afraid
+bewolkt	cloudy
+binnenkomen	to enter
+buiten	outside
+comfortabel	comfortable
+concreet	speciflc
+dat is jammer	that's a pity
+de beschrijving	the description
+de deur	the door
+de emotie	the emotion
+de glimlach	the smile
+de grapjas	the funny one
+de hr-manager	the HR manager
+de kandidaat	the candidate
+de kassa	the cash register
+de koffer	the suitcase
+de minuut	the minute
+de proefperiode	the trial period
+de rekening	the bill
+de serveerster	the waitress
+de slaapkop	the sleepyhead
+de sok	the sock
+de solllcitatieronde	the application round
+de solllcltatle	the Job application
+de stad	the city
+de tas	the bag
+de thee	the tea
+de vertraging	the delay
+de vriend	the friend
+de vruchtenthee	the fruit tea
+de wijn	the wine
+de wind	the wind
+doorgaan	to continue
+doorpraten	to keep talking
+droog	dry
+enorm	really
+enthousiast	enthusiastic
+geachte	dear
+gebeurd	happened
+gedaan	done
+gedronken	drunk
+gegaan	gone
+gekozen	chosen
+geloven	believed
+gelukt	succeeded
+geweest	been
+gewinkeld	shopped
+gezwommen	swam
+hartelijk dank	thank you very much
+heer	Mr.
+heet	hot
+het biertje	the beer
+het grapje	the joke
+het reisbureau	the travel agency
+het sollicltatiegesprek	the job interview
+het station	the station
+het tijdstip	the time of day
+het verschil	the difference
+het vriendje	the boyfriend
+hopen	to hope
+indien	if
+inpakken	to pack
+interessant	interesting
+klikken	to click
+lunchen	to have lunch
+meegaan	to come along
+meenemen	to take, to bring
+met vriendelijke groeten	best regards
+mistig	foggy
+morgenavond	tomorrow evening
+munt	mint
+nadenken	to think about, to consider
+nat	wet
+normaal	normal
+nou	well
+oef	whew (used to express relief)
+omkleden	to change, to put other clothes on
+onweren	to storm
+opbellen	to call
+opeten	to eat
+opschrijven	write down
+opstaan	to get up
+overstappen	to change, to transfer
+proost	cheers
+regenachtig	rainy
+regenen	to rain
+s ochtends	in the morning
+scheidbaar	separable
+schijnen	to shine
+slapen	to sleep
+sneeuwen	to snow
+Spaans	Spanish
+stoppen	to stop
+terugschrijven	to write back
+toch	so
+totdat	until
+trakteren	to treat
+tweehonderddrieënveertig	243
+tweehonderdvierenveertig	244
+uitnodigen	to invite
+uitpakken	to unpack
+uitslapen	sleep in
+vanwege	because of
+veel plezier	have fun
+verbaasd	surprised
+verdrietig	sad
+verrast	surprised
+verslapen	to oversleep
+vertalen	to translate
+verveeld	bored
+vriezen	to freeze
+waaien	to blow
+wakker	awake
+weggaan	to leave
+weggooien	to throw away
+welterusten	good night
+wennen	to get used to
+wensen	to wish
+wijd	wide
+winderig	windy
+zenuwachtig	nervous
+zich voorstellen	to introduce oneself
+zonnig	sunny

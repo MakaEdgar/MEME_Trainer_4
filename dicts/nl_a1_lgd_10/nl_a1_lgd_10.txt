@@ -1,0 +1,118 @@
+alsof	as if
+beterschap	get well soon
+de apotheek	the pharmacy
+de baas	the boss
+de borst	the chest
+de boterham	the sandwich
+de buik	the stomach
+de dokter	the doctor
+de druppel	the drop
+de elleboog	the elbow
+de file	the traffic jam
+de gember	the ginger
+de glimlach	the smile
+de griep	the ftu
+de hoofdpijn	the headache
+de huid	the skin
+de huisarts	the doctor, GP
+de huisartsassistente	the doctor's assistant
+de keelmedicijnen	the medicines fora sore throat
+de keelpijn	the sore throat
+de klacht	the complaint
+de knie	the knee
+de koorts	the fever
+de levensstijl	the lifestyle
+de lichaamsonderdelen	the body parts
+de lippen	the lips
+de loopneus	the runny nose
+de mond	the mouth
+de nek	the neck
+de neus	the nose
+de paracetamol	the acetamlnophen
+de patiënt	the patient
+de pijn	the pain
+de pil	the pill
+de rug	the back
+de schouder	the shoulder
+de specialist	the specialist
+de spier	the muscle
+de spierpijn	the muscular pain
+de spoedeisende hulp	the emergency care
+de tablet	the tablet
+de tand	the tooth
+de tandarts	the dentist
+de teen	the toe
+de temperatuur	the temperature
+de tong	the tongue
+de uitslag	the rash
+de verwijsbrief	the doctor's referral (letter)
+de vinger	the fmger
+de vitamine	the vitamin
+de wang	the cheek
+de wenkbrauw	the eyebrow
+de zalf	the ointment
+de ziekte	the disease
+dichtdoen	to close
+draaierig	dizzy
+dringend	urgent
+drinken	to drink
+duizelig	dizzy
+eerder	earlier
+eerste hulp	first aid
+ernstig	serieus
+eten	to eat
+gebruiken	to use
+geven	to give
+gezond	healthy
+gezwollen	swollen
+het been	the leg
+het dutje	the nap
+het geneesmiddel	the medicine
+het gevoel	the feeling
+het lawaai	the noise
+het lichaam	the body
+het oog	the ear
+het oor	the eye
+het recept	the prescription
+het voorwerp	the object
+het weer	the weather
+het ziekenhuis	the hospital
+hoesten	to cough
+hoeven	to need
+hoog	high
+informeren	to inform
+kunnen	can, to be able to
+lenen	to borrow
+mijn neus is verstopt	I have a stuffy nose
+misselijk	nauseous
+moeten	must . should. to have to
+mogen	may. to be allowed to
+nooit	never
+ongepland	unplanned
+ongezond	unhealthy
+overgeven	to vomit, to throw up
+roken	to smoke
+rusten	to rest
+slaperig	sleepy
+tweehonderdvijfenveertig	245
+tweehonderdzesenveertig	246
+uitstekend	excellent
+verkouden zijn	to have a cold
+weer	again
+willen	to want
+zich aanmelden	to subscribe
+zich afmelden	to unsubscribe
+zich afvragen	to wonder
+zich ergeren	to be irri tated
+zich herinneren	to remember
+zich inschrijven	to subscribe
+zich schamen	to be ashamed
+zich scheren	to shave
+zich uitschrijven	to unsubscribe
+zich vervelen	to be bored
+zich voelen	to feel
+zich wassen	to wash yourself
+ziek	ill
+zingen	to sing
+zullen	will/ shall
+zwaar	heavy
