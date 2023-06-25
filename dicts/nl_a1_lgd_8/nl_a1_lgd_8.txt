@@ -1,7 +1,8 @@
 aanbevelen	to recommend
-aandoen	to put on
+aandoen	to put on smth around the body (sweater, suit)
+aanhebben	to have smth on you
 aankleden	to get dressed
-aantrekken	to put on
+aantrekken	to pull on to you with pulling motion (pants, socks)
 arm	poor
 atletisch	athletic
 best klein	quite small
@@ -19,7 +20,7 @@ de broek	the pants
 de dochter	the daughter
 de dorst	the thirst
 de echtgenote	the wife
-de familie	the family
+de familie	the family (all relatives)
 de gracht	the canal
 de hamburger	the hamburger
 de handschoen	the glove
@@ -49,15 +50,15 @@ de riem	the belt
 de rok	the skirt
 de rondvaart	the cruise
 de rugzak	the backpack
-de schoonmoeder	the mother- in- law
-de schoonvader	the father- in - law
-de schoonzus	the sister- in- law
+de schoonmoeder	the mother-in-law
+de schoonvader	the father-in-law
+de schoonzus	the sister-in-law
 de sfeer	the atmosphere
 de sjaal	the scarf
 de sok	the soek
 de spijkerbroek	the jeans
 de sportschoen	the sneaker
-de st amboom	the family tree
+de stamboom	the family tree
 de straat	the street
 de stropdas	the tie
 de tante	the aunt
@@ -77,18 +78,18 @@ dragen	to wear
 drukte	bustle
 dun	thin
 elegant	elegant
-eruitzien	to look
+eruitzien	to look (2)
 favoriet	favorite
 grijs	gray
 groen	green
 het achterkleinkind	the great-grandchild
 het familielid	the family member
 het familieverhaal	the family story
-het gezin	the family
-het hemd	the shirt
+het gezin	the family (hus+wife+children)
+het hemd	the undershirt
 het horloge	the watch
 het kleinkind	the grandchild
-het muurtje	the wall
+de muur	the wall
 het nadeel	the disadvantage
 het ondergoed	the underwear
 het overhemd	the shirt
@@ -98,7 +99,7 @@ het T-shirt	the T-shirt
 het uiterlijk	the appearance
 het vest	the cardigan
 het vliegveld	the airport
-het zusje	the sister
+de zus	the sister
 het zwempak	the bathing suit
 houden van	to love
 huilen	to cry
@@ -110,21 +111,21 @@ lawaai	noise
 leuk vinden	to like
 missen	to miss
 moeten	must, should, to have to
-omkleden	to change, to put other clothes on
+omkleden	to change clothes
 praten	to talk
 rood	red
 smal	narrow
 Spanje	Spain
-steeds	always
-stevig	heavy
+steeds	always (2)
+stevig	firm, solid
 stijlvol	styllsh
-stilte	sllence
+stilte	silence
 tennissen	to play tennis
 tweehonderdeenenveertig	241
 tweehonderdtweeënveertig	242
-uitdoen	to take off, to turn off
+uitdoen	to take off smth that is around part of your body (sweater, suit). 
 uitkleden	to undress
-uittrekken	to take off
+uittrekken	to take off smth with (un)pulling motion (pants, socks)
 verloofd	engaged
 vrouwelijk	feminine
 werkloos	unemployed

@@ -1,9 +1,6 @@
-aandoen	to put on
 aangenomen	hired
-aankleden	to get dressed
 aankomen	to arrive
-aantrekken	to put on
-afrekenen	to pay
+afrekenen	to pay (2)
 bang	afraid
 bewolkt	cloudy
 binnenkomen	to enter
@@ -26,8 +23,8 @@ de rekening	the bill
 de serveerster	the waitress
 de slaapkop	the sleepyhead
 de sok	the sock
-de solllcitatieronde	the application round
-de solllcltatle	the Job application
+de sollicitatieronde	the application round
+de sollicitatie	the Job application
 de stad	the city
 de tas	the bag
 de thee	the tea
@@ -39,7 +36,7 @@ de wind	the wind
 doorgaan	to continue
 doorpraten	to keep talking
 droog	dry
-enorm	really
+enorm	huge, vast
 enthousiast	enthusiastic
 geachte	dear
 gebeurd	happened
@@ -58,19 +55,20 @@ heet	hot
 het biertje	the beer
 het grapje	the joke
 het reisbureau	the travel agency
-het sollicltatiegesprek	the job interview
+het sollicitatiegesprek	the job interview
 het station	the station
 het tijdstip	the time of day
 het verschil	the difference
 het vriendje	the boyfriend
 hopen	to hope
-indien	if
-inpakken	to pack
+indien	if (formal)
+inpakken	to pack (for a trip)
 interessant	interesting
 klikken	to click
 lunchen	to have lunch
 meegaan	to come along
-meenemen	to take, to bring
+nemen	to take smth in hand
+meenemen	to take, bring smth with you
 met vriendelijke groeten	best regards
 mistig	foggy
 morgenavond	tomorrow evening
@@ -82,11 +80,11 @@ nou	well
 oef	whew (used to express relief)
 omkleden	to change, to put other clothes on
 onweren	to storm
-opbellen	to call
-opeten	to eat
+opbellen	to call on the phone
+opeten	to finish eating something
 opschrijven	write down
 opstaan	to get up
-overstappen	to change, to transfer
+overstappen	to change the transpost, transfer
 proost	cheers
 regenachtig	rainy
 regenen	to rain
@@ -98,9 +96,9 @@ sneeuwen	to snow
 Spaans	Spanish
 stoppen	to stop
 terugschrijven	to write back
-toch	so
-totdat	until
-trakteren	to treat
+toch	so, yet
+totdat	until (2)
+trakteren	to treat (with food)
 tweehonderddrieënveertig	243
 tweehonderdvierenveertig	244
 uitnodigen	to invite
@@ -108,7 +106,7 @@ uitpakken	to unpack
 uitslapen	sleep in
 vanwege	because of
 veel plezier	have fun
-verbaasd	surprised
+verbaasd	amazed
 verdrietig	sad
 verrast	surprised
 verslapen	to oversleep
@@ -119,7 +117,7 @@ waaien	to blow
 wakker	awake
 weggaan	to leave
 weggooien	to throw away
-welterusten	good night
+welterusten	Good night!
 wennen	to get used to
 wensen	to wish
 wijd	wide
