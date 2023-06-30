@@ -3,7 +3,7 @@ beterschap	get well soon
 de apotheek	the pharmacy
 de baas	the boss
 de borst	the chest
-de boterham	the sandwich
+de boterham	the sandwich (2)
 de buik	the stomach
 de dokter	the doctor
 de druppel	the drop
@@ -11,7 +11,7 @@ de elleboog	the elbow
 de file	the traffic jam
 de gember	the ginger
 de glimlach	the smile
-de griep	the ftu
+de griep	the flu
 de hoofdpijn	the headache
 de huid	the skin
 de huisarts	the doctor, GP
@@ -28,7 +28,7 @@ de loopneus	the runny nose
 de mond	the mouth
 de nek	the neck
 de neus	the nose
-de paracetamol	the acetamlnophen
+de paracetamol	the acetaminophen
 de patiënt	the patient
 de pijn	the pain
 de pil	the pill
@@ -53,13 +53,13 @@ de wenkbrauw	the eyebrow
 de zalf	the ointment
 de ziekte	the disease
 dichtdoen	to close
-draaierig	dizzy
+draaierig	dizzy (2)
 dringend	urgent
 drinken	to drink
 duizelig	dizzy
 eerder	earlier
 eerste hulp	first aid
-ernstig	serieus
+ernstig	serious (2)
 eten	to eat
 gebruiken	to use
 geven	to give
@@ -71,22 +71,22 @@ het geneesmiddel	the medicine
 het gevoel	the feeling
 het lawaai	the noise
 het lichaam	the body
-het oog	the ear
-het oor	the eye
+het oog	the eye
+het oor	the ear
 het recept	the prescription
 het voorwerp	the object
 het weer	the weather
 het ziekenhuis	the hospital
 hoesten	to cough
-hoeven	to need
+hoeven	to need (used only in negations)
 hoog	high
 informeren	to inform
 kunnen	can, to be able to
 lenen	to borrow
 mijn neus is verstopt	I have a stuffy nose
 misselijk	nauseous
-moeten	must . should. to have to
-mogen	may. to be allowed to
+moeten	must, should, to have to
+mogen	may, to be allowed to
 nooit	never
 ongepland	unplanned
 ongezond	unhealthy
@@ -114,5 +114,5 @@ zich voelen	to feel
 zich wassen	to wash yourself
 ziek	ill
 zingen	to sing
-zullen	will/ shall
+zullen	will, shall
 zwaar	heavy

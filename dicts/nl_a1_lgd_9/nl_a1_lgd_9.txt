@@ -52,7 +52,7 @@ gezwommen	swam
 hartelijk dank	thank you very much
 heer	Mr.
 heet	hot
-het biertje	the beer
+het bier	the beer
 het grapje	the joke
 het reisbureau	the travel agency
 het sollicitatiegesprek	the job interview
@@ -103,7 +103,7 @@ tweehonderddrieënveertig	243
 tweehonderdvierenveertig	244
 uitnodigen	to invite
 uitpakken	to unpack
-uitslapen	sleep in
+uitslapen	to sleep more than usual
 vanwege	because of
 veel plezier	have fun
 verbaasd	amazed
