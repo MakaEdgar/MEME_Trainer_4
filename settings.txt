@@ -1,5 +1,5 @@
 # Choose dictnames to train (use comma for several dicts)
-dictnames=a1_lgd_9, a1_lgd_10
+dictnames=a1_lgd_10, a1_lgd_11_12
 
 # Set prefix for dictionary (usually two letters of language)
 dictprefix=nl
@@ -50,7 +50,7 @@ dictprefix=nl
 # a1_lgd_8       135w         L8 from LetsGoDutch A1
 # a1_lgd_9       127w         L9 from LetsGoDutch A1
 # a1_lgd_10      118w         L10 from LetsGoDutch A1
-# a1_lgd_11-12    68w         L11 and L12 from LetsGoDutch A1
+# a1_lgd_11_12    70w         L11&12 from LetsGoDutch A1
 
 
 ###########################################

@@ -1,50 +1,50 @@
-nat	wet
-droog	dry
 algemeen	general
-bijzonder	special, unusual
-gebruikelijk	common
-dom	stupid
-slim	clever
-druk	busy, crowded
-glad	slippery
 beroemd	famous
-lui	lazy
-stil	quiet
-verschrikkelijk	terrible
-voorzichtig	careful
-sterk	strong
-zwak	weak
-eenzaam	lonely
+bijzonder	special, unusual
 compleet	complete
-wakker	awake
-meest	most
-noord	north
-oost	east
-zuid	south
-west	west
-veilig	safe
-gevaarlijk	dangerous
-het leger	the army
+de aanval	the attack
+de krant	the newspaper
+de maan	the moon
+de markt	the market
 de oefening	the exercise
 de oorlog	the war
-de aanval	the attack
-het bloed	the blood
-dood	dead
-het nieuws	the news
-de krant	the newspaper
-de vlag	the flag
-de toekomst	the future
-het einde	the end
-de maan	the moon
-de ster	the star
 de schaduw	the shadow / shade
-moeten	must / have to / should
-zetten	to put (2)
+de ster	the star
+de toekomst	the future
+de vlag	the flag
+dom	stupid
+dood	dead
 draaien	to turn
-kosten	to cost
-ruiken	to smell
-leiden	to lead
-het dak	the roof
+droog	dry
+druk	busy, crowded
+eenzaam	lonely
+gebruikelijk	common
+gevaarlijk	dangerous
+glad	slippery
 heet	hot
-de markt	the market
+het bloed	the blood
+het dak	the roof
+het einde	the end
 het geld	the money
+het leger	the army
+het nieuws	the news
+kosten	to cost
+leiden	to lead
+lui	lazy
+meest	most
+moeten	must / have to / should
+nat	wet
+noord	north
+oost	east
+ruiken	to smell
+slim	clever
+sterk	strong
+stil	quiet
+veilig	safe
+verschrikkelijk	terrible
+voorzichtig	careful
+wakker	awake
+west	west
+zetten	to put vertically
+zuid	south
+zwak	weak

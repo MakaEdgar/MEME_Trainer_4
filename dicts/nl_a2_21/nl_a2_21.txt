@@ -28,7 +28,7 @@ het gevolg	the result
 het lid	the member
 het plan	the plan
 het verhaal	the story
-hoeven	to need to do smth. (not required)
+hoeven	to need (used in negations)
 ieder	each (formal)
 inderdaad	indeed
 langs	along, alongside (pred., int the past)
@@ -42,7 +42,7 @@ reageren	to react
 ruim	spacious
 slaan	to hit
 sommige	some
-steken	a) to stab b) to put
+steken	a) to stab b) to put (6, in general, used in Be)
 stoppen	to stop
 trouwens	moreover, besides, by the way
 uiteindelijk	final (adj.)

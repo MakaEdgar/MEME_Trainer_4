@@ -28,7 +28,7 @@ het paar	the couple
 het probleem	the problem
 het stuk	the piece
 hopen	to hope
-leggen	to put (3)
+leggen	to put horizontally (2)
 liggen	to lie
 mee	with, along (adv.)
 men	one, you
@@ -38,7 +38,7 @@ nodig	necessary
 opnieuw	again (1)
 per	by, per
 steeds	always (2)
-stellen	to put (4)
+stellen	to put (5, currently used very rare)
 tijdens	during
 toch	yet (2)
 toe	towards
